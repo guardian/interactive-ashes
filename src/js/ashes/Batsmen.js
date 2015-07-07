@@ -100,7 +100,7 @@ function Batsmen(data,options) {
 				//console.log(player.id,d.key)
 				return player.id==d.key;
 			});
-			//console.log("FOUND",player)
+			//console.log("FOUND",player,d)
 			return +player.dates[1] >= + options.from && +player.dates[0] <= + options.to
 		})
 		.sort(function(a,b) {

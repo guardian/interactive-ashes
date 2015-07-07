@@ -1,1289 +1,46 @@
 Bat1,Bat2,Runs,BF,SR,4s,6s,Opposition,Ground,StartDate,Player
-18,1,19,,,,,England,Brisbane,30 Nov 1928,bradman
-79,112,191,,,,,England,Melbourne,29 Dec 1928,bradman
-40,58,98,,,,,England,Adelaide,1 Feb 1929,bradman
-123,37*,160,,,,,England,Melbourne,8 Mar 1929,bradman
-8,131,139,,,,,England,Nottingham,13 Jun 1930,bradman
-254,1,255,,,,,England,Lord's,27 Jun 1930,bradman
-334,-,334,,,,,England,Leeds,11 Jul 1930,bradman
-14,-,14,,,,,England,Manchester,25 Jul 1930,bradman
-232,-,232,,,,,England,The Oval,16 Aug 1930,bradman
-4,DNB,4,,,,,West Indies,Adelaide,12 Dec 1930,bradman
-25,-,25,,,,,West Indies,Sydney,1 Jan 1931,bradman
-223,-,223,,,,,West Indies,Brisbane,16 Jan 1931,bradman
-152,-,152,,,,,West Indies,Melbourne,13 Feb 1931,bradman
-43,0,43,,,,,West Indies,Sydney,27 Feb 1931,bradman
-226,-,226,,,,,South Africa,Brisbane,27 Nov 1931,bradman
-112,-,112,,,,,South Africa,Sydney,18 Dec 1931,bradman
-2,167,169,,,,,South Africa,Melbourne,31 Dec 1931,bradman
-299*,DNB,299,,,,,South Africa,Adelaide,29 Jan 1932,bradman
-absent,-,-,,,,,South Africa,Melbourne,12 Feb 1932,bradman
-0,103*,103,,,,,England,Melbourne,30 Dec 1932,bradman
-8,66,74,,,,,England,Adelaide,13 Jan 1933,bradman
-76,24,100,,,,,England,Brisbane,10 Feb 1933,bradman
-48,71,119,,,,,England,Sydney,23 Feb 1933,bradman
-29,25,54,,,,,England,Nottingham,8 Jun 1934,bradman
-36,13,49,,,,,England,Lord's,22 Jun 1934,bradman
-30,DNB,30,,,,,England,Manchester,6 Jul 1934,bradman
-304,-,304,,,,,England,Leeds,20 Jul 1934,bradman
-244,77,321,,,,,England,The Oval,18 Aug 1934,bradman
-38,0,38,,,,,England,Brisbane,4 Dec 1936,bradman
-0,82,82,,,,,England,Sydney,18 Dec 1936,bradman
-13,270,283,,,,,England,Melbourne,1 Jan 1937,bradman
-26,212,238,,,,,England,Adelaide,29 Jan 1937,bradman
-169,-,169,,,,,England,Melbourne,26 Feb 1937,bradman
-51,144*,195,,,,,England,Nottingham,10 Jun 1938,bradman
-18,102*,120,,,,,England,Lord's,24 Jun 1938,bradman
-103,16,119,,,,,England,Leeds,22 Jul 1938,bradman
-absent,absent,-,,,,,England,The Oval,20 Aug 1938,bradman
-187,-,187,,,,,England,Brisbane,29 Nov 1946,bradman
-234,-,234,,,,,England,Sydney,13 Dec 1946,bradman
-79,49,128,,,,,England,Melbourne,1 Jan 1947,bradman
-0,56*,56,,,,,England,Adelaide,31 Jan 1947,bradman
-12,63,75,,,,,England,Sydney,28 Feb 1947,bradman
-185,-,185,,,,,India,Brisbane,28 Nov 1947,bradman
-13,-,13,,,,,India,Sydney,12 Dec 1947,bradman
-132,127*,259,,,,,India,Melbourne,1 Jan 1948,bradman
-201,-,201,,,,,India,Adelaide,23 Jan 1948,bradman
-57*,-,57,,,,,India,Melbourne,6 Feb 1948,bradman
-138,0,138,,,,,England,Nottingham,10 Jun 1948,bradman
-38,89,127,,,,,England,Lord's,24 Jun 1948,bradman
-7,30*,37,,,,,England,Manchester,8 Jul 1948,bradman
-33,173*,206,,,,,England,Leeds,22 Jul 1948,bradman
-0,-,0,,,,,England,The Oval,14 Aug 1948,bradman
-83,28,111,,,,,Australia,Melbourne,1 Jan 1908,hobbs
-26,23*,49,,,,,Australia,Adelaide,10 Jan 1908,hobbs
-57,0,57,,,,,Australia,Melbourne,7 Feb 1908,hobbs
-72,13,85,,,,,Australia,Sydney,21 Feb 1908,hobbs
-0,62*,62,,,,,Australia,Birmingham,27 May 1909,hobbs
-19,9,28,,,,,Australia,Lord's,14 Jun 1909,hobbs
-12,30,42,,,,,Australia,Leeds,1 Jul 1909,hobbs
-89,35,124,,,,,South Africa,Johannesburg,1 Jan 1910,hobbs
-53,70,123,,,,,South Africa,Durban,21 Jan 1910,hobbs
-11,93*,104,,,,,South Africa,Johannesburg,26 Feb 1910,hobbs
-1,0,1,,,,,South Africa,Cape Town,7 Mar 1910,hobbs
-187,DNB,187,,,,,South Africa,Cape Town,11 Mar 1910,hobbs
-63,22,85,,,,,Australia,Sydney,15 Dec 1911,hobbs
-6,126*,132,,,,,Australia,Melbourne,30 Dec 1911,hobbs
-187,3,190,,,,,Australia,Adelaide,12 Jan 1912,hobbs
-178,-,178,,,,,Australia,Melbourne,9 Feb 1912,hobbs
-32,45,77,,,,,Australia,Sydney,23 Feb 1912,hobbs
-4,-,4,,,,,South Africa,Lord's,10 Jun 1912,hobbs
-107,-,107,,,,,Australia,Lord's,24 Jun 1912,hobbs
-27,55,82,,,,,South Africa,Leeds,8 Jul 1912,hobbs
-19,-,19,,,,,Australia,Manchester,29 Jul 1912,hobbs
-68,9*,77,,,,,South Africa,The Oval,12 Aug 1912,hobbs
-66,32,98,,,,,Australia,The Oval,19 Aug 1912,hobbs
-82,-,82,,,,,South Africa,Durban,13 Dec 1913,hobbs
-23,-,23,,,,,South Africa,Johannesburg,26 Dec 1913,hobbs
-92,41,133,,,,,South Africa,Johannesburg,1 Jan 1914,hobbs
-64,97,161,,,,,South Africa,Durban,14 Feb 1914,hobbs
-33,11*,44,,,,,South Africa,Port Elizabeth,27 Feb 1914,hobbs
-49,59,108,,,,,Australia,Sydney,17 Dec 1920,hobbs
-122,20,142,,,,,Australia,Melbourne,31 Dec 1920,hobbs
-18,123,141,,,,,Australia,Adelaide,14 Jan 1921,hobbs
-27,13,40,,,,,Australia,Melbourne,11 Feb 1921,hobbs
-40,34,74,,,,,Australia,Sydney,25 Feb 1921,hobbs
-absent,absent,-,,,,,Australia,Leeds,2 Jul 1921,hobbs
-76,-,76,,,,,South Africa,Birmingham,14 Jun 1924,hobbs
-211,-,211,,,,,South Africa,Lord's,28 Jun 1924,hobbs
-31,7,38,,,,,South Africa,Leeds,12 Jul 1924,hobbs
-30,-,30,,,,,South Africa,The Oval,16 Aug 1924,hobbs
-115,57,172,,,,,Australia,Sydney,19 Dec 1924,hobbs
-154,22,176,,,,,Australia,Melbourne,1 Jan 1925,hobbs
-119,27,146,,,,,Australia,Adelaide,16 Jan 1925,hobbs
-66,-,66,,,,,Australia,Melbourne,13 Feb 1925,hobbs
-0,13,13,,,,,Australia,Sydney,27 Feb 1925,hobbs
-19*,-,19,,,,,Australia,Nottingham,12 Jun 1926,hobbs
-119,-,119,,,,,Australia,Lord's,26 Jun 1926,hobbs
-49,88,137,,,,,Australia,Leeds,10 Jul 1926,hobbs
-74,-,74,,,,,Australia,Manchester,24 Jul 1926,hobbs
-37,100,137,,,,,Australia,The Oval,14 Aug 1926,hobbs
-53,-,53,,,,,West Indies,Manchester,21 Jul 1928,hobbs
-159,-,159,,,,,West Indies,The Oval,11 Aug 1928,hobbs
-49,11,60,,,,,Australia,Brisbane,30 Nov 1928,hobbs
-40,DNB,40,,,,,Australia,Sydney,14 Dec 1928,hobbs
-20,49,69,,,,,Australia,Melbourne,29 Dec 1928,hobbs
-74,1,75,,,,,Australia,Adelaide,1 Feb 1929,hobbs
-142,65,207,,,,,Australia,Melbourne,8 Mar 1929,hobbs
-10,52,62,,,,,South Africa,The Oval,17 Aug 1929,hobbs
-78,74,152,,,,,Australia,Nottingham,13 Jun 1930,hobbs
-1,19,20,,,,,Australia,Lord's,27 Jun 1930,hobbs
-29,13,42,,,,,Australia,Leeds,11 Jul 1930,hobbs
-31,-,31,,,,,Australia,Manchester,25 Jul 1930,hobbs
-47,9,56,,,,,Australia,The Oval,16 Aug 1930,hobbs
-29,0,29,4,0,,,England,Melbourne,29 Dec 1978,border
-60*,45*,105,13,0,,,England,Sydney,6 Jan 1979,border
-11,1,12,1,0,,,England,Adelaide,27 Jan 1979,border
-20,105,125,10,0,,,Pakistan,Melbourne,10 Mar 1979,border
-85,66*,151,11,0,,,Pakistan,Perth,24 Mar 1979,border
-162,50,212,32,1,,,India,Chennai,11 Sep 1979,border
-44,19,63,5,0,,,India,Bangalore,19 Sep 1979,border
-24,8,32,4,0,,,India,Kanpur,2 Oct 1979,border
-24,46,70,7,0,,,India,Delhi,13 Oct 1979,border
-54,6,60,8,0,,,India,Kolkata,26 Oct 1979,border
-23,61,84,9,1,,,India,Mumbai,3 Nov 1979,border
-1,7,8,0,0,,,West Indies,Brisbane,1 Dec 1979,border
-4,115,119,13,0,,,England,Perth,14 Dec 1979,border
-17,15,32,3,0,,,West Indies,Melbourne,29 Dec 1979,border
-15,2*,17,0,0,,,England,Sydney,4 Jan 1980,border
-54,24,78,9,0,,,West Indies,Adelaide,26 Jan 1980,border
-63,DNB,63,6,0,,,England,Melbourne,1 Feb 1980,border
-30,58*,88,7,0,,,Pakistan,Karachi,27 Feb 1980,border
-4,-,4,0,0,,,Pakistan,Faisalabad,6 Mar 1980,border
-150*,153,303,31,7,,,Pakistan,Lahore,18 Mar 1980,border
-56*,21*,77,8,2,,,England,Lord's,28 Aug 1980,border
-36,DNB,36,6,0,,,New Zealand,Brisbane,28 Nov 1980,border
-10,DNB,10,2,0,,,New Zealand,Perth,12 Dec 1980,border
-45,9,54,5,0,,,New Zealand,Melbourne,26 Dec 1980,border
-31,-,31,5,0,,,India,Sydney,2 Jan 1981,border
-57,7,64,7,0,,,India,Adelaide,23 Jan 1981,border
-124,9,133,13,0,,,India,Melbourne,7 Feb 1981,border
-63,20,83,9,0,,,England,Nottingham,18 Jun 1981,border
-64,12*,76,9,1,,,England,Lord's,2 Jul 1981,border
-8,0,8,1,0,,,England,Leeds,16 Jul 1981,border
-2,40,42,4,0,,,England,Birmingham,30 Jul 1981,border
-11,123*,134,18,0,,,England,Manchester,13 Aug 1981,border
-106*,84,190,21,0,,,England,The Oval,27 Aug 1981,border
-3,37,40,3,0,,,Pakistan,Perth,13 Nov 1981,border
-36,DNB,36,3,0,,,Pakistan,Brisbane,27 Nov 1981,border
-7,1,8,1,0,,,Pakistan,Melbourne,11 Dec 1981,border
-4,66,70,2,0,,,West Indies,Melbourne,26 Dec 1981,border
-53*,9,62,5,0,,,West Indies,Sydney,2 Jan 1982,border
-78,126,204,14,0,,,West Indies,Adelaide,30 Jan 1982,border
-DNB,-,-,-,-,,,New Zealand,Wellington,26 Feb 1982,border
-0,38,38,7,0,,,New Zealand,Auckland,12 Mar 1982,border
-6,DNB,6,1,0,,,New Zealand,Christchurch,19 Mar 1982,border
-55*,8,63,8,0,,,Pakistan,Karachi,22 Sep 1982,border
-9,31,40,4,0,,,Pakistan,Faisalabad,30 Sep 1982,border
-9,6,15,1,0,,,Pakistan,Lahore,14 Oct 1982,border
-8,32*,40,5,0,,,England,Perth,12 Nov 1982,border
-0,15,15,2,0,,,England,Brisbane,26 Nov 1982,border
-26,DNB,26,1,1,,,England,Adelaide,10 Dec 1982,border
-2,62*,64,7,0,,,England,Melbourne,26 Dec 1982,border
-89,83,172,21,0,,,England,Sydney,2 Jan 1983,border
-47*,-,47,2,0,,,Sri Lanka,Kandy,22 Apr 1983,border
-32,-,32,5,0,,,Pakistan,Perth,11 Nov 1983,border
-118,-,118,10,0,,,Pakistan,Brisbane,25 Nov 1983,border
-117*,66,183,21,0,,,Pakistan,Adelaide,9 Dec 1983,border
-32,-,32,6,0,,,Pakistan,Melbourne,26 Dec 1983,border
-64,DNB,64,7,0,,,Pakistan,Sydney,2 Jan 1984,border
-5,54,59,6,0,,,West Indies,Georgetown,2 Mar 1984,border
-98*,100*,198,14,0,,,West Indies,Port of Spain,16 Mar 1984,border
-38,8,46,6,0,,,West Indies,Bridgetown,30 Mar 1984,border
-98,19,117,14,0,,,West Indies,St John's,7 Apr 1984,border
-41,60*,101,10,1,,,West Indies,Kingston,28 Apr 1984,border
-15,6,21,0,0,,,West Indies,Perth,9 Nov 1984,border
-17,24,41,5,0,,,West Indies,Brisbane,23 Nov 1984,border
-21,18,39,3,0,,,West Indies,Adelaide,7 Dec 1984,border
-35,41,76,8,0,,,West Indies,Melbourne,22 Dec 1984,border
-69,-,69,4,0,,,West Indies,Sydney,30 Dec 1984,border
-32,8,40,5,0,,,England,Leeds,13 Jun 1985,border
-196,41*,237,28,0,,,England,Lord's,27 Jun 1985,border
-23,-,23,2,1,,,England,Nottingham,11 Jul 1985,border
-8,146*,154,14,0,,,England,Manchester,1 Aug 1985,border
-45,2,47,5,0,,,England,Birmingham,15 Aug 1985,border
-38,58,96,11,0,,,England,The Oval,29 Aug 1985,border
-1,152*,153,20,2,,,New Zealand,Brisbane,8 Nov 1985,border
-20,11,31,3,0,,,New Zealand,Sydney,22 Nov 1985,border
-12,83,95,4,1,,,New Zealand,Perth,30 Nov 1985,border
-49,DNB,49,7,0,,,India,Adelaide,13 Dec 1985,border
-11,163,174,17,1,,,India,Melbourne,26 Dec 1985,border
-71,4,75,5,0,,,India,Sydney,2 Jan 1986,border
-13,-,13,0,0,,,New Zealand,Wellington,21 Feb 1986,border
-140,114*,254,25,1,,,New Zealand,Christchurch,28 Feb 1986,border
-17,6,23,3,0,,,New Zealand,Auckland,13 Mar 1986,border
-106,27,133,18,1,,,India,Chennai,18 Sep 1986,border
-DNB,-,-,-,-,,,India,Delhi,26 Sep 1986,border
-46,66*,112,14,0,,,India,Mumbai,15 Oct 1986,border
-7,23,30,2,0,,,England,Brisbane,14 Nov 1986,border
-125,16,141,20,0,,,England,Perth,28 Nov 1986,border
-70,100*,170,18,0,,,England,Adelaide,12 Dec 1986,border
-15,34,49,6,0,,,England,Melbourne,26 Dec 1986,border
-34,49,83,11,0,,,England,Sydney,10 Jan 1987,border
-9,DNB,9,1,0,,,New Zealand,Brisbane,4 Dec 1987,border
-205,-,205,20,0,,,New Zealand,Adelaide,11 Dec 1987,border
-31,43,74,9,0,,,New Zealand,Melbourne,26 Dec 1987,border
-2,48*,50,1,0,,,England,Sydney,29 Jan 1988,border
-88,-,88,7,0,,,Sri Lanka,Perth,12 Feb 1988,border
-4,18,22,3,0,,,Pakistan,Karachi,15 Sep 1988,border
-113*,DNB,113,13,0,,,Pakistan,Faisalabad,23 Sep 1988,border
-75,20,95,12,0,,,Pakistan,Lahore,7 Oct 1988,border
-4,41,45,6,0,,,West Indies,Brisbane,18 Nov 1988,border
-6,26,32,3,0,,,West Indies,Perth,2 Dec 1988,border
-0,20,20,0,0,,,West Indies,Melbourne,24 Dec 1988,border
-75,16*,91,7,0,,,West Indies,Sydney,26 Jan 1989,border
-64,6*,70,5,0,,,West Indies,Adelaide,3 Feb 1989,border
-66,60*,126,17,1,,,England,Leeds,8 Jun 1989,border
-35,1,36,5,0,,,England,Lord's,22 Jun 1989,border
-8,DNB,8,1,0,,,England,Birmingham,6 Jul 1989,border
-80,DNB,80,10,0,,,England,Manchester,27 Jul 1989,border
-65*,-,65,7,0,,,England,Nottingham,10 Aug 1989,border
-76,51*,127,16,0,,,England,The Oval,24 Aug 1989,border
-50,-,50,5,0,,,New Zealand,Perth,24 Nov 1989,border
-56,DNB,56,5,0,,,Sri Lanka,Brisbane,8 Dec 1989,border
-24,85,109,7,0,,,Sri Lanka,Hobart,16 Dec 1989,border
-24,62*,86,6,0,,,Pakistan,Melbourne,12 Jan 1990,border
-13,8,21,1,0,,,Pakistan,Adelaide,19 Jan 1990,border
-27*,-,27,2,1,,,Pakistan,Sydney,3 Feb 1990,border
-1,78*,79,7,0,,,New Zealand,Wellington,15 Mar 1990,border
-9,DNB,9,1,0,,,England,Brisbane,23 Nov 1990,border
-62,DNB,62,5,0,,,England,Melbourne,26 Dec 1990,border
-78,20,98,13,0,,,England,Sydney,4 Jan 1991,border
-12,83*,95,6,0,,,England,Adelaide,25 Jan 1991,border
-17,DNB,17,3,0,,,England,Perth,1 Feb 1991,border
-31,-,31,4,0,,,West Indies,Kingston,1 Mar 1991,border
-47,34,81,7,0,,,West Indies,Georgetown,23 Mar 1991,border
-43,27*,70,3,0,,,West Indies,Port of Spain,5 Apr 1991,border
-29,0,29,4,0,,,West Indies,Bridgetown,19 Apr 1991,border
-59,5,64,8,0,,,West Indies,St John's,27 Apr 1991,border
-28,DNB,28,0,2,,,India,Brisbane,29 Nov 1991,border
-0,5*,5,0,0,,,India,Melbourne,26 Dec 1991,border
-19,53*,72,4,0,,,India,Sydney,2 Jan 1992,border
-0,91*,91,4,1,,,India,Adelaide,25 Jan 1992,border
-59,20*,79,12,0,,,India,Perth,1 Feb 1992,border
-3,15,18,1,0,,,Sri Lanka,Colombo (SSC),17 Aug 1992,border
-13,28,41,1,1,,,Sri Lanka,Colombo (RPS),28 Aug 1992,border
-106,78,184,26,0,,,Sri Lanka,Moratuwa,8 Sep 1992,border
-73,17,90,13,0,,,West Indies,Brisbane,27 Nov 1992,border
-110,4,114,5,1,,,West Indies,Melbourne,26 Dec 1992,border
-74,DNB,74,5,0,,,West Indies,Sydney,2 Jan 1993,border
-19,1,20,2,0,,,West Indies,Adelaide,23 Jan 1993,border
-0,0,0,0,0,,,West Indies,Perth,30 Jan 1993,border
-88,-,88,13,0,,,New Zealand,Christchurch,25 Feb 1993,border
-30,-,30,5,0,,,New Zealand,Wellington,4 Mar 1993,border
-0,71,71,9,0,,,New Zealand,Auckland,12 Mar 1993,border
-17,31,48,2,0,,,England,Manchester,3 Jun 1993,border
-77,-,77,12,0,,,England,Lord's,17 Jun 1993,border
-38,2,40,7,0,,,England,Nottingham,1 Jul 1993,border
-200*,-,200,26,0,,,England,Leeds,22 Jul 1993,border
-3,DNB,3,0,0,,,England,Birmingham,5 Aug 1993,border
-48,17,65,7,0,,,England,The Oval,19 Aug 1993,border
-16,DNB,16,1,0,,,New Zealand,Perth,12 Nov 1993,border
-60,-,60,9,0,,,New Zealand,Hobart,26 Nov 1993,border
-105,-,105,15,0,,,New Zealand,Brisbane,3 Dec 1993,border
-2,-,2,0,0,,,South Africa,Melbourne,26 Dec 1993,border
-49,7,56,4,0,,,South Africa,Sydney,2 Jan 1994,border
-84,4,88,3,0,,,South Africa,Adelaide,28 Jan 1994,border
-34,14,48,7,0,,,South Africa,Johannesburg,4 Mar 1994,border
-45,DNB,45,5,0,,,South Africa,Cape Town,17 Mar 1994,border
-17,42*,59,8,0,,,South Africa,Durban,25 Mar 1994,border
-13,5,18,52,34.61,3,0,India,Melbourne,26 Dec 1985,waugh
-8,0,8,58,13.79,1,0,India,Sydney,2 Jan 1986,waugh
-11,-,11,48,22.91,1,0,New Zealand,Wellington,21 Feb 1986,waugh
-74,1,75,182,41.2,5,0,New Zealand,Christchurch,28 Feb 1986,waugh
-1,0,1,7,14.28,0,0,New Zealand,Auckland,13 Mar 1986,waugh
-12*,2*,14,55,25.45,0,0,India,Chennai,18 Sep 1986,waugh
-39*,-,39,78,50,3,0,India,Delhi,26 Sep 1986,waugh
-6,DNB,6,12,50,1,0,India,Mumbai,15 Oct 1986,waugh
-0,28,28,46,60.86,3,0,England,Brisbane,14 Nov 1986,waugh
-71,DNB,71,111,63.96,4,1,England,Perth,28 Nov 1986,waugh
-79*,DNB,79,117,67.52,10,0,England,Adelaide,12 Dec 1986,waugh
-10,49,59,133,44.36,3,0,England,Melbourne,26 Dec 1986,waugh
-0,73,73,173,42.19,5,0,England,Sydney,10 Jan 1987,waugh
-21,DNB,21,83,25.3,3,0,New Zealand,Brisbane,4 Dec 1987,waugh
-61,-,61,174,35.05,6,0,New Zealand,Adelaide,11 Dec 1987,waugh
-55,10,65,122,53.27,9,0,New Zealand,Melbourne,26 Dec 1987,waugh
-27,DNB,27,85,31.76,2,0,England,Sydney,29 Jan 1988,waugh
-20,-,20,54,37.03,2,0,Sri Lanka,Perth,12 Feb 1988,waugh
-0,13,13,76,17.1,2,0,Pakistan,Karachi,15 Sep 1988,waugh
-1,19,20,39,51.28,4,0,Pakistan,Faisalabad,23 Sep 1988,waugh
-59,DNB,59,121,48.76,5,0,Pakistan,Lahore,7 Oct 1988,waugh
-4,90,94,190,49.47,9,0,West Indies,Brisbane,18 Nov 1988,waugh
-91,26,117,190,61.57,15,1,West Indies,Perth,2 Dec 1988,waugh
-42,3,45,119,37.81,1,0,West Indies,Melbourne,24 Dec 1988,waugh
-55*,DNB,55,120,45.83,3,0,West Indies,Sydney,26 Jan 1989,waugh
-12,8,20,59,33.89,2,0,West Indies,Adelaide,3 Feb 1989,waugh
-177*,DNB,177,242,73.14,24,0,England,Leeds,8 Jun 1989,waugh
-152*,21*,173,289,59.86,19,0,England,Lord's,22 Jun 1989,waugh
-43,DNB,43,54,79.62,6,0,England,Birmingham,6 Jul 1989,waugh
-92,DNB,92,174,52.87,7,0,England,Manchester,27 Jul 1989,waugh
-0,-,0,8,0,0,0,England,Nottingham,10 Aug 1989,waugh
-14,7*,21,40,52.5,1,0,England,The Oval,24 Aug 1989,waugh
-17,-,17,48,35.41,1,0,New Zealand,Perth,24 Nov 1989,waugh
-60,57,117,246,47.56,8,0,Sri Lanka,Brisbane,8 Dec 1989,waugh
-16,134*,150,201,74.62,17,0,Sri Lanka,Hobart,16 Dec 1989,waugh
-20,3,23,38,60.52,2,0,Pakistan,Melbourne,12 Jan 1990,waugh
-17,4,21,85,24.7,1,0,Pakistan,Adelaide,19 Jan 1990,waugh
-DNB,-,-,-,-,-,-,Pakistan,Sydney,3 Feb 1990,waugh
-25,25,50,137,36.49,6,0,New Zealand,Wellington,15 Mar 1990,waugh
-1,DNB,1,4,25,0,0,England,Brisbane,23 Nov 1990,waugh
-19,DNB,19,47,40.42,2,0,England,Melbourne,26 Dec 1990,waugh
-48,14,62,89,69.66,10,0,England,Sydney,4 Jan 1991,waugh
-26,DNB,26,54,48.14,2,0,West Indies,Port of Spain,5 Apr 1991,waugh
-2,4*,6,16,37.5,0,0,West Indies,Bridgetown,19 Apr 1991,waugh
-10,20,30,88,34.09,1,0,West Indies,Brisbane,27 Nov 1992,waugh
-38,1,39,81,48.14,2,0,West Indies,Melbourne,26 Dec 1992,waugh
-100,DNB,100,207,48.3,5,0,West Indies,Sydney,2 Jan 1993,waugh
-42,4,46,89,51.68,5,0,West Indies,Adelaide,23 Jan 1993,waugh
-13,0,13,40,32.5,2,0,West Indies,Perth,30 Jan 1993,waugh
-62,-,62,125,49.6,7,0,New Zealand,Christchurch,25 Feb 1993,waugh
-75,-,75,149,50.33,9,0,New Zealand,Wellington,4 Mar 1993,waugh
-41,0,41,83,49.39,7,0,New Zealand,Auckland,12 Mar 1993,waugh
-3,78*,81,153,52.94,8,0,England,Manchester,3 Jun 1993,waugh
-13*,-,13,32,40.62,1,0,England,Lord's,17 Jun 1993,waugh
-13,47*,60,173,34.68,6,0,England,Nottingham,1 Jul 1993,waugh
-157*,-,157,305,51.47,19,0,England,Leeds,22 Jul 1993,waugh
-59,DNB,59,175,33.71,6,0,England,Birmingham,5 Aug 1993,waugh
-20,26,46,117,39.31,6,0,England,The Oval,19 Aug 1993,waugh
-44,DNB,44,100,44,4,0,New Zealand,Perth,12 Nov 1993,waugh
-25*,-,25,48,52.08,0,0,New Zealand,Hobart,26 Nov 1993,waugh
-147*,-,147,281,52.31,15,0,New Zealand,Brisbane,3 Dec 1993,waugh
-164,1,165,284,58.09,19,0,South Africa,Adelaide,28 Jan 1994,waugh
-45*,0,45,83,54.21,6,0,South Africa,Johannesburg,4 Mar 1994,waugh
-86,DNB,86,164,52.43,14,0,South Africa,Cape Town,17 Mar 1994,waugh
-64,DNB,64,150,42.66,9,0,South Africa,Durban,25 Mar 1994,waugh
-73,0,73,86,84.88,13,0,Pakistan,Karachi,28 Sep 1994,waugh
-98,DNB,98,188,52.12,10,0,Pakistan,Rawalpindi,5 Oct 1994,waugh
-19,7,26,51,50.98,4,0,England,Brisbane,25 Nov 1994,waugh
-94*,26*,120,264,45.45,5,0,England,Melbourne,24 Dec 1994,waugh
-1,0,1,16,6.25,0,0,England,Sydney,1 Jan 1995,waugh
-19,0,19,34,55.88,2,0,England,Adelaide,26 Jan 1995,waugh
-99*,80,179,324,55.24,21,0,England,Perth,3 Feb 1995,waugh
-65,DNB,65,81,80.24,8,0,West Indies,Bridgetown,31 Mar 1995,waugh
-15,65*,80,187,42.78,6,1,West Indies,St John's,8 Apr 1995,waugh
-63*,21,84,120,70,9,0,West Indies,Port of Spain,21 Apr 1995,waugh
-200,-,200,425,47.05,17,1,West Indies,Kingston,29 Apr 1995,waugh
-112*,-,112,275,40.72,7,0,Pakistan,Brisbane,9 Nov 1995,waugh
-7,29,36,120,30,0,0,Pakistan,Hobart,17 Nov 1995,waugh
-38,14,52,130,40,5,0,Pakistan,Sydney,30 Nov 1995,waugh
-131*,DNB,131,252,51.98,11,0,Sri Lanka,Melbourne,26 Dec 1995,waugh
-170,61*,231,445,51.91,18,0,Sri Lanka,Adelaide,25 Jan 1996,waugh
-0,67*,67,226,29.64,5,0,India,Delhi,10 Oct 1996,waugh
-66,DNB,66,184,35.86,3,0,West Indies,Brisbane,22 Nov 1996,waugh
-58,37,95,218,43.57,6,0,West Indies,Melbourne,26 Dec 1996,waugh
-26,-,26,62,41.93,3,0,West Indies,Adelaide,25 Jan 1997,waugh
-1,0,1,26,3.84,0,0,West Indies,Perth,1 Feb 1997,waugh
-160,-,160,366,43.71,22,0,South Africa,Johannesburg,28 Feb 1997,waugh
-8,18,26,103,25.24,2,0,South Africa,Port Elizabeth,14 Mar 1997,waugh
-67,60*,127,311,40.83,17,0,South Africa,Centurion,21 Mar 1997,waugh
-12,33,45,120,37.5,6,0,England,Birmingham,5 Jun 1997,waugh
-0,-,0,1,0,0,0,England,Lord's,19 Jun 1997,waugh
-108,116,224,445,50.33,23,0,England,Manchester,3 Jul 1997,waugh
-4,-,4,12,33.33,0,0,England,Leeds,24 Jul 1997,waugh
-75,14,89,127,70.07,15,0,England,Nottingham,7 Aug 1997,waugh
-22,6,28,53,52.83,2,0,England,The Oval,21 Aug 1997,waugh
-2,23,25,67,37.31,3,0,New Zealand,Brisbane,7 Nov 1997,waugh
-96,-,96,161,59.62,10,0,New Zealand,Perth,20 Nov 1997,waugh
-7,2*,9,29,31.03,0,0,New Zealand,Hobart,27 Nov 1997,waugh
-96,17,113,215,52.55,11,0,South Africa,Melbourne,26 Dec 1997,waugh
-85,-,85,199,42.71,9,0,South Africa,Sydney,2 Jan 1998,waugh
-6,34,40,101,39.6,7,0,South Africa,Adelaide,30 Jan 1998,waugh
-12,27,39,88,44.31,5,0,India,Chennai,6 Mar 1998,waugh
-80,33,113,313,36.1,18,0,India,Kolkata,18 Mar 1998,waugh
-157,-,157,325,48.3,15,1,Pakistan,Rawalpindi,1 Oct 1998,waugh
-1,49*,50,126,39.68,4,0,Pakistan,Peshawar,15 Oct 1998,waugh
-0,28,28,62,45.16,3,0,Pakistan,Karachi,22 Oct 1998,waugh
-112,16*,128,263,48.66,13,0,England,Brisbane,20 Nov 1998,waugh
-33,15*,48,90,53.33,8,0,England,Perth,28 Nov 1998,waugh
-59,7,66,131,50.38,4,1,England,Adelaide,11 Dec 1998,waugh
-122*,30*,152,247,61.53,15,0,England,Melbourne,26 Dec 1998,waugh
-96,8,104,199,52.26,10,0,England,Sydney,2 Jan 1999,waugh
-14,0,14,48,29.16,1,0,West Indies,Port of Spain,5 Mar 1999,waugh
-100,9,109,173,63,13,1,West Indies,Kingston,13 Mar 1999,waugh
-199,11,210,408,51.47,20,2,West Indies,Bridgetown,26 Mar 1999,waugh
-72*,4,76,193,39.37,6,0,West Indies,St John's,3 Apr 1999,waugh
-19,absent,19,35,54.28,3,0,Sri Lanka,Kandy,9 Sep 1999,waugh
-19,-,19,49,38.77,2,0,Sri Lanka,Galle,22 Sep 1999,waugh
-14,-,14,69,20.28,0,0,Sri Lanka,Colombo (SSC),30 Sep 1999,waugh
-151*,DNB,151,351,43.01,18,0,Zimbabwe,Harare,14 Oct 1999,waugh
-1,DNB,1,13,7.69,0,0,Pakistan,Brisbane,5 Nov 1999,waugh
-24,28,52,114,45.61,2,0,Pakistan,Hobart,18 Nov 1999,waugh
-5,-,5,8,62.5,1,0,Pakistan,Perth,26 Nov 1999,waugh
-150,5,155,346,44.79,17,0,India,Adelaide,10 Dec 1999,waugh
-32,32,64,109,58.71,4,0,India,Melbourne,26 Dec 1999,waugh
-57,-,57,124,45.96,9,0,India,Sydney,2 Jan 2000,waugh
-17,10,27,50,54,3,1,New Zealand,Auckland,11 Mar 2000,waugh
-151*,15,166,334,49.7,26,0,New Zealand,Wellington,24 Mar 2000,waugh
-3,18*,21,37,56.75,3,0,New Zealand,Hamilton,31 Mar 2000,waugh
-41,-,41,94,43.61,3,0,West Indies,Brisbane,23 Nov 2000,waugh
-26,-,26,51,50.98,4,0,West Indies,Perth,1 Dec 2000,waugh
-121*,20,141,279,50.53,16,0,West Indies,Melbourne,26 Dec 2000,waugh
-103,38,141,314,44.9,12,1,West Indies,Sydney,2 Jan 2001,waugh
-15,DNB,15,17,88.23,3,0,India,Mumbai,27 Feb 2001,waugh
-110,24,134,261,51.34,15,1,India,Kolkata,11 Mar 2001,waugh
-47,47,94,275,34.18,9,1,India,Chennai,18 Mar 2001,waugh
-105,-,105,181,58.01,13,0,England,Birmingham,5 Jul 2001,waugh
-45,DNB,45,97,46.39,7,0,England,Lord's,19 Jul 2001,waugh
-13,1*,14,31,45.16,2,0,England,Nottingham,2 Aug 2001,waugh
-157*,-,157,256,61.32,21,1,England,The Oval,23 Aug 2001,waugh
-3,DNB,3,24,12.5,0,0,New Zealand,Brisbane,8 Nov 2001,waugh
-0,-,0,18,0,0,0,New Zealand,Hobart,22 Nov 2001,waugh
-8,67,75,170,44.11,9,0,New Zealand,Perth,30 Nov 2001,waugh
-8,13,21,54,38.88,3,0,South Africa,Adelaide,14 Dec 2001,waugh
-90,DNB,90,156,57.69,12,0,South Africa,Melbourne,26 Dec 2001,waugh
-30,DNB,30,64,46.87,3,0,South Africa,Sydney,2 Jan 2002,waugh
-32,-,32,98,32.65,5,0,South Africa,Johannesburg,22 Feb 2002,waugh
-0,14,14,36,38.88,3,0,South Africa,Cape Town,8 Mar 2002,waugh
-7,42,49,102,48.03,5,0,South Africa,Durban,15 Mar 2002,waugh
-31,0,31,58,53.44,2,1,Pakistan,Colombo (PSS),3 Oct 2002,waugh
-0,-,0,1,0,0,0,Pakistan,Sharjah,11 Oct 2002,waugh
-103*,-,103,191,53.92,13,2,Pakistan,Sharjah,19 Oct 2002,waugh
-7,12,19,79,24.05,0,0,England,Brisbane,7 Nov 2002,waugh
-34,-,34,40,85,2,0,England,Adelaide,21 Nov 2002,waugh
-53,-,53,89,59.55,10,0,England,Perth,29 Nov 2002,waugh
-77,14,91,142,64.08,17,0,England,Melbourne,26 Dec 2002,waugh
-102,6,108,146,73.97,19,0,England,Sydney,2 Jan 2003,waugh
-25,DNB,25,55,45.45,1,1,West Indies,Georgetown,10 Apr 2003,waugh
-DNB,DNB,-,-,-,-,-,West Indies,Port of Spain,19 Apr 2003,waugh
-115,DNB,115,233,49.35,8,0,West Indies,Bridgetown,1 May 2003,waugh
-41,45*,86,147,58.5,8,0,West Indies,St John's,9 May 2003,waugh
-100*,-,100,133,75.18,10,1,Bangladesh,Darwin,18 Jul 2003,waugh
-156*,-,156,291,53.6,17,0,Bangladesh,Cairns,25 Jul 2003,waugh
-78,-,78,124,62.9,10,1,Zimbabwe,Perth,9 Oct 2003,waugh
-61,DNB,61,98,62.24,9,0,Zimbabwe,Sydney,17 Oct 2003,waugh
-0,56*,56,106,52.83,7,0,India,Brisbane,4 Dec 2003,waugh
-30,42,72,118,61.01,13,0,India,Adelaide,12 Dec 2003,waugh
-19,DNB,19,69,27.53,1,0,India,Melbourne,26 Dec 2003,waugh
-40,80,120,231,51.94,21,0,India,Sydney,2 Jan 2004,waugh
-58,-,58,102,56.86,9,0,Pakistan,Birmingham,1 Jun 1978,gower
-56,-,56,76,73.68,9,0,Pakistan,Lord's,15 Jun 1978,gower
-39,-,39,99,39.39,6,0,Pakistan,Leeds,29 Jun 1978,gower
-111,11,122,276,44.2,14,0,New Zealand,The Oval,27 Jul 1978,gower
-46,-,46,132,34.84,3,0,New Zealand,Nottingham,10 Aug 1978,gower
-71,46,117,200,58.5,13,1,New Zealand,Lord's,24 Aug 1978,gower
-44,48*,92,180,51.11,9,0,Australia,Brisbane,1 Dec 1978,gower
-102,12,114,268,42.53,9,0,Australia,Perth,15 Dec 1978,gower
-29,49,78,176,44.31,7,0,Australia,Melbourne,29 Dec 1978,gower
-7,34,41,78,52.56,3,0,Australia,Sydney,6 Jan 1979,gower
-9,21,30,67,44.77,4,0,Australia,Adelaide,27 Jan 1979,gower
-65,DNB,65,111,58.55,6,0,Australia,Sydney,10 Feb 1979,gower
-200*,-,200,279,71.68,24,0,India,Birmingham,12 Jul 1979,gower
-82,-,82,94,87.23,10,2,India,Lord's,2 Aug 1979,gower
-0,-,0,6,0,0,0,India,Leeds,16 Aug 1979,gower
-0,7,7,28,25,0,0,India,The Oval,30 Aug 1979,gower
-17,23,40,68,58.82,5,0,Australia,Perth,14 Dec 1979,gower
-3,98*,101,144,70.13,13,0,Australia,Sydney,4 Jan 1980,gower
-0,11,11,33,33.33,1,0,Australia,Melbourne,1 Feb 1980,gower
-16,DNB,16,53,30.18,3,0,India,Mumbai,15 Feb 1980,gower
-20,1,21,55,38.18,2,0,West Indies,Nottingham,5 Jun 1980,gower
-45,35,80,163,49.07,11,0,Australia,Lord's,28 Aug 1980,gower
-48,27,75,243,30.86,8,0,West Indies,Port of Spain,13 Feb 1981,gower
-17,54,71,149,47.65,9,0,West Indies,Bridgetown,13 Mar 1981,gower
-32,22,54,187,28.87,7,0,West Indies,St John's,27 Mar 1981,gower
-22,154*,176,445,39.55,19,1,West Indies,Kingston,10 Apr 1981,gower
-26,28,54,111,48.64,7,0,Australia,Nottingham,18 Jun 1981,gower
-27,89,116,293,39.59,15,1,Australia,Lord's,2 Jul 1981,gower
-24,9,33,72,45.83,4,0,Australia,Leeds,16 Jul 1981,gower
-0,23,23,69,33.33,2,0,Australia,Birmingham,30 Jul 1981,gower
-23,1,24,70,34.28,3,0,Australia,Manchester,13 Aug 1981,gower
-5,20,25,36,69.44,5,0,India,Mumbai,27 Nov 1981,gower
-82,34*,116,265,43.77,17,0,India,Bangalore,9 Dec 1981,gower
-0,DNB,0,3,0,0,0,India,Delhi,23 Dec 1981,gower
-11,74,85,198,42.92,7,0,India,Kolkata,1 Jan 1982,gower
-64,-,64,161,39.75,9,0,India,Chennai,13 Jan 1982,gower
-85,-,85,186,45.69,7,0,India,Kanpur,30 Jan 1982,gower
-89,42*,131,277,47.29,18,1,Sri Lanka,Colombo (PSS),17 Feb 1982,gower
-37,14*,51,113,45.13,2,0,India,Lord's,10 Jun 1982,gower
-9,-,9,21,42.85,0,0,India,Manchester,24 Jun 1982,gower
-47,45,92,197,46.7,7,0,India,The Oval,8 Jul 1982,gower
-74,13,87,163,53.37,14,0,Pakistan,Birmingham,29 Jul 1982,gower
-29,0,29,155,18.7,1,0,Pakistan,Lord's,12 Aug 1982,gower
-74,7,81,180,45,9,0,Pakistan,Leeds,26 Aug 1982,gower
-72,28,100,150,66.66,10,0,Australia,Perth,12 Nov 1982,gower
-18,34,52,147,35.37,7,0,Australia,Brisbane,26 Nov 1982,gower
-60,114,174,392,44.38,21,0,Australia,Adelaide,10 Dec 1982,gower
-18,3,21,35,60,1,0,Australia,Melbourne,26 Dec 1982,gower
-70,24,94,164,57.31,10,0,Australia,Sydney,2 Jan 1983,gower
-11,25,36,93,38.7,5,0,New Zealand,The Oval,14 Jul 1983,gower
-9,112*,121,214,56.54,15,0,New Zealand,Leeds,28 Jul 1983,gower
-108,34,142,267,53.18,21,0,New Zealand,Lord's,11 Aug 1983,gower
-72,33,105,180,58.33,14,0,New Zealand,Nottingham,25 Aug 1983,gower
-33,DNB,33,61,54.09,4,0,New Zealand,Wellington,20 Jan 1984,gower
-2,8,10,25,40,1,0,New Zealand,Christchurch,3 Feb 1984,gower
-26,-,26,81,32.09,2,0,New Zealand,Auckland,10 Feb 1984,gower
-58,57,115,296,38.85,10,0,Pakistan,Karachi,2 Mar 1984,gower
-152,-,152,318,47.79,16,0,Pakistan,Faisalabad,12 Mar 1984,gower
-9,173*,182,304,59.86,16,0,Pakistan,Lahore,19 Mar 1984,gower
-10,12,22,66,33.33,2,0,West Indies,Birmingham,14 Jun 1984,gower
-3,21,24,51,47.05,2,0,West Indies,Lord's,28 Jun 1984,gower
-2,43,45,113,39.82,6,0,West Indies,Leeds,12 Jul 1984,gower
-4,57*,61,167,36.52,8,0,West Indies,Manchester,26 Jul 1984,gower
-12,7,19,46,41.3,3,0,West Indies,The Oval,9 Aug 1984,gower
-55,-,55,151,36.42,5,0,Sri Lanka,Lord's,23 Aug 1984,gower
-13,2,15,56,26.78,1,0,India,Mumbai,28 Nov 1984,gower
-5,DNB,5,17,29.41,0,0,India,Delhi,12 Dec 1984,gower
-19,-,19,44,43.18,2,0,India,Kolkata,31 Dec 1984,gower
-18,DNB,18,23,78.26,4,0,India,Chennai,13 Jan 1985,gower
-78,32*,110,300,36.66,10,0,India,Kanpur,31 Jan 1985,gower
-17,5,22,40,55,3,0,Australia,Leeds,13 Jun 1985,gower
-86,22,108,167,64.67,17,0,Australia,Lord's,27 Jun 1985,gower
-166,17,183,318,57.54,19,0,Australia,Nottingham,11 Jul 1985,gower
-47,-,47,141,33.33,5,0,Australia,Manchester,1 Aug 1985,gower
-215,-,215,314,68.47,25,1,Australia,Birmingham,15 Aug 1985,gower
-157,-,157,216,72.68,20,0,Australia,The Oval,29 Aug 1985,gower
-16,9,25,46,54.34,1,1,West Indies,Kingston,21 Feb 1986,gower
-66,47,113,153,73.85,19,0,West Indies,Port of Spain,7 Mar 1986,gower
-66,23,89,113,78.76,12,0,West Indies,Bridgetown,21 Mar 1986,gower
-10,22,32,55,58.18,6,0,West Indies,Port of Spain,3 Apr 1986,gower
-90,21,111,219,50.68,12,1,West Indies,St John's,11 Apr 1986,gower
-18,8,26,57,45.61,4,0,India,Lord's,5 Jun 1986,gower
-49,26,75,133,56.39,7,1,India,Birmingham,3 Jul 1986,gower
-62,3,65,191,34.03,10,0,New Zealand,Lord's,24 Jul 1986,gower
-71,26,97,207,46.85,13,0,New Zealand,Nottingham,7 Aug 1986,gower
-131,-,131,202,64.85,14,0,New Zealand,The Oval,21 Aug 1986,gower
-51,15*,66,119,55.46,8,0,Australia,Brisbane,14 Nov 1986,gower
-136,48,184,231,79.65,23,0,Australia,Perth,28 Nov 1986,gower
-38,DNB,38,42,90.47,5,0,Australia,Adelaide,12 Dec 1986,gower
-7,-,7,17,41.17,1,0,Australia,Melbourne,26 Dec 1986,gower
-72,37,109,236,46.18,17,0,Australia,Sydney,10 Jan 1987,gower
-22,-,22,42,52.38,4,0,Pakistan,Manchester,4 Jun 1987,gower
-8,-,8,9,88.88,2,0,Pakistan,Lord's,18 Jun 1987,gower
-10,55,65,154,42.2,8,0,Pakistan,Leeds,2 Jul 1987,gower
-61,18,79,120,65.83,12,0,Pakistan,Birmingham,23 Jul 1987,gower
-28,34,62,97,63.91,7,0,Pakistan,The Oval,6 Aug 1987,gower
-18,88*,106,220,48.18,12,0,West Indies,Nottingham,2 Jun 1988,gower
-46,1,47,70,67.14,7,0,West Indies,Lord's,16 Jun 1988,gower
-9,34,43,80,53.75,5,0,West Indies,Manchester,30 Jun 1988,gower
-13,2,15,28,53.57,1,0,West Indies,Leeds,21 Jul 1988,gower
-26,34,60,83,72.28,11,0,Australia,Leeds,8 Jun 1989,gower
-57,106,163,260,62.69,24,0,Australia,Lord's,22 Jun 1989,gower
-8,-,8,26,30.76,1,0,Australia,Birmingham,6 Jul 1989,gower
-35,15,50,91,54.94,7,0,Australia,Manchester,27 Jul 1989,gower
-11,5,16,30,53.33,1,0,Australia,Nottingham,10 Aug 1989,gower
-79,7,86,144,59.72,11,0,Australia,The Oval,24 Aug 1989,gower
-40,32*,72,164,43.9,6,0,India,Lord's,26 Jul 1990,gower
-38,16,54,90,60,8,0,India,Manchester,9 Aug 1990,gower
-8,157*,165,289,57.09,22,0,India,The Oval,23 Aug 1990,gower
-61,27,88,165,53.33,10,0,Australia,Brisbane,23 Nov 1990,gower
-100,0,100,176,56.81,8,0,Australia,Melbourne,26 Dec 1990,gower
-123,36,159,274,58.02,18,0,Australia,Sydney,4 Jan 1991,gower
-11,16,27,47,57.44,3,0,Australia,Adelaide,25 Jan 1991,gower
-28*,5,33,58,56.89,4,0,Australia,Perth,1 Feb 1991,gower
-73,-,73,85,85.88,12,0,Pakistan,Manchester,2 Jul 1992,gower
-18*,31*,49,146,33.56,3,0,Pakistan,Leeds,23 Jul 1992,gower
-27,1,28,60,46.66,4,0,Pakistan,The Oval,6 Aug 1992,gower
-51,DNB,51,,,,,South Africa,Johannesburg,24 Dec 1927,hammond
-43,14,57,,,,,South Africa,Cape Town,31 Dec 1927,hammond
-90,1*,91,,,,,South Africa,Durban,21 Jan 1928,hammond
-28,25,53,,,,,South Africa,Johannesburg,28 Jan 1928,hammond
-66,3,69,,,,,South Africa,Durban,4 Feb 1928,hammond
-45,-,45,,,,,West Indies,Lord's,23 Jun 1928,hammond
-63,-,63,,,,,West Indies,Manchester,21 Jul 1928,hammond
-3,-,3,,,,,West Indies,The Oval,11 Aug 1928,hammond
-44,28,72,,,,,Australia,Brisbane,30 Nov 1928,hammond
-251,DNB,251,,,,,Australia,Sydney,14 Dec 1928,hammond
-200,32,232,,,,,Australia,Melbourne,29 Dec 1928,hammond
-119*,177,296,,,,,Australia,Adelaide,1 Feb 1929,hammond
-38,16,54,,,,,Australia,Melbourne,8 Mar 1929,hammond
-18,138*,156,,,,,South Africa,Birmingham,15 Jun 1929,hammond
-8,5,13,,,,,South Africa,Lord's,29 Jun 1929,hammond
-65,0,65,,,,,South Africa,Leeds,13 Jul 1929,hammond
-17,101*,118,,,,,South Africa,The Oval,17 Aug 1929,hammond
-8,4,12,,,,,Australia,Nottingham,13 Jun 1930,hammond
-38,32,70,,,,,Australia,Lord's,27 Jun 1930,hammond
-113,35,148,,,,,Australia,Leeds,11 Jul 1930,hammond
-3,-,3,,,,,Australia,Manchester,25 Jul 1930,hammond
-13,60,73,,,,,Australia,The Oval,16 Aug 1930,hammond
-49,63,112,,,,,South Africa,Johannesburg,24 Dec 1930,hammond
-57,65,122,,,,,South Africa,Cape Town,1 Jan 1931,hammond
-136*,-,136,,,,,South Africa,Durban,16 Jan 1931,hammond
-75,15,90,,,,,South Africa,Johannesburg,13 Feb 1931,hammond
-29,28,57,,,,,South Africa,Durban,21 Feb 1931,hammond
-7,46,53,,,,,New Zealand,Lord's,27 Jun 1931,hammond
-100*,-,100,,,,,New Zealand,The Oval,29 Jul 1931,hammond
-16,-,16,,,,,New Zealand,Manchester,15 Aug 1931,hammond
-35,12,47,,,,,India,Lord's,25 Jun 1932,hammond
-112,DNB,112,,,,,Australia,Sydney,2 Dec 1932,hammond
-8,23,31,,,,,Australia,Melbourne,30 Dec 1932,hammond
-2,85,87,,,,,Australia,Adelaide,13 Jan 1933,hammond
-20,14,34,,,,,Australia,Brisbane,10 Feb 1933,hammond
-101,75*,176,,,,,Australia,Sydney,23 Feb 1933,hammond
-227,-,227,,,,,New Zealand,Christchurch,24 Mar 1933,hammond
-336*,-,336,,,,,New Zealand,Auckland,31 Mar 1933,hammond
-29,-,29,,,,,West Indies,Lord's,24 Jun 1933,hammond
-34,-,34,,,,,West Indies,Manchester,22 Jul 1933,hammond
-11,-,11,,,,,West Indies,The Oval,12 Aug 1933,hammond
-25,16,41,,,,,Australia,Nottingham,8 Jun 1934,hammond
-2,-,2,,,,,Australia,Lord's,22 Jun 1934,hammond
-4,DNB,4,,,,,Australia,Manchester,6 Jul 1934,hammond
-37,20,57,,,,,Australia,Leeds,20 Jul 1934,hammond
-15,43,58,,,,,Australia,The Oval,18 Aug 1934,hammond
-43,29*,72,,,,,West Indies,Bridgetown,8 Jan 1935,hammond
-1,9,10,,,,,West Indies,Port of Spain,24 Jan 1935,hammond
-47,1,48,,,,,West Indies,Georgetown,14 Feb 1935,hammond
-11,34,45,,,,,West Indies,Kingston,14 Mar 1935,hammond
-28,-,28,,,,,South Africa,Nottingham,15 Jun 1935,hammond
-27,27,54,,,,,South Africa,Lord's,29 Jun 1935,hammond
-63,87*,150,,,,,South Africa,Leeds,13 Jul 1935,hammond
-29,63*,92,,,,,South Africa,Manchester,27 Jul 1935,hammond
-65,-,65,,,,,South Africa,The Oval,17 Aug 1935,hammond
-167,-,167,,,,,India,Manchester,25 Jul 1936,hammond
-217,5*,222,,,,,India,The Oval,15 Aug 1936,hammond
-0,25,25,,,,,Australia,Brisbane,4 Dec 1936,hammond
-231*,-,231,,,,,Australia,Sydney,18 Dec 1936,hammond
-32,51,83,,,,,Australia,Melbourne,1 Jan 1937,hammond
-20,39,59,,,,,Australia,Adelaide,29 Jan 1937,hammond
-14,56,70,,,,,Australia,Melbourne,26 Feb 1937,hammond
-140,DNB,140,,,,,New Zealand,Lord's,26 Jun 1937,hammond
-33,0,33,,,,,New Zealand,Manchester,24 Jul 1937,hammond
-31,DNB,31,,,,,New Zealand,The Oval,14 Aug 1937,hammond
-26,-,26,,,,,Australia,Nottingham,10 Jun 1938,hammond
-240,2,242,,,,,Australia,Lord's,24 Jun 1938,hammond
-76,0,76,,,,,Australia,Leeds,22 Jul 1938,hammond
-59,-,59,,,,,Australia,The Oval,20 Aug 1938,hammond
-24,58,82,,,,,South Africa,Johannesburg,24 Dec 1938,hammond
-181,-,181,,,,,South Africa,Cape Town,31 Dec 1938,hammond
-120,-,120,,,,,South Africa,Durban,20 Jan 1939,hammond
-1,61*,62,,,,,South Africa,Johannesburg,18 Feb 1939,hammond
-24,140,164,,,,,South Africa,Durban,3 Mar 1939,hammond
-14,30*,44,,,,,West Indies,Lord's,24 Jun 1939,hammond
-22,32,54,,,,,West Indies,Manchester,22 Jul 1939,hammond
-43,138,181,,,,,West Indies,The Oval,19 Aug 1939,hammond
-33,DNB,33,,,,,India,Lord's,22 Jun 1946,hammond
-69,8,77,,,,,India,Manchester,20 Jul 1946,hammond
-9*,-,9,,,,,India,The Oval,17 Aug 1946,hammond
-32,23,55,,,,,Australia,Brisbane,29 Nov 1946,hammond
-1,37,38,,,,,Australia,Sydney,13 Dec 1946,hammond
-9,26,35,,,,,Australia,Melbourne,1 Jan 1947,hammond
-18,22,40,,,,,Australia,Adelaide,31 Jan 1947,hammond
-79,-,79,,,,,New Zealand,Christchurch,21 Mar 1947,hammond
-1,5,6,,,,,England,Lord's,22 Jun 1896,hill
-9,14,23,,,,,England,Manchester,16 Jul 1896,hill
-1,0,1,,,,,England,The Oval,10 Aug 1896,hill
-19,96,115,,,,,England,Sydney,13 Dec 1897,hill
-58,-,58,,,,,England,Melbourne,1 Jan 1898,hill
-81,-,81,,,,,England,Adelaide,14 Jan 1898,hill
-188,0,188,,,,,England,Melbourne,29 Jan 1898,hill
-8,2,10,,,,,England,Sydney,26 Feb 1898,hill
-52,80,132,,,,,England,Nottingham,1 Jun 1899,hill
-135,DNB,135,,,,,England,Lord's,15 Jun 1899,hill
-34,0,34,,,,,England,Leeds,29 Jun 1899,hill
-46,0,46,,,,,England,Sydney,13 Dec 1901,hill
-15,99,114,,,,,England,Melbourne,1 Jan 1902,hill
-98,97,195,,,,,England,Adelaide,17 Jan 1902,hill
-21,30,51,,,,,England,Sydney,14 Feb 1902,hill
-28,87,115,,,,,England,Melbourne,28 Feb 1902,hill
-1,10*,11,,,,,England,Birmingham,29 May 1902,hill
-TDNB,-,-,,,,,England,Lord's,12 Jun 1902,hill
-18,119,137,,,,,England,Sheffield,3 Jul 1902,hill
-65,0,65,,,,,England,Manchester,24 Jul 1902,hill
-11,34,45,,,,,England,The Oval,11 Aug 1902,hill
-76,142,218,,,,,South Africa,Johannesburg,11 Oct 1902,hill
-6,12,18,,,,,South Africa,Johannesburg,18 Oct 1902,hill
-91*,DNB,91,,,,,South Africa,Cape Town,8 Nov 1902,hill
-5,51,56,,,,,England,Sydney,11 Dec 1903,hill
-5,20,25,,,,,England,Melbourne,1 Jan 1904,hill
-88,16,104,,,,,England,Adelaide,15 Jan 1904,hill
-33,26,59,,,,,England,Sydney,26 Feb 1904,hill
-16,16,32,,,,,England,Melbourne,5 Mar 1904,hill
-54,8,62,,,,,England,Nottingham,29 May 1905,hill
-7,-,7,,,,,England,Lord's,15 Jun 1905,hill
-7,33,40,,,,,England,Leeds,3 Jul 1905,hill
-0,27,27,,,,,England,Manchester,24 Jul 1905,hill
-18,34,52,,,,,England,The Oval,14 Aug 1905,hill
-87,1,88,,,,,England,Sydney,13 Dec 1907,hill
-16,3,19,,,,,England,Melbourne,1 Jan 1908,hill
-5,160,165,,,,,England,Adelaide,10 Jan 1908,hill
-7,25,32,,,,,England,Melbourne,7 Feb 1908,hill
-12,44,56,,,,,England,Sydney,21 Feb 1908,hill
-191,-,191,,,,,South Africa,Sydney,9 Dec 1910,hill
-39,0,39,,,,,South Africa,Melbourne,31 Dec 1910,hill
-16,55,71,,,,,South Africa,Adelaide,7 Jan 1911,hill
-11,100,111,,,,,South Africa,Melbourne,17 Feb 1911,hill
-13,DNB,13,,,,,South Africa,Sydney,3 Mar 1911,hill
-46,65,111,,,,,England,Sydney,15 Dec 1911,hill
-4,0,4,,,,,England,Melbourne,30 Dec 1911,hill
-0,98,98,,,,,England,Adelaide,12 Jan 1912,hill
-22,11,33,,,,,England,Melbourne,9 Feb 1912,hill
-20,8,28,,,,,England,Sydney,23 Feb 1912,hill
-48,DNB,48,,,,,Australia,Nottingham,4 Jun 1964,boycott
-38,4,42,,,,,Australia,Leeds,2 Jul 1964,boycott
-58,-,58,,,,,Australia,Manchester,23 Jul 1964,boycott
-30,113,143,,,,,Australia,The Oval,13 Aug 1964,boycott
-73,-,73,,,,,South Africa,Durban,4 Dec 1964,boycott
-4,-,4,,,,,South Africa,Johannesburg,23 Dec 1964,boycott
-15,1*,16,,,,,South Africa,Cape Town,1 Jan 1965,boycott
-5,76*,81,,,,,South Africa,Johannesburg,22 Jan 1965,boycott
-117,7,124,,,,,South Africa,Port Elizabeth,12 Feb 1965,boycott
-23,44*,67,,,,,New Zealand,Birmingham,27 May 1965,boycott
-14,76,90,,,,,New Zealand,Lord's,17 Jun 1965,boycott
-31,28,59,,,,,South Africa,Lord's,22 Jul 1965,boycott
-0,16,16,,,,,South Africa,Nottingham,5 Aug 1965,boycott
-45,63*,108,,,,,Australia,Brisbane,10 Dec 1965,boycott
-51,5*,56,,,,,Australia,Melbourne,30 Dec 1965,boycott
-84,-,84,,,,,Australia,Sydney,7 Jan 1966,boycott
-22,12,34,,,,,Australia,Adelaide,28 Jan 1966,boycott
-17,1,18,,,,,Australia,Melbourne,11 Feb 1966,boycott
-4,4,8,,,,,New Zealand,Christchurch,25 Feb 1966,boycott
-5,-,5,,,,,New Zealand,Dunedin,4 Mar 1966,boycott
-60,25,85,,,,,West Indies,Lord's,16 Jun 1966,boycott
-0,71,71,,,,,West Indies,Nottingham,30 Jun 1966,boycott
-12,14,26,,,,,West Indies,Leeds,4 Aug 1966,boycott
-4,-,4,,,,,West Indies,The Oval,18 Aug 1966,boycott
-246*,DNB,246,,,,,India,Leeds,8 Jun 1967,boycott
-25,6,31,,,,,India,Birmingham,13 Jul 1967,boycott
-15,1*,16,,,,,Pakistan,Nottingham,10 Aug 1967,boycott
-68,-,68,,,,,West Indies,Port of Spain,19 Jan 1968,boycott
-17,0,17,,,,,West Indies,Kingston,8 Feb 1968,boycott
-90,-,90,,,,,West Indies,Bridgetown,29 Feb 1968,boycott
-62,80*,142,,,,,West Indies,Port of Spain,14 Mar 1968,boycott
-116,30,146,,,,,West Indies,Georgetown,28 Mar 1968,boycott
-35,11,46,,,,,Australia,Manchester,6 Jun 1968,boycott
-49,-,49,,,,,Australia,Lord's,20 Jun 1968,boycott
-36,31,67,,,,,Australia,Birmingham,11 Jul 1968,boycott
-128,1*,129,,,,,West Indies,Manchester,12 Jun 1969,boycott
-23,106,129,,,,,West Indies,Lord's,26 Jun 1969,boycott
-12,0,12,,,,,West Indies,Leeds,10 Jul 1969,boycott
-0,47,47,,,,,New Zealand,Lord's,24 Jul 1969,boycott
-0,-,0,,,,,New Zealand,Nottingham,7 Aug 1969,boycott
-46,8,54,,,,,New Zealand,The Oval,21 Aug 1969,boycott
-37,16,53,,,,,Australia,Brisbane,27 Nov 1970,boycott
-70,50,120,,,,,Australia,Perth,11 Dec 1970,boycott
-77,142*,219,,,,,Australia,Sydney,9 Jan 1971,boycott
-12,76*,88,,,,,Australia,Melbourne,21 Jan 1971,boycott
-58,119*,177,,,,,Australia,Adelaide,29 Jan 1971,boycott
-121*,DNB,121,,,,,Pakistan,Lord's,17 Jun 1971,boycott
-112,13,125,,,,,Pakistan,Leeds,8 Jul 1971,boycott
-3,33,36,,,,,India,Lord's,22 Jul 1971,boycott
-8,47,55,,,,,Australia,Manchester,8 Jun 1972,boycott
-11,6,17,,,,,Australia,Lord's,22 Jun 1972,boycott
-51,1,52,,,,,New Zealand,Nottingham,7 Jun 1973,boycott
-61,92,153,,,,,New Zealand,Lord's,21 Jun 1973,boycott
-115,-,115,,,,,New Zealand,Leeds,5 Jul 1973,boycott
-97,30,127,,,,,West Indies,The Oval,26 Jul 1973,boycott
-56*,DNB,56,,,,,West Indies,Birmingham,9 Aug 1973,boycott
-4,15,19,,,,,West Indies,Lord's,23 Aug 1973,boycott
-6,93,99,,,,,West Indies,Port of Spain,2 Feb 1974,boycott
-68,5,73,,,,,West Indies,Kingston,16 Feb 1974,boycott
-10,13,23,,,,,West Indies,Bridgetown,6 Mar 1974,boycott
-15,-,15,,,,,West Indies,Georgetown,22 Mar 1974,boycott
-99,112,211,,,,,West Indies,Port of Spain,30 Mar 1974,boycott
-10,6,16,,,,,India,Manchester,6 Jun 1974,boycott
-107,80*,187,,,,,Australia,Nottingham,28 Jul 1977,boycott
-191,-,191,,,,,Australia,Leeds,11 Aug 1977,boycott
-39,25*,64,,,,,Australia,The Oval,25 Aug 1977,boycott
-63,-,63,,,,,Pakistan,Lahore,14 Dec 1977,boycott
-79,100*,179,,,,,Pakistan,Hyderabad (Sind),2 Jan 1978,boycott
-31,56,87,,,,,Pakistan,Karachi,18 Jan 1978,boycott
-77,1,78,,,,,New Zealand,Wellington,10 Feb 1978,boycott
-8,26,34,,,,,New Zealand,Christchurch,24 Feb 1978,boycott
-54,-,54,,,,,New Zealand,Auckland,4 Mar 1978,boycott
-131,-,131,,,,,New Zealand,Nottingham,10 Aug 1978,boycott
-24,4,28,,,,,New Zealand,Lord's,24 Aug 1978,boycott
-13,16,29,,,,,Australia,Brisbane,1 Dec 1978,boycott
-77,23,100,,,,,Australia,Perth,15 Dec 1978,boycott
-1,38,39,,,,,Australia,Melbourne,29 Dec 1978,boycott
-8,0,8,,,,,Australia,Sydney,6 Jan 1979,boycott
-6,49,55,,,,,Australia,Adelaide,27 Jan 1979,boycott
-19,13,32,,,,,Australia,Sydney,10 Feb 1979,boycott
-155,-,155,,,,,India,Birmingham,12 Jul 1979,boycott
-32,-,32,,,,,India,Lord's,2 Aug 1979,boycott
-31,-,31,,,,,India,Leeds,16 Aug 1979,boycott
-35,125,160,,,,,India,The Oval,30 Aug 1979,boycott
-0,99*,99,,,,,Australia,Perth,14 Dec 1979,boycott
-8,18,26,,,,,Australia,Sydney,4 Jan 1980,boycott
-44,7,51,,,,,Australia,Melbourne,1 Feb 1980,boycott
-22,43*,65,,,,,India,Mumbai,15 Feb 1980,boycott
-36,75,111,,,,,West Indies,Nottingham,5 Jun 1980,boycott
-8,49*,57,,,,,West Indies,Lord's,19 Jun 1980,boycott
-5,86,91,,,,,West Indies,Manchester,10 Jul 1980,boycott
-53,5,58,,,,,West Indies,The Oval,24 Jul 1980,boycott
-4,47,51,,,,,West Indies,Leeds,7 Aug 1980,boycott
-62,128*,190,,,,,Australia,Lord's,28 Aug 1980,boycott
-30,70,100,,,,,West Indies,Port of Spain,13 Feb 1981,boycott
-0,1,1,,,,,West Indies,Bridgetown,13 Mar 1981,boycott
-38,104*,142,,,,,West Indies,St John's,27 Mar 1981,boycott
-40,12,52,,,,,West Indies,Kingston,10 Apr 1981,boycott
-27,4,31,,,,,Australia,Nottingham,18 Jun 1981,boycott
-17,60,77,,,,,Australia,Lord's,2 Jul 1981,boycott
-12,46,58,,,,,Australia,Leeds,16 Jul 1981,boycott
-13,29,42,,,,,Australia,Birmingham,30 Jul 1981,boycott
-10,37,47,,,,,Australia,Manchester,13 Aug 1981,boycott
-137,0,137,,,,,Australia,The Oval,27 Aug 1981,boycott
-60,3,63,,,,,India,Mumbai,27 Nov 1981,boycott
-36,50,86,,,,,India,Bangalore,9 Dec 1981,boycott
-105,34*,139,,,,,India,Delhi,23 Dec 1981,boycott
-18,6,24,,,,,India,Kolkata,1 Jan 1982,boycott
-25,3,28,115,24.34,0,0,West Indies,Sydney,26 Jan 1989,taylor
-3,36,39,140,27.85,2,0,West Indies,Adelaide,3 Feb 1989,taylor
-136,60,196,427,45.9,24,0,England,Leeds,8 Jun 1989,taylor
-62,27,89,223,39.91,10,0,England,Lord's,22 Jun 1989,taylor
-43,51,94,247,38.05,9,0,England,Birmingham,6 Jul 1989,taylor
-85,37*,122,263,46.38,14,0,England,Manchester,27 Jul 1989,taylor
-219,-,219,461,47.5,23,0,England,Nottingham,10 Aug 1989,taylor
-71,48,119,245,48.57,11,0,England,The Oval,24 Aug 1989,taylor
-9,-,9,29,31.03,0,0,New Zealand,Perth,24 Nov 1989,taylor
-9,164,173,358,48.32,18,2,Sri Lanka,Brisbane,8 Dec 1989,taylor
-23,108,131,258,50.77,14,0,Sri Lanka,Hobart,16 Dec 1989,taylor
-52,101,153,384,39.84,17,0,Pakistan,Melbourne,12 Jan 1990,taylor
-77,59,136,299,45.48,12,0,Pakistan,Adelaide,19 Jan 1990,taylor
-101*,-,101,227,44.49,8,0,Pakistan,Sydney,3 Feb 1990,taylor
-4,5,9,26,34.61,1,0,New Zealand,Wellington,15 Mar 1990,taylor
-10,67*,77,183,42.07,8,0,England,Brisbane,23 Nov 1990,taylor
-61,5,66,201,32.83,5,0,England,Melbourne,26 Dec 1990,taylor
-11,19,30,78,38.46,4,0,England,Sydney,4 Jan 1991,taylor
-5,4,9,30,30,1,0,England,Adelaide,25 Jan 1991,taylor
-12,19,31,81,38.27,3,0,England,Perth,1 Feb 1991,taylor
-58,-,58,151,38.41,3,0,West Indies,Kingston,1 Mar 1991,taylor
-0,15,15,56,26.78,1,0,West Indies,Georgetown,23 Mar 1991,taylor
-61,2,63,156,40.38,9,0,West Indies,Port of Spain,5 Apr 1991,taylor
-26,76,102,325,31.38,9,0,West Indies,Bridgetown,19 Apr 1991,taylor
-59,144,203,404,50.24,19,0,West Indies,St John's,27 Apr 1991,taylor
-94,35*,129,318,40.56,13,0,India,Brisbane,29 Nov 1991,taylor
-13,60,73,166,43.97,4,0,India,Melbourne,26 Dec 1991,taylor
-56,35,91,257,35.4,5,0,India,Sydney,2 Jan 1992,taylor
-11,100,111,347,31.98,9,0,India,Adelaide,25 Jan 1992,taylor
-2,16,18,78,23.07,2,0,India,Perth,1 Feb 1992,taylor
-42,43,85,220,38.63,8,0,Sri Lanka,Colombo (SSC),17 Aug 1992,taylor
-15,26,41,109,37.61,2,0,Sri Lanka,Colombo (RPS),28 Aug 1992,taylor
-19,3,22,74,29.72,1,0,Sri Lanka,Moratuwa,8 Sep 1992,taylor
-7,34,41,119,34.45,3,0,West Indies,Brisbane,27 Nov 1992,taylor
-13,42,55,243,22.63,2,0,West Indies,Melbourne,26 Dec 1992,taylor
-20,46*,66,206,32.03,5,0,West Indies,Sydney,2 Jan 1993,taylor
-1,7,8,46,17.39,0,0,West Indies,Adelaide,23 Jan 1993,taylor
-82,-,82,207,39.61,6,0,New Zealand,Christchurch,25 Feb 1993,taylor
-50,-,50,120,41.66,6,0,New Zealand,Wellington,4 Mar 1993,taylor
-13,3,16,51,31.37,0,0,New Zealand,Auckland,12 Mar 1993,taylor
-124,9,133,261,50.95,14,2,England,Manchester,3 Jun 1993,taylor
-111,-,111,243,45.67,10,1,England,Lord's,17 Jun 1993,taylor
-28,28,56,133,42.1,7,0,England,Nottingham,1 Jul 1993,taylor
-27,-,27,61,44.26,4,0,England,Leeds,22 Jul 1993,taylor
-19,4,23,104,22.11,2,0,England,Birmingham,5 Aug 1993,taylor
-70,8,78,163,47.85,11,0,England,The Oval,19 Aug 1993,taylor
-64,142*,206,417,49.4,13,0,New Zealand,Perth,12 Nov 1993,taylor
-27,-,27,44,61.36,2,0,New Zealand,Hobart,26 Nov 1993,taylor
-53,-,53,104,50.96,4,0,New Zealand,Brisbane,3 Dec 1993,taylor
-170,-,170,349,48.71,12,0,South Africa,Melbourne,26 Dec 1993,taylor
-7,27,34,97,35.05,2,0,South Africa,Sydney,2 Jan 1994,taylor
-62,38,100,244,40.98,6,0,South Africa,Adelaide,28 Jan 1994,taylor
-70,14,84,161,52.17,6,0,South Africa,Cape Town,17 Mar 1994,taylor
-1,12,13,107,12.14,0,0,South Africa,Durban,25 Mar 1994,taylor
-0,0,0,11,0,0,0,Pakistan,Karachi,28 Sep 1994,taylor
-69,5*,74,181,40.88,9,0,Pakistan,Rawalpindi,5 Oct 1994,taylor
-32,-,32,97,32.98,4,0,Pakistan,Lahore,1 Nov 1994,taylor
-59,58,117,212,55.18,13,0,England,Brisbane,25 Nov 1994,taylor
-9,19,28,105,26.66,2,0,England,Melbourne,24 Dec 1994,taylor
-49,113,162,379,42.74,11,0,England,Sydney,1 Jan 1995,taylor
-90,13,103,231,44.58,9,0,England,Adelaide,26 Jan 1995,taylor
-9,52,61,158,38.6,8,0,England,Perth,3 Feb 1995,taylor
-55,16*,71,158,44.93,11,0,West Indies,Bridgetown,31 Mar 1995,taylor
-37,5,42,134,31.34,5,0,West Indies,St John's,8 Apr 1995,taylor
-2,30,32,70,45.71,4,0,West Indies,Port of Spain,21 Apr 1995,taylor
-8,-,8,18,44.44,0,0,West Indies,Kingston,29 Apr 1995,taylor
-69,-,69,149,46.3,12,0,Pakistan,Brisbane,9 Nov 1995,taylor
-40,123,163,341,47.8,15,1,Pakistan,Hobart,17 Nov 1995,taylor
-47,59,106,257,41.24,10,0,Pakistan,Sydney,30 Nov 1995,taylor
-96,-,96,173,55.49,14,0,Sri Lanka,Perth,8 Dec 1995,taylor
-7,25*,32,51,62.74,3,0,Sri Lanka,Melbourne,26 Dec 1995,taylor
-21,10,31,86,36.04,1,1,Sri Lanka,Adelaide,25 Jan 1996,taylor
-27,37,64,163,39.26,8,0,India,Delhi,10 Oct 1996,taylor
-43,36,79,235,33.61,8,0,West Indies,Brisbane,22 Nov 1996,taylor
-27,16,43,144,29.86,3,0,West Indies,Sydney,29 Nov 1996,taylor
-7,10,17,88,19.31,1,0,West Indies,Melbourne,26 Dec 1996,taylor
-11,-,11,39,28.2,1,0,West Indies,Adelaide,25 Jan 1997,taylor
-2,1,3,18,16.66,0,0,West Indies,Perth,1 Feb 1997,taylor
-16,-,16,35,45.71,2,0,South Africa,Johannesburg,28 Feb 1997,taylor
-8,13,21,75,28,1,0,South Africa,Port Elizabeth,14 Mar 1997,taylor
-38,5,43,157,27.38,6,0,South Africa,Centurion,21 Mar 1997,taylor
-7,129,136,312,43.58,12,1,England,Birmingham,5 Jun 1997,taylor
-1,-,1,15,6.66,0,0,England,Lord's,19 Jun 1997,taylor
-2,1,3,23,13.04,0,0,England,Manchester,3 Jul 1997,taylor
-0,-,0,11,0,0,0,England,Leeds,24 Jul 1997,taylor
-76,45,121,255,47.45,19,0,England,Nottingham,7 Aug 1997,taylor
-38,18,56,76,73.68,9,0,England,The Oval,21 Aug 1997,taylor
-112,16,128,293,43.68,12,0,New Zealand,Brisbane,7 Nov 1997,taylor
-2,-,2,9,22.22,0,0,New Zealand,Perth,20 Nov 1997,taylor
-18,66*,84,184,45.65,7,0,New Zealand,Hobart,27 Nov 1997,taylor
-20,59,79,273,28.93,5,0,South Africa,Melbourne,26 Dec 1997,taylor
-11,-,11,45,24.44,0,0,South Africa,Sydney,2 Jan 1998,taylor
-169*,6,175,405,43.2,21,0,South Africa,Adelaide,30 Jan 1998,taylor
-12,13,25,115,21.73,2,0,India,Chennai,6 Mar 1998,taylor
-3,45,48,137,35.03,5,0,India,Kolkata,18 Mar 1998,taylor
-14,102*,116,236,49.15,18,0,India,Bangalore,25 Mar 1998,taylor
-3,-,3,18,16.66,0,0,Pakistan,Rawalpindi,1 Oct 1998,taylor
-334*,92,426,723,58.92,43,1,Pakistan,Peshawar,15 Oct 1998,taylor
-16,68,84,240,35,8,0,Pakistan,Karachi,22 Oct 1998,taylor
-46,0,46,140,32.85,6,0,England,Brisbane,20 Nov 1998,taylor
-61,3,64,159,40.25,6,0,England,Perth,28 Nov 1998,taylor
-59,29,88,195,45.12,8,0,England,Adelaide,11 Dec 1998,taylor
-7,19,26,62,41.93,1,0,England,Melbourne,26 Dec 1998,taylor
-2,2,4,33,12.12,0,0,England,Sydney,2 Jan 1999,taylor
-20,38,58,,,,,West Indies,Manchester,6 Jun 1963,edrich
-0,8,8,,,,,West Indies,Lord's,20 Jun 1963,edrich
-25,12,37,,,,,West Indies,The Oval,22 Aug 1963,edrich
-41,-,41,,,,,India,Delhi,8 Feb 1964,edrich
-35,-,35,,,,,India,Kanpur,15 Feb 1964,edrich
-120,-,120,,,,,Australia,Lord's,18 Jun 1964,edrich
-3,32,35,,,,,Australia,Leeds,2 Jul 1964,edrich
-6,-,6,,,,,Australia,Manchester,23 Jul 1964,edrich
-310*,-,310,,,,,New Zealand,Leeds,8 Jul 1965,edrich
-0,7*,7,,,,,South Africa,Lord's,22 Jul 1965,edrich
-32,37,69,,,,,Australia,Brisbane,10 Dec 1965,edrich
-109,DNB,109,,,,,Australia,Melbourne,30 Dec 1965,edrich
-103,-,103,,,,,Australia,Sydney,7 Jan 1966,edrich
-5,1,6,,,,,Australia,Adelaide,28 Jan 1966,edrich
-85,3,88,,,,,Australia,Melbourne,11 Feb 1966,edrich
-2,2,4,,,,,New Zealand,Christchurch,25 Feb 1966,edrich
-36,-,36,,,,,New Zealand,Dunedin,4 Mar 1966,edrich
-absent,DNB,-,,,,,New Zealand,Auckland,11 Mar 1966,edrich
-35,-,35,,,,,West Indies,The Oval,18 Aug 1966,edrich
-1,22,23,,,,,India,Leeds,8 Jun 1967,edrich
-12,-,12,,,,,India,Lord's,22 Jun 1967,edrich
-25,-,25,,,,,West Indies,Port of Spain,19 Jan 1968,edrich
-96,6,102,,,,,West Indies,Kingston,8 Feb 1968,edrich
-146,-,146,,,,,West Indies,Bridgetown,29 Feb 1968,edrich
-32,29,61,,,,,West Indies,Port of Spain,14 Mar 1968,edrich
-0,6,6,,,,,West Indies,Georgetown,28 Mar 1968,edrich
-49,38,87,,,,,Australia,Manchester,6 Jun 1968,edrich
-7,-,7,,,,,Australia,Lord's,20 Jun 1968,edrich
-88,64,152,,,,,Australia,Birmingham,11 Jul 1968,edrich
-62,65,127,,,,,Australia,Leeds,25 Jul 1968,edrich
-164,17,181,,,,,Australia,The Oval,22 Aug 1968,edrich
-54,8,62,,,,,Pakistan,Lahore,21 Feb 1969,edrich
-24,12*,36,,,,,Pakistan,Dhaka,28 Feb 1969,edrich
-32,-,32,,,,,Pakistan,Karachi,6 Mar 1969,edrich
-58,9*,67,,,,,West Indies,Manchester,12 Jun 1969,edrich
-7,1,8,,,,,West Indies,Lord's,26 Jun 1969,edrich
-79,15,94,,,,,West Indies,Leeds,10 Jul 1969,edrich
-16,115,131,,,,,New Zealand,Lord's,24 Jul 1969,edrich
-155,-,155,,,,,New Zealand,Nottingham,7 Aug 1969,edrich
-68,22,90,,,,,New Zealand,The Oval,21 Aug 1969,edrich
-79,DNB,79,,,,,Australia,Brisbane,27 Nov 1970,edrich
-47,115*,162,,,,,Australia,Perth,11 Dec 1970,edrich
-55,12,67,,,,,Australia,Sydney,9 Jan 1971,edrich
-9,74*,83,,,,,Australia,Melbourne,21 Jan 1971,edrich
-130,40,170,,,,,Australia,Adelaide,29 Jan 1971,edrich
-30,57,87,,,,,Australia,Sydney,12 Feb 1971,edrich
-12,2,14,,,,,New Zealand,Christchurch,25 Feb 1971,edrich
-1,24,25,,,,,New Zealand,Auckland,5 Mar 1971,edrich
-0,15,15,,,,,Pakistan,Birmingham,3 Jun 1971,edrich
-37,DNB,37,,,,,Pakistan,Lord's,17 Jun 1971,edrich
-2,33,35,,,,,Pakistan,Leeds,8 Jul 1971,edrich
-18,62,80,,,,,India,Lord's,22 Jul 1971,edrich
-0,59,59,,,,,India,Manchester,5 Aug 1971,edrich
-41,0,41,,,,,India,The Oval,19 Aug 1971,edrich
-49,26,75,,,,,Australia,Manchester,8 Jun 1972,edrich
-10,6,16,,,,,Australia,Lord's,22 Jun 1972,edrich
-37,15,52,,,,,Australia,Nottingham,13 Jul 1972,edrich
-45,4,49,,,,,Australia,Leeds,27 Jul 1972,edrich
-8,18,26,,,,,Australia,The Oval,10 Aug 1972,edrich
-7,100*,107,,,,,India,Manchester,6 Jun 1974,edrich
-96,-,96,,,,,India,Lord's,20 Jun 1974,edrich
-DNB,-,-,,,,,India,Birmingham,4 Jul 1974,edrich
-9,70,79,,,,,Pakistan,Leeds,25 Jul 1974,edrich
-40,DNB,40,,,,,Pakistan,Lord's,8 Aug 1974,edrich
-25,-,25,,,,,Pakistan,The Oval,22 Aug 1974,edrich
-48,6,54,,,,,Australia,Brisbane,29 Nov 1974,edrich
-49,4,53,,,,,Australia,Melbourne,26 Dec 1974,edrich
-50,33*,83,,,,,Australia,Sydney,4 Jan 1975,edrich
-70,-,70,,,,,Australia,Melbourne,8 Feb 1975,edrich
-64,-,64,,,,,New Zealand,Auckland,20 Feb 1975,edrich
-11,-,11,,,,,New Zealand,Christchurch,28 Feb 1975,edrich
-34,5,39,,,,,Australia,Birmingham,10 Jul 1975,edrich
-9,175,184,,,,,Australia,Lord's,31 Jul 1975,edrich
-62,35,97,,,,,Australia,Leeds,14 Aug 1975,edrich
-12,96,108,,,,,Australia,The Oval,28 Aug 1975,edrich
-37,76*,113,,,,,West Indies,Nottingham,3 Jun 1976,edrich
-8,24,32,,,,,West Indies,Manchester,8 Jul 1976,edrich
-73,20*,93,285,32.63,5,1,India,Nagpur,13 Dec 2012,edrich
-4,0,4,13,30.76,1,0,New Zealand,Dunedin,6 Mar 2013,edrich
-10,-,10,20,50,1,0,New Zealand,Wellington,14 Mar 2013,edrich
-45,29,74,255,29.01,6,0,New Zealand,Auckland,22 Mar 2013,edrich
-40,71,111,234,47.43,12,0,New Zealand,Lord's,16 May 2013,edrich
-104,28,132,189,69.84,13,0,New Zealand,Leeds,24 May 2013,edrich
-30,5,35,95,36.84,7,0,Australia,Nottingham,10 Jul 2013,edrich
-6,180,186,352,52.84,19,2,Australia,Lord's,18 Jul 2013,edrich
-8,13*,21,114,18.42,2,0,Australia,Manchester,1 Aug 2013,edrich
-16,2,18,71,25.35,1,0,Australia,Chester-le-Street,9 Aug 2013,edrich
-68,11,79,201,39.3,13,0,Australia,The Oval,21 Aug 2013,edrich
-2,26*,28,93,30.1,4,0,Australia,Brisbane,21 Nov 2013,edrich
-15,87,102,274,37.22,10,0,Australia,Adelaide,5 Dec 2013,edrich
-4,19,23,104,22.11,2,0,Australia,Perth,13 Dec 2013,edrich
-24,15,39,106,36.79,3,0,Australia,Melbourne,26 Dec 2013,edrich
-200*,15,215,316,68.03,18,0,Sri Lanka,Lord's,12 Jun 2014,edrich
-13,31,44,140,31.42,6,0,Sri Lanka,Leeds,20 Jun 2014,edrich
-154*,-,154,295,52.2,15,0,India,Nottingham,9 Jul 2014,edrich
-13,66,79,196,40.3,7,0,India,Lord's,17 Jul 2014,edrich
-3,56,59,66,89.39,9,0,India,Southampton,27 Jul 2014,edrich
-77,-,77,161,47.82,7,0,India,Manchester,7 Aug 2014,edrich
-149*,-,149,165,90.3,18,1,India,The Oval,15 Aug 2014,edrich
-83,59,142,212,66.98,16,1,West Indies,North Sound,13 Apr 2015,edrich
-182*,DNB,182,229,79.47,17,4,West Indies,St George's,21 Apr 2015,edrich
-33,1,34,48,70.83,5,0,West Indies,Bridgetown,1 May 2015,edrich
-98,84,182,300,60.66,23,0,New Zealand,Lord's,21 May 2015,edrich
-1,0,1,7,14.28,0,0,New Zealand,Leeds,29 May 2015,edrich
-2,DNB,2,8,25,0,0,Sri Lanka,Colombo (SSC),9 Dec 2007,broad
-1,16,17,46,36.95,1,0,New Zealand,Wellington,13 Mar 2008,broad
-42,31*,73,129,56.58,8,2,New Zealand,Napier,22 Mar 2008,broad
-25,-,25,65,38.46,3,0,New Zealand,Lord's,15 May 2008,broad
-30,DNB,30,50,60,4,0,New Zealand,Manchester,23 May 2008,broad
-64,-,64,132,48.48,10,0,New Zealand,Nottingham,5 Jun 2008,broad
-76,-,76,124,61.29,10,0,South Africa,Lord's,10 Jul 2008,broad
-17,67*,84,80,105,14,0,South Africa,Leeds,18 Jul 2008,broad
-1,DNB,1,36,2.77,0,0,South Africa,The Oval,7 Aug 2008,broad
-1,DNB,1,9,11.11,0,0,India,Mohali,19 Dec 2008,broad
-4,0,4,20,20,0,0,West Indies,Kingston,4 Feb 2009,broad
-DNB,-,-,-,-,-,-,West Indies,North Sound,13 Feb 2009,broad
-44,1,45,58,77.58,6,1,West Indies,St John's,15 Feb 2009,broad
-13*,DNB,13,10,130,2,0,West Indies,Bridgetown,26 Feb 2009,broad
-19,13*,32,43,74.41,3,0,West Indies,Port of Spain,6 Mar 2009,broad
-38,DNB,38,71,53.52,5,0,West Indies,Lord's,6 May 2009,broad
-28*,-,28,25,112,2,1,West Indies,Chester-le-Street,14 May 2009,broad
-19,14,33,67,49.25,5,0,Australia,Cardiff,8 Jul 2009,broad
-16,0*,16,26,61.53,2,0,Australia,Lord's,16 Jul 2009,broad
-55,-,55,64,85.93,9,0,Australia,Birmingham,30 Jul 2009,broad
-3,61,64,61,104.91,10,0,Australia,Leeds,7 Aug 2009,broad
-37,29,66,104,63.46,10,0,Australia,The Oval,20 Aug 2009,broad
-17,0,17,39,43.58,2,0,South Africa,Centurion,16 Dec 2009,broad
-20,-,20,59,33.89,1,1,South Africa,Durban,26 Dec 2009,broad
-25,0,25,61,40.98,4,0,South Africa,Cape Town,3 Jan 2010,broad
-13,1,14,22,63.63,2,0,South Africa,Johannesburg,14 Jan 2010,broad
-DNB,DNB,-,-,-,-,-,Bangladesh,Chittagong,12 Mar 2010,broad
-3,DNB,3,14,21.42,0,0,Bangladesh,Dhaka,20 Mar 2010,broad
-3,24,27,31,87.09,2,1,Pakistan,Nottingham,29 Jul 2010,broad
-0,DNB,0,3,0,0,0,Pakistan,Birmingham,6 Aug 2010,broad
-48,6,54,93,58.06,8,0,Pakistan,The Oval,18 Aug 2010,broad
-169,-,169,297,56.9,18,1,Pakistan,Lord's,26 Aug 2010,broad
-0,DNB,0,1,0,0,0,Australia,Brisbane,25 Nov 2010,broad
-DNB,-,-,-,-,-,-,Australia,Adelaide,3 Dec 2010,broad
-DNB,-,-,-,-,-,-,Sri Lanka,Cardiff,26 May 2011,broad
-54,3,57,58,98.27,9,0,Sri Lanka,Lord's,3 Jun 2011,broad
-0,-,0,6,0,0,0,Sri Lanka,Southampton,16 Jun 2011,broad
-0,74*,74,91,81.31,9,0,India,Lord's,21 Jul 2011,broad
-64,44,108,98,110.2,14,2,India,Nottingham,29 Jul 2011,broad
-DNB,-,-,-,-,-,-,India,Birmingham,10 Aug 2011,broad
-DNB,-,-,-,-,-,-,India,The Oval,18 Aug 2011,broad
-8,17,25,41,60.97,2,0,Pakistan,Dubai (DSC),17 Jan 2012,broad
-58*,0,58,64,90.62,6,1,Pakistan,Abu Dhabi,25 Jan 2012,broad
-4,18,22,43,51.16,2,0,Pakistan,Dubai (DSC),3 Feb 2012,broad
-28,5*,33,27,122.22,5,1,Sri Lanka,Galle,26 Mar 2012,broad
-10,DNB,10,22,45.45,1,0,West Indies,Lord's,17 May 2012,broad
-25,DNB,25,47,53.19,3,0,West Indies,Nottingham,25 May 2012,broad
-16,0,16,33,48.48,2,0,South Africa,The Oval,19 Jul 2012,broad
-1,DNB,1,8,12.5,0,0,South Africa,Leeds,2 Aug 2012,broad
-16,37,53,64,82.81,4,1,South Africa,Lord's,16 Aug 2012,broad
-25,3,28,34,82.35,2,1,India,Ahmedabad,15 Nov 2012,broad
-6,DNB,6,20,30,0,0,India,Mumbai,23 Nov 2012,broad
-10,DNB,10,8,125,2,0,New Zealand,Dunedin,6 Mar 2013,broad
-6,-,6,5,120,1,0,New Zealand,Wellington,14 Mar 2013,broad
-16,6,22,94,23.4,3,1,New Zealand,Auckland,22 Mar 2013,broad
-0,26*,26,28,92.85,4,0,New Zealand,Lord's,16 May 2013,broad
-0,DNB,0,2,0,0,0,New Zealand,Leeds,24 May 2013,broad
-24,65,89,178,50,12,0,Australia,Nottingham,10 Jul 2013,broad
-33,DNB,33,29,113.79,5,1,Australia,Lord's,18 Jul 2013,broad
-32,DNB,32,66,48.48,7,0,Australia,Manchester,1 Aug 2013,broad
-3,13,16,19,84.21,3,0,Australia,Chester-le-Street,9 Aug 2013,broad
-9,DNB,9,16,56.25,1,0,Australia,The Oval,21 Aug 2013,broad
-32,4,36,48,75,4,0,Australia,Brisbane,21 Nov 2013,broad
-0,29,29,27,107.4,3,1,Australia,Adelaide,5 Dec 2013,broad
-5,2*,7,20,35,1,0,Australia,Perth,13 Dec 2013,broad
-11,0,11,19,57.89,2,0,Australia,Melbourne,26 Dec 2013,broad
-30*,42,72,58,124.13,7,5,Australia,Sydney,3 Jan 2014,broad
-47,24,71,56,126.78,12,0,Sri Lanka,Lord's,12 Jun 2014,broad
-4,0,4,30,13.33,1,0,Sri Lanka,Leeds,20 Jun 2014,broad
-47,-,47,42,111.9,9,0,India,Nottingham,9 Jul 2014,broad
-4,8,12,16,75,2,0,India,Lord's,17 Jul 2014,broad
-DNB,DNB,-,-,-,-,-,India,Southampton,27 Jul 2014,broad
-12*,-,12,6,200,0,2,India,Manchester,7 Aug 2014,broad
-37,-,37,21,176.19,5,1,India,The Oval,15 Aug 2014,broad
-0,DNB,0,3,0,0,0,West Indies,North Sound,13 Apr 2015,broad
-0,DNB,0,4,0,0,0,West Indies,St George's,21 Apr 2015,broad
-10,0,10,14,71.42,2,0,West Indies,Bridgetown,1 May 2015,broad
-3,10,13,23,56.52,0,1,New Zealand,Lord's,21 May 2015,broad
-46,23,69,74,93.24,10,1,New Zealand,Leeds,29 May 2015,broad
-70,DNB,70,130,53.84,10,0,West Indies,The Oval,19 Aug 2004,bell
-65*,-,65,94,69.14,7,0,Bangladesh,Lord's,26 May 2005,bell
-162*,-,162,168,96.42,25,1,Bangladesh,Chester-le-Street,3 Jun 2005,bell
-6,8,14,40,35,1,0,Australia,Lord's,21 Jul 2005,bell
-6,21,27,46,58.69,3,0,Australia,Birmingham,4 Aug 2005,bell
-59,65,124,258,48.06,12,1,Australia,Manchester,11 Aug 2005,bell
-3,3,6,25,24,0,0,Australia,Nottingham,25 Aug 2005,bell
-0,0,0,8,0,0,0,Australia,The Oval,8 Sep 2005,bell
-71,31,102,206,49.51,7,1,Pakistan,Multan,12 Nov 2005,bell
-115,0,115,279,41.21,7,0,Pakistan,Faisalabad,20 Nov 2005,bell
-4,92,96,203,47.29,13,0,Pakistan,Lahore,29 Nov 2005,bell
-9,1,10,30,33.33,2,0,India,Nagpur,1 Mar 2006,bell
-38,57,95,205,46.34,13,0,India,Mohali,9 Mar 2006,bell
-18,8,26,99,26.26,2,0,India,Mumbai,18 Mar 2006,bell
-100*,28,128,229,55.89,12,0,Pakistan,Lord's,13 Jul 2006,bell
-106*,-,106,135,78.51,13,1,Pakistan,Manchester,27 Jul 2006,bell
-119,4,123,211,58.29,13,0,Pakistan,Leeds,4 Aug 2006,bell
-9,9*,18,51,35.29,2,0,Pakistan,The Oval,17 Aug 2006,bell
-50,0,50,166,30.12,5,0,Australia,Brisbane,23 Nov 2006,bell
-60,26,86,221,38.91,8,0,Australia,Adelaide,1 Dec 2006,bell
-0,87,87,165,52.72,8,2,Australia,Perth,14 Dec 2006,bell
-7,2,9,41,21.95,0,0,Australia,Melbourne,26 Dec 2006,bell
-71,28,99,204,48.52,13,0,Australia,Sydney,2 Jan 2007,bell
-109*,3,112,197,56.85,11,0,West Indies,Lord's,17 May 2007,bell
-5,-,5,12,41.66,1,0,West Indies,Leeds,25 May 2007,bell
-97,2,99,200,49.5,14,0,West Indies,Manchester,7 Jun 2007,bell
-11,DNB,11,40,27.5,1,0,West Indies,Chester-le-Street,15 Jun 2007,bell
-20,9,29,39,74.35,4,1,India,Lord's,19 Jul 2007,bell
-31,0,31,56,55.35,3,0,India,Nottingham,27 Jul 2007,bell
-63,67,130,158,82.27,23,0,India,The Oval,9 Aug 2007,bell
-83,74,157,334,47,18,0,Sri Lanka,Kandy,1 Dec 2007,bell
-15,54,69,150,46,8,0,Sri Lanka,Colombo (SSC),9 Dec 2007,bell
-1,34,35,73,47.94,3,0,Sri Lanka,Galle,18 Dec 2007,bell
-25,54*,79,239,33.05,9,2,New Zealand,Hamilton,5 Mar 2008,bell
-11,41,52,121,42.97,6,0,New Zealand,Wellington,13 Mar 2008,bell
-9,110,119,225,52.88,18,2,New Zealand,Napier,22 Mar 2008,bell
-16,-,16,35,45.71,2,0,New Zealand,Lord's,15 May 2008,bell
-8,21*,29,71,40.84,4,0,New Zealand,Manchester,23 May 2008,bell
-0,-,0,3,0,0,0,New Zealand,Nottingham,5 Jun 2008,bell
-199,-,199,336,59.22,20,1,South Africa,Lord's,10 Jul 2008,bell
-31,4,35,79,44.3,5,0,South Africa,Leeds,18 Jul 2008,bell
-50,20,70,125,56,13,0,South Africa,Birmingham,30 Jul 2008,bell
-24,4,28,60,46.66,4,0,South Africa,The Oval,7 Aug 2008,bell
-17,7,24,64,37.5,2,0,India,Chennai,11 Dec 2008,bell
-1,24*,25,73,34.24,2,0,India,Mohali,19 Dec 2008,bell
-28,4,32,94,34.04,3,0,West Indies,Kingston,4 Feb 2009,bell
-53,-,53,114,46.49,7,1,Australia,Birmingham,30 Jul 2009,bell
-8,3,11,38,28.94,2,0,Australia,Leeds,7 Aug 2009,bell
-72,4,76,144,52.77,11,0,Australia,The Oval,20 Aug 2009,bell
-5,2,7,26,26.92,0,0,South Africa,Centurion,16 Dec 2009,bell
-140,-,140,227,61.67,10,1,South Africa,Durban,26 Dec 2009,bell
-48,78,126,334,37.72,18,0,South Africa,Cape Town,3 Jan 2010,bell
-35,5,40,103,38.83,7,0,South Africa,Johannesburg,14 Jan 2010,bell
-84,39*,123,160,76.87,13,1,Bangladesh,Chittagong,12 Mar 2010,bell
-138,DNB,138,262,52.67,15,1,Bangladesh,Dhaka,20 Mar 2010,bell
-17,DNB,17,36,47.22,0,0,Bangladesh,Lord's,27 May 2010,bell
-128,-,128,255,50.19,12,1,Bangladesh,Manchester,4 Jun 2010,bell
-76,DNB,76,131,58.01,8,0,Australia,Brisbane,25 Nov 2010,bell
-68*,-,68,97,70.1,8,1,Australia,Adelaide,3 Dec 2010,bell
-53,16,69,113,61.06,9,0,Australia,Perth,16 Dec 2010,bell
-1,-,1,13,7.69,0,0,Australia,Melbourne,26 Dec 2010,bell
-115,-,115,232,49.56,13,0,Australia,Sydney,3 Jan 2011,bell
-103*,-,103,159,64.77,11,1,Sri Lanka,Cardiff,26 May 2011,bell
-52,57*,109,149,73.15,16,0,Sri Lanka,Lord's,3 Jun 2011,bell
-119*,-,119,169,70.41,12,0,Sri Lanka,Southampton,16 Jun 2011,bell
-45,0,45,81,55.55,6,0,India,Lord's,21 Jul 2011,bell
-31,159,190,287,66.2,28,0,India,Nottingham,29 Jul 2011,bell
-34,-,34,43,79.06,6,0,India,Birmingham,10 Aug 2011,bell
-235,-,235,364,64.56,23,2,India,The Oval,18 Aug 2011,bell
-0,4,4,16,25,1,0,Pakistan,Dubai (DSC),17 Jan 2012,bell
-29,3,32,81,39.5,3,0,Pakistan,Abu Dhabi,25 Jan 2012,bell
-5,10,15,66,22.72,0,0,Pakistan,Dubai (DSC),3 Feb 2012,bell
-52,13,65,121,53.71,9,1,Sri Lanka,Galle,26 Mar 2012,bell
-18,DNB,18,53,33.96,1,0,Sri Lanka,Colombo (PSS),3 Apr 2012,bell
-61,63*,124,208,59.61,9,0,West Indies,Lord's,17 May 2012,bell
-22,DNB,22,32,68.75,3,0,West Indies,Nottingham,25 May 2012,bell
-76*,-,76,137,55.47,10,0,West Indies,Birmingham,7 Jun 2012,bell
-13,55,68,276,24.63,8,0,South Africa,The Oval,19 Jul 2012,bell
-11,3*,14,63,22.22,0,1,South Africa,Leeds,2 Aug 2012,bell
-58,4,62,194,31.95,7,0,South Africa,Lord's,16 Aug 2012,bell
-0,22,22,60,36.66,3,0,India,Ahmedabad,15 Nov 2012,bell
-5,28*,33,51,64.7,4,0,India,Kolkata,5 Dec 2012,bell
-1,116*,117,334,35.02,16,1,India,Nagpur,13 Dec 2012,bell
-24,26*,50,125,40,9,0,New Zealand,Dunedin,6 Mar 2013,bell
-11,-,11,46,23.91,2,0,New Zealand,Wellington,14 Mar 2013,bell
-17,75,92,331,27.79,11,0,New Zealand,Auckland,22 Mar 2013,bell
-31,6,37,144,25.69,4,0,New Zealand,Lord's,16 May 2013,bell
-30,6,36,81,44.44,6,0,New Zealand,Leeds,24 May 2013,bell
-25,109,134,330,40.6,21,0,Australia,Nottingham,10 Jul 2013,bell
-109,74,183,314,58.28,27,0,Australia,Lord's,18 Jul 2013,bell
-60,4*,64,126,50.79,10,1,Australia,Manchester,1 Aug 2013,bell
-6,113,119,227,52.42,11,0,Australia,Chester-le-Street,9 Aug 2013,bell
-45,17,62,160,38.75,6,0,Australia,The Oval,21 Aug 2013,bell
-5,32,37,86,43.02,3,0,Australia,Brisbane,21 Nov 2013,bell
-72*,6,78,125,62.4,10,4,Australia,Adelaide,5 Dec 2013,bell
-15,60,75,164,45.73,9,1,Australia,Perth,13 Dec 2013,bell
-27,0,27,99,27.27,1,0,Australia,Melbourne,26 Dec 2013,bell
-2,16,18,51,35.29,1,1,Australia,Sydney,3 Jan 2014,bell
-56,9,65,92,70.65,8,1,Sri Lanka,Lord's,12 Jun 2014,bell
-64,8,72,120,60,8,0,Sri Lanka,Leeds,20 Jun 2014,bell
-25,-,25,37,67.56,6,0,India,Nottingham,9 Jul 2014,bell
-16,1,17,60,28.33,2,0,India,Lord's,17 Jul 2014,bell
-167,23,190,277,68.59,23,3,India,Southampton,27 Jul 2014,bell
-58,-,58,82,70.73,8,1,India,Manchester,7 Aug 2014,bell
-7,-,7,16,43.75,0,0,India,The Oval,15 Aug 2014,bell
-143,11,154,291,52.92,22,1,West Indies,North Sound,13 Apr 2015,bell
-1,DNB,1,3,33.33,0,0,West Indies,St George's,21 Apr 2015,bell
-0,0,0,14,0,0,0,West Indies,Bridgetown,1 May 2015,bell
-1,29,30,66,45.45,4,0,New Zealand,Lord's,21 May 2015,bell
-12,1,13,45,28.88,1,1,New Zealand,Leeds,29 May 2015,bell
-60,104*,164,403,40.69,19,0,India,Nagpur,1 Mar 2006,cook
-17,2,19,58,32.75,2,0,India,Mohali,9 Mar 2006,cook
-89,-,89,184,48.36,10,0,Sri Lanka,Lord's,11 May 2006,cook
-23,34*,57,140,40.71,7,0,Sri Lanka,Birmingham,25 May 2006,cook
-24,5,29,77,37.66,1,0,Sri Lanka,Nottingham,2 Jun 2006,cook
-105,4,109,298,36.57,10,0,Pakistan,Lord's,13 Jul 2006,cook
-127,-,127,260,48.84,18,0,Pakistan,Manchester,27 Jul 2006,cook
-23,21,44,66,66.66,7,0,Pakistan,Leeds,4 Aug 2006,cook
-40,83,123,215,57.2,17,0,Pakistan,The Oval,17 Aug 2006,cook
+57,64*,121,168,72.02,14,4,Australia,Lord's,21 Jul 2005,pietersen
+71,20,91,111,81.98,10,3,Australia,Birmingham,4 Aug 2005,pietersen
+21,0,21,29,72.41,1,0,Australia,Manchester,11 Aug 2005,pietersen
+45,23,68,142,47.88,9,0,Australia,Nottingham,25 Aug 2005,pietersen
+14,158,172,212,81.13,17,7,Australia,The Oval,8 Sep 2005,pietersen
+16,92,108,199,54.27,15,0,Australia,Brisbane,23 Nov 2006,pietersen
+158,2,160,262,61.06,15,1,Australia,Adelaide,1 Dec 2006,pietersen
+70,60*,130,273,47.61,14,1,Australia,Perth,14 Dec 2006,pietersen
+21,1,22,78,28.2,0,0,Australia,Melbourne,26 Dec 2006,pietersen
+41,29,70,199,35.17,4,0,Australia,Sydney,2 Jan 2007,pietersen
+69,8,77,165,46.66,4,0,Australia,Cardiff,8 Jul 2009,pietersen
+32,44,76,143,53.14,9,0,Australia,Lord's,16 Jul 2009,pietersen
+43,DNB,43,70,61.42,6,0,Australia,Brisbane,25 Nov 2010,pietersen
+227,-,227,308,73.7,33,1,Australia,Adelaide,3 Dec 2010,pietersen
+0,3,3,26,11.53,0,0,Australia,Perth,16 Dec 2010,pietersen
+51,-,51,89,57.3,7,0,Australia,Melbourne,26 Dec 2010,pietersen
+36,-,36,70,51.42,4,0,Australia,Sydney,3 Jan 2011,pietersen
+14,64,78,173,45.08,15,0,Australia,Nottingham,10 Jul 2013,pietersen
+2,5,7,15,46.66,1,0,Australia,Lord's,18 Jul 2013,pietersen
+113,8,121,222,54.5,13,2,Australia,Manchester,1 Aug 2013,pietersen
+26,44,70,119,58.82,10,0,Australia,Chester-le-Street,9 Aug 2013,pietersen
+50,62,112,188,59.57,14,0,Australia,The Oval,21 Aug 2013,pietersen
+18,26,44,94,46.8,3,0,Australia,Brisbane,21 Nov 2013,pietersen
+4,53,57,111,51.35,2,3,Australia,Adelaide,5 Dec 2013,pietersen
+19,45,64,116,55.17,9,1,Australia,Perth,13 Dec 2013,pietersen
+71,49,120,251,47.8,11,1,Australia,Melbourne,26 Dec 2013,pietersen
+3,6,9,19,47.36,0,0,Australia,Sydney,3 Jan 2014,pietersen
 11,43,54,109,49.54,5,0,Australia,Brisbane,23 Nov 2006,cook
 27,9,36,92,39.13,3,0,Australia,Adelaide,1 Dec 2006,cook
 15,116,131,305,42.95,11,0,Australia,Perth,14 Dec 2006,cook
 11,20,31,83,37.34,2,0,Australia,Melbourne,26 Dec 2006,cook
 20,4,24,55,43.63,3,0,Australia,Sydney,2 Jan 2007,cook
-105,65,170,321,52.95,18,0,West Indies,Lord's,17 May 2007,cook
-42,-,42,76,55.26,2,0,West Indies,Leeds,25 May 2007,cook
-60,106,166,336,49.4,20,0,West Indies,Manchester,7 Jun 2007,cook
-13,7,20,28,71.42,3,0,West Indies,Chester-le-Street,15 Jun 2007,cook
-36,17,53,70,75.71,9,0,India,Lord's,19 Jul 2007,cook
-43,23,66,161,40.99,7,0,India,Nottingham,27 Jul 2007,cook
-61,43,104,183,56.83,16,0,India,The Oval,9 Aug 2007,cook
-0,4,4,7,57.14,1,0,Sri Lanka,Kandy,1 Dec 2007,cook
-81,62,143,358,39.94,13,0,Sri Lanka,Colombo (SSC),9 Dec 2007,cook
-13,118,131,312,41.98,15,0,Sri Lanka,Galle,18 Dec 2007,cook
-38,13,51,132,38.63,7,0,New Zealand,Hamilton,5 Mar 2008,cook
-44,60,104,228,45.61,12,1,New Zealand,Wellington,13 Mar 2008,cook
-2,37,39,90,43.33,7,0,New Zealand,Napier,22 Mar 2008,cook
-61,-,61,109,55.96,8,0,New Zealand,Lord's,15 May 2008,cook
-19,28,47,95,49.47,5,0,New Zealand,Manchester,23 May 2008,cook
-6,-,6,15,40,1,0,New Zealand,Nottingham,5 Jun 2008,cook
-60,-,60,132,45.45,9,0,South Africa,Lord's,10 Jul 2008,cook
-18,60,78,215,36.27,8,0,South Africa,Leeds,18 Jul 2008,cook
-76,9,85,137,62.04,14,0,South Africa,Birmingham,30 Jul 2008,cook
-39,67,106,208,50.96,17,0,South Africa,The Oval,7 Aug 2008,cook
-52,9,61,146,41.78,6,0,India,Chennai,11 Dec 2008,cook
-50,10,60,86,69.76,9,0,India,Mohali,19 Dec 2008,cook
-4,0,4,26,15.38,0,0,West Indies,Kingston,4 Feb 2009,cook
-1*,-,1,2,50,0,0,West Indies,North Sound,13 Feb 2009,cook
-52,58,110,237,46.41,12,0,West Indies,St John's,15 Feb 2009,cook
-94,139*,233,443,52.59,24,1,West Indies,Bridgetown,26 Feb 2009,cook
-12,24,36,62,58.06,2,0,West Indies,Port of Spain,6 Mar 2009,cook
-35,14*,49,113,43.36,6,0,West Indies,Lord's,6 May 2009,cook
-160,-,160,339,47.19,17,0,West Indies,Chester-le-Street,14 May 2009,cook
 10,6,16,37,43.24,1,0,Australia,Cardiff,8 Jul 2009,cook
 95,32,127,189,67.19,24,0,Australia,Lord's,16 Jul 2009,cook
 0,-,0,4,0,0,0,Australia,Birmingham,30 Jul 2009,cook
 30,30,60,149,40.26,7,0,Australia,Leeds,7 Aug 2009,cook
 10,9,19,47,40.42,2,0,Australia,The Oval,20 Aug 2009,cook
-15,12,27,73,36.98,4,0,South Africa,Centurion,16 Dec 2009,cook
-118,-,118,263,44.86,11,0,South Africa,Durban,26 Dec 2009,cook
-65,55,120,252,47.61,14,0,South Africa,Cape Town,3 Jan 2010,cook
-21,1,22,37,59.45,2,0,South Africa,Johannesburg,14 Jan 2010,cook
-173,39,212,338,62.72,19,2,Bangladesh,Chittagong,12 Mar 2010,cook
-21,109*,130,202,64.35,14,0,Bangladesh,Dhaka,20 Mar 2010,cook
-7,23,30,54,55.55,5,0,Bangladesh,Lord's,27 May 2010,cook
-29,-,29,57,50.87,4,0,Bangladesh,Manchester,4 Jun 2010,cook
-8,12,20,55,36.36,2,0,Pakistan,Nottingham,29 Jul 2010,cook
-17,4,21,42,50,4,0,Pakistan,Birmingham,6 Aug 2010,cook
-6,110,116,180,64.44,18,0,Pakistan,The Oval,18 Aug 2010,cook
-10,-,10,37,27.02,1,0,Pakistan,Lord's,26 Aug 2010,cook
 67,235*,302,596,50.67,32,0,Australia,Brisbane,25 Nov 2010,cook
 148,-,148,269,55.01,18,0,Australia,Adelaide,3 Dec 2010,cook
 32,13,45,79,56.96,4,1,Australia,Perth,16 Dec 2010,cook
 82,-,82,152,53.94,11,0,Australia,Melbourne,26 Dec 2010,cook
 189,-,189,342,55.26,16,0,Australia,Sydney,3 Jan 2011,cook
-133,-,133,274,48.54,10,0,Sri Lanka,Cardiff,26 May 2011,cook
-96,106,202,395,51.13,25,0,Sri Lanka,Lord's,3 Jun 2011,cook
-55,-,55,102,53.92,7,0,Sri Lanka,Southampton,16 Jun 2011,cook
-12,1,13,63,20.63,1,0,India,Lord's,21 Jul 2011,cook
-2,5,7,27,25.92,1,0,India,Nottingham,29 Jul 2011,cook
-294,-,294,545,53.94,33,0,India,Birmingham,10 Aug 2011,cook
-34,-,34,87,39.08,4,0,India,The Oval,18 Aug 2011,cook
-3,5,8,61,13.11,0,0,Pakistan,Dubai (DSC),17 Jan 2012,cook
-94,7,101,260,38.84,10,0,Pakistan,Abu Dhabi,25 Jan 2012,cook
-1,49,50,192,26.04,4,0,Pakistan,Dubai (DSC),3 Feb 2012,cook
-0,14,14,30,46.66,3,0,Sri Lanka,Galle,26 Mar 2012,cook
-94,49*,143,347,41.21,15,0,Sri Lanka,Colombo (PSS),3 Apr 2012,cook
-26,79,105,169,62.13,14,0,West Indies,Lord's,17 May 2012,cook
-24,43*,67,145,46.2,7,0,West Indies,Nottingham,25 May 2012,cook
-4,-,4,8,50,0,0,West Indies,Birmingham,7 Jun 2012,cook
-115,0,115,301,38.2,11,1,South Africa,The Oval,19 Jul 2012,cook
-24,46,70,140,50,7,1,South Africa,Leeds,2 Aug 2012,cook
-7,3,10,43,23.25,1,0,South Africa,Lord's,16 Aug 2012,cook
-41,176,217,483,44.92,28,0,India,Ahmedabad,15 Nov 2012,cook
-122,18*,140,300,46.66,14,1,India,Mumbai,23 Nov 2012,cook
-190,1,191,381,50.13,23,2,India,Kolkata,5 Dec 2012,cook
-1,13,14,121,11.57,1,0,India,Nagpur,13 Dec 2012,cook
-10,116,126,284,44.36,16,0,New Zealand,Dunedin,6 Mar 2013,cook
-17,-,17,31,54.83,1,0,New Zealand,Wellington,14 Mar 2013,cook
-4,43,47,152,30.92,5,0,New Zealand,Auckland,22 Mar 2013,cook
-32,21,53,146,36.3,3,0,New Zealand,Lord's,16 May 2013,cook
-34,130,164,271,60.51,24,0,New Zealand,Leeds,24 May 2013,cook
 13,50,63,191,32.98,8,0,Australia,Nottingham,10 Jul 2013,cook
 12,8,20,42,47.61,2,0,Australia,Lord's,18 Jul 2013,cook
 62,0,62,186,33.33,7,0,Australia,Manchester,1 Aug 2013,cook
@@ -1294,152 +51,112 @@ DNB,DNB,-,-,-,-,-,India,Southampton,27 Jul 2014,broad
 72,0,72,154,46.75,10,0,Australia,Perth,13 Dec 2013,cook
 27,51,78,111,70.27,10,0,Australia,Melbourne,26 Dec 2013,cook
 7,7,14,31,45.16,2,0,Australia,Sydney,3 Jan 2014,cook
-17,28,45,66,68.18,8,0,Sri Lanka,Lord's,12 Jun 2014,cook
-17,16,33,98,33.67,3,0,Sri Lanka,Leeds,20 Jun 2014,cook
-5,-,5,10,50,1,0,India,Nottingham,9 Jul 2014,cook
-10,22,32,122,26.22,4,0,India,Lord's,17 Jul 2014,cook
-95,70*,165,345,47.82,16,0,India,Southampton,27 Jul 2014,cook
-17,-,17,42,40.47,2,0,India,Manchester,7 Aug 2014,cook
-79,-,79,183,43.16,9,0,India,The Oval,15 Aug 2014,cook
-11,13,24,50,48,3,0,West Indies,North Sound,13 Apr 2015,cook
-76,59*,135,332,40.66,16,0,West Indies,St George's,21 Apr 2015,cook
-105,4,109,282,38.65,12,0,West Indies,Bridgetown,1 May 2015,cook
-16,162,178,381,46.71,20,0,New Zealand,Lord's,21 May 2015,cook
-75,56,131,358,36.59,16,0,New Zealand,Leeds,29 May 2015,cook
-1,12,13,24,54.16,1,0,Pakistan,Lord's,13 Jul 2010,smith
-10,77,87,108,80.55,11,2,Pakistan,Leeds,21 Jul 2010,smith
-7,36,43,99,43.43,2,0,England,Perth,16 Dec 2010,smith
-6,38,44,82,53.65,6,0,England,Melbourne,26 Dec 2010,smith
-18,54*,72,143,50.34,7,0,England,Sydney,3 Jan 2011,smith
-92,5,97,204,47.54,10,1,India,Mohali,14 Mar 2013,smith
-46,18,64,198,32.32,4,2,India,Delhi,22 Mar 2013,smith
-53,17,70,127,55.11,9,1,England,Nottingham,10 Jul 2013,smith
-2,1,3,28,10.71,0,0,England,Lord's,18 Jul 2013,smith
-89,19,108,215,50.23,8,2,England,Manchester,1 Aug 2013,smith
-17,2,19,53,35.84,3,0,England,Chester-le-Street,9 Aug 2013,smith
-138*,7,145,253,57.31,16,2,England,The Oval,21 Aug 2013,smith
-31,0,31,66,46.96,4,0,England,Brisbane,21 Nov 2013,smith
-6,23*,29,71,40.84,3,0,England,Adelaide,5 Dec 2013,smith
-111,15,126,258,48.83,14,2,England,Perth,13 Dec 2013,smith
-19,DNB,19,77,24.67,3,0,England,Melbourne,26 Dec 2013,smith
-115,7,122,166,73.49,18,1,England,Sydney,3 Jan 2014,smith
-100,DNB,100,213,46.94,13,0,South Africa,Centurion,12 Feb 2014,smith
-49,0,49,73,67.12,8,0,South Africa,Port Elizabeth,20 Feb 2014,smith
-84,36*,120,175,68.57,14,3,South Africa,Cape Town,1 Mar 2014,smith
-22,55,77,219,35.15,6,0,Pakistan,Dubai (DSC),22 Oct 2014,smith
-0,97,97,210,46.19,12,0,Pakistan,Abu Dhabi,30 Oct 2014,smith
-162*,52*,214,295,72.54,26,0,India,Adelaide,9 Dec 2014,smith
-133,28,161,230,70,17,2,India,Brisbane,17 Dec 2014,smith
-192,14,206,332,62.04,17,2,India,Melbourne,26 Dec 2014,smith
-117,71,188,278,67.62,23,1,India,Sydney,6 Jan 2015,smith
-25,5*,30,94,31.91,2,0,West Indies,Roseau,3 Jun 2015,smith
-199,54*,253,444,56.98,26,3,West Indies,Kingston,11 Jun 2015,smith
-11,23,34,111,30.63,3,0,West Indies,Kingston,22 May 2008,haddin
-33,7,40,67,59.7,7,0,West Indies,North Sound,30 May 2008,haddin
-32,45*,77,149,51.67,11,1,West Indies,Bridgetown,12 Jun 2008,haddin
-33,35*,68,171,39.76,7,0,India,Bangalore,9 Oct 2008,haddin
-9,37,46,134,34.32,7,0,India,Mohali,17 Oct 2008,haddin
-17,DNB,17,35,48.57,1,1,India,Delhi,29 Oct 2008,haddin
-28,4,32,90,35.55,3,0,India,Nagpur,6 Nov 2008,haddin
-6,19,25,63,39.68,4,0,New Zealand,Brisbane,20 Nov 2008,haddin
-169,-,169,222,76.12,24,2,New Zealand,Adelaide,28 Nov 2008,haddin
-46,94,140,204,68.62,11,6,South Africa,Perth,17 Dec 2008,haddin
-40,10,50,106,47.16,5,1,South Africa,Melbourne,26 Dec 2008,haddin
-38,DNB,38,79,48.1,4,1,South Africa,Sydney,3 Jan 2009,haddin
-63,37,100,159,62.89,10,2,South Africa,Johannesburg,26 Feb 2009,haddin
-5,DNB,5,10,50,0,0,South Africa,Durban,6 Mar 2009,haddin
-42,18,60,94,63.82,11,0,South Africa,Cape Town,19 Mar 2009,haddin
-121,-,121,151,80.13,11,3,England,Cardiff,8 Jul 2009,haddin
-28,80,108,168,64.28,13,0,England,Lord's,16 Jul 2009,haddin
-14,-,14,23,60.86,1,0,England,Leeds,7 Aug 2009,haddin
-1,34,35,58,60.34,6,0,England,The Oval,20 Aug 2009,haddin
-38,-,38,75,50.66,6,1,West Indies,Brisbane,26 Nov 2009,haddin
-55*,21*,76,137,55.47,7,1,West Indies,Adelaide,4 Dec 2009,haddin
-88,23,111,119,93.27,13,3,West Indies,Perth,16 Dec 2009,haddin
-DNB,0,0,2,0,0,0,Pakistan,Melbourne,26 Dec 2009,haddin
-6,15,21,34,61.76,0,0,Pakistan,Sydney,3 Jan 2010,haddin
-41,8,49,37,132.43,5,2,Pakistan,Hobart,14 Jan 2010,haddin
-11*,DNB,11,18,61.11,2,0,New Zealand,Wellington,19 Mar 2010,haddin
-12,48,60,71,84.5,6,3,New Zealand,Hamilton,27 Mar 2010,haddin
-136,DNB,136,287,47.38,16,1,England,Brisbane,25 Nov 2010,haddin
-56,12,68,116,58.62,5,1,England,Adelaide,3 Dec 2010,haddin
-53,7,60,90,66.66,6,2,England,Perth,16 Dec 2010,haddin
-5,55*,60,109,55.04,5,1,England,Melbourne,26 Dec 2010,haddin
-6,30,36,54,66.66,3,0,England,Sydney,3 Jan 2011,haddin
-24,0,24,51,47.05,3,1,Sri Lanka,Galle,31 Aug 2011,haddin
-1,-,1,5,20,0,0,Sri Lanka,Pallekele,8 Sep 2011,haddin
-35,30,65,119,54.62,10,0,Sri Lanka,Colombo (SSC),16 Sep 2011,haddin
-5,0,5,11,45.45,1,0,South Africa,Cape Town,9 Nov 2011,haddin
-16,55,71,129,55.03,10,0,South Africa,Johannesburg,17 Nov 2011,haddin
-80,DNB,80,145,55.17,6,2,New Zealand,Brisbane,1 Dec 2011,haddin
-5,15,20,34,58.82,3,0,New Zealand,Hobart,9 Dec 2011,haddin
-27,6,33,84,39.28,1,0,India,Melbourne,26 Dec 2011,haddin
-DNB,-,-,-,-,-,-,India,Sydney,3 Jan 2012,haddin
-0,-,0,3,0,0,0,India,Perth,13 Jan 2012,haddin
-42*,11*,53,92,57.6,3,2,India,Adelaide,24 Jan 2012,haddin
-21,30,51,108,47.22,7,1,India,Mohali,14 Mar 2013,haddin
-1,71,72,149,48.32,9,0,England,Nottingham,10 Jul 2013,haddin
-7,7,14,74,18.91,1,0,England,Lord's,18 Jul 2013,haddin
-65*,8,73,108,67.59,7,0,England,Manchester,1 Aug 2013,haddin
-13,4,17,28,60.71,2,0,England,Chester-le-Street,9 Aug 2013,haddin
-30,0,30,58,51.72,5,0,England,The Oval,21 Aug 2013,haddin
-94,53,147,208,70.67,13,1,England,Brisbane,21 Nov 2013,haddin
-118,DNB,118,177,66.66,11,5,England,Adelaide,5 Dec 2013,haddin
-55,5,60,106,56.6,6,2,England,Perth,13 Dec 2013,haddin
-65,DNB,65,68,95.58,7,1,England,Melbourne,26 Dec 2013,haddin
-75,28,103,130,79.23,16,0,England,Sydney,3 Jan 2014,haddin
-0,DNB,0,3,0,0,0,South Africa,Centurion,12 Feb 2014,haddin
-9,1,10,37,27.02,1,0,South Africa,Port Elizabeth,20 Feb 2014,haddin
-13,3*,16,24,66.66,2,0,South Africa,Cape Town,1 Mar 2014,haddin
-22,0,22,56,39.28,2,1,Pakistan,Dubai (DSC),22 Oct 2014,haddin
-10,13,23,60,38.33,3,0,Pakistan,Abu Dhabi,30 Oct 2014,haddin
-0,14*,14,20,70,2,0,India,Adelaide,9 Dec 2014,haddin
-6,1,7,14,50,1,0,India,Brisbane,17 Dec 2014,haddin
-55,13,68,111,61.26,7,1,India,Melbourne,26 Dec 2014,haddin
-9*,31*,40,41,97.56,2,3,India,Sydney,6 Jan 2015,haddin
-8,DNB,8,10,80,0,1,West Indies,Roseau,3 Jun 2015,haddin
-22,DNB,22,23,95.65,3,1,West Indies,Kingston,11 Jun 2015,haddin
-31,DNB,31,62,50,4,0,Pakistan,Sydney,2 Jan 2005,watson
-24,10,34,97,35.05,2,0,ICC World XI,Sydney,14 Oct 2005,watson
-16,DNB,16,53,30.18,2,0,West Indies,Brisbane,3 Nov 2005,watson
-2,41,43,86,50,6,0,India,Bangalore,9 Oct 2008,watson
-78,2,80,178,44.94,10,1,India,Mohali,17 Oct 2008,watson
-36,DNB,36,62,58.06,8,0,India,Delhi,29 Oct 2008,watson
-2,9,11,56,19.64,0,0,India,Nagpur,6 Nov 2008,watson
-1,5,6,18,33.33,1,0,New Zealand,Brisbane,20 Nov 2008,watson
+6,8,14,40,35,1,0,Australia,Lord's,21 Jul 2005,bell
+6,21,27,46,58.69,3,0,Australia,Birmingham,4 Aug 2005,bell
+59,65,124,258,48.06,12,1,Australia,Manchester,11 Aug 2005,bell
+3,3,6,25,24,0,0,Australia,Nottingham,25 Aug 2005,bell
+0,0,0,8,0,0,0,Australia,The Oval,8 Sep 2005,bell
+50,0,50,166,30.12,5,0,Australia,Brisbane,23 Nov 2006,bell
+60,26,86,221,38.91,8,0,Australia,Adelaide,1 Dec 2006,bell
+0,87,87,165,52.72,8,2,Australia,Perth,14 Dec 2006,bell
+7,2,9,41,21.95,0,0,Australia,Melbourne,26 Dec 2006,bell
+71,28,99,204,48.52,13,0,Australia,Sydney,2 Jan 2007,bell
+53,-,53,114,46.49,7,1,Australia,Birmingham,30 Jul 2009,bell
+8,3,11,38,28.94,2,0,Australia,Leeds,7 Aug 2009,bell
+72,4,76,144,52.77,11,0,Australia,The Oval,20 Aug 2009,bell
+76,DNB,76,131,58.01,8,0,Australia,Brisbane,25 Nov 2010,bell
+68*,-,68,97,70.1,8,1,Australia,Adelaide,3 Dec 2010,bell
+53,16,69,113,61.06,9,0,Australia,Perth,16 Dec 2010,bell
+1,-,1,13,7.69,0,0,Australia,Melbourne,26 Dec 2010,bell
+115,-,115,232,49.56,13,0,Australia,Sydney,3 Jan 2011,bell
+25,109,134,330,40.6,21,0,Australia,Nottingham,10 Jul 2013,bell
+109,74,183,314,58.28,27,0,Australia,Lord's,18 Jul 2013,bell
+60,4*,64,126,50.79,10,1,Australia,Manchester,1 Aug 2013,bell
+6,113,119,227,52.42,11,0,Australia,Chester-le-Street,9 Aug 2013,bell
+45,17,62,160,38.75,6,0,Australia,The Oval,21 Aug 2013,bell
+5,32,37,86,43.02,3,0,Australia,Brisbane,21 Nov 2013,bell
+72*,6,78,125,62.4,10,4,Australia,Adelaide,5 Dec 2013,bell
+15,60,75,164,45.73,9,1,Australia,Perth,13 Dec 2013,bell
+27,0,27,99,27.27,1,0,Australia,Melbourne,26 Dec 2013,bell
+2,16,18,51,35.29,1,1,Australia,Sydney,3 Jan 2014,bell
+41,119,160,274,58.39,17,0,Australia,The Oval,20 Aug 2009,trott
+29,135*,164,319,51.41,24,0,Australia,Brisbane,25 Nov 2010,trott
+78,-,78,144,54.16,11,0,Australia,Adelaide,3 Dec 2010,trott
+4,31,35,69,50.72,4,0,Australia,Perth,16 Dec 2010,trott
+168*,-,168,345,48.69,13,0,Australia,Melbourne,26 Dec 2010,trott
+0,-,0,6,0,0,0,Australia,Sydney,3 Jan 2011,trott
+48,0,48,81,59.25,9,0,Australia,Nottingham,10 Jul 2013,trott
+58,0,58,93,62.36,11,0,Australia,Lord's,18 Jul 2013,trott
+5,11,16,59,27.11,1,0,Australia,Manchester,1 Aug 2013,trott
+49,23,72,89,80.89,10,0,Australia,Chester-le-Street,9 Aug 2013,trott
+40,59,99,221,44.79,8,0,Australia,The Oval,21 Aug 2013,trott
+10,9,19,28,67.85,2,0,Australia,Brisbane,21 Nov 2013,trott
+0,3,3,15,20,0,0,v Australia,Lord's,21 Jul 2005,flintoff
+68,73,141,148,95.27,12,9,v Australia,Birmingham,4 Aug 2005,flintoff
+46,4,50,85,58.82,7,0,v Australia,Manchester,11 Aug 2005,flintoff
+102,26,128,166,77.1,17,1,v Australia,Nottingham,25 Aug 2005,flintoff
+72,8,80,128,62.5,13,1,v Australia,The Oval,8 Sep 2005,flintoff
+0,16,16,29,55.17,4,0,v Australia,Brisbane,23 Nov 2006,flintoff
+38*,2,40,91,43.95,2,1,v Australia,Adelaide,1 Dec 2006,flintoff
+13,51,64,98,65.3,10,1,v Australia,Perth,14 Dec 2006,flintoff
+13,25,38,76,50,3,0,v Australia,Melbourne,26 Dec 2006,flintoff
+89,7,96,163,58.89,12,1,v Australia,Sydney,2 Jan 2007,flintoff
+37,26,63,122,51.63,9,0,v Australia,Cardiff,8 Jul 2009,flintoff
+4,30*,34,37,91.89,5,0,v Australia,Lord's,16 Jul 2009,flintoff
+74,-,74,79,93.67,10,1,v Australia,Birmingham,30 Jul 2009,flintoff
+7,22,29,37,78.37,5,0,v Australia,The Oval,20 Aug 2009,flintoff
+40,6,46,59,77.96,6,0,England,Lord's,21 Jul 2005,langer
+82,28,110,201,54.72,11,0,England,Birmingham,4 Aug 2005,langer
+31,14,45,91,49.45,7,0,England,Manchester,11 Aug 2005,langer
+27,61,88,171,51.46,13,0,England,Nottingham,25 Aug 2005,langer
+105,0*,105,150,70,11,2,England,The Oval,8 Sep 2005,langer
+82,100*,182,244,74.59,22,0,England,Brisbane,23 Nov 2006,langer
+4,7,11,16,68.75,2,0,England,Adelaide,1 Dec 2006,langer
+37,0,37,69,53.62,6,0,England,Perth,14 Dec 2006,langer
+27,-,27,29,93.1,3,0,England,Melbourne,26 Dec 2006,langer
+26,20*,46,70,65.71,6,0,England,Sydney,2 Jan 2007,langer
+86,DNB,86,187,45.98,8,0,England,Brisbane,23 Nov 2006,hussey
+91,61*,152,278,54.67,12,1,England,Adelaide,1 Dec 2006,hussey
+74*,103,177,318,55.66,22,0,England,Perth,14 Dec 2006,hussey
+6,-,6,20,30,0,0,England,Melbourne,26 Dec 2006,hussey
+37,DNB,37,100,37,3,1,England,Sydney,2 Jan 2007,hussey
+3,-,3,16,18.75,0,0,England,Cardiff,8 Jul 2009,hussey
+51,27,78,154,50.64,11,0,England,Lord's,16 Jul 2009,hussey
+0,64,64,131,48.85,13,0,England,Birmingham,30 Jul 2009,hussey
+10,-,10,10,100,2,0,England,Leeds,7 Aug 2009,hussey
+0,121,121,266,45.48,14,0,England,The Oval,20 Aug 2009,hussey
+195,DNB,195,330,59.09,26,1,England,Brisbane,25 Nov 2010,hussey
+93,52,145,290,50,13,1,England,Adelaide,3 Dec 2010,hussey
+61,116,177,276,64.13,24,1,England,Perth,16 Dec 2010,hussey
+8,0,8,48,16.66,1,0,England,Melbourne,26 Dec 2010,hussey
+33,12,45,141,31.91,3,0,England,Sydney,3 Jan 2011,hussey
+9,42,51,83,61.44,4,0,England,Lord's,21 Jul 2005,ponting
+61,0,61,81,75.3,12,0,England,Birmingham,4 Aug 2005,ponting
+7,156,163,287,56.79,17,1,England,Manchester,11 Aug 2005,ponting
+1,48,49,95,51.57,3,1,England,Nottingham,25 Aug 2005,ponting
+35,DNB,35,56,62.5,3,0,England,The Oval,8 Sep 2005,ponting
+196,60*,256,404,63.36,28,0,England,Brisbane,23 Nov 2006,ponting
+142,49,191,310,61.61,17,0,England,Adelaide,1 Dec 2006,ponting
+2,75,77,139,55.39,9,0,England,Perth,14 Dec 2006,ponting
+7,-,7,28,25,0,0,England,Melbourne,26 Dec 2006,ponting
+45,DNB,45,72,62.5,6,0,England,Sydney,2 Jan 2007,ponting
+150,-,150,224,66.96,14,1,England,Cardiff,8 Jul 2009,ponting
+2,38,40,84,47.61,6,0,England,Lord's,16 Jul 2009,ponting
+38,5,43,54,79.62,5,0,England,Birmingham,30 Jul 2009,ponting
+78,-,78,101,77.22,12,1,England,Leeds,7 Aug 2009,ponting
+8,66,74,118,62.71,11,0,England,The Oval,20 Aug 2009,ponting
+10,51*,61,69,88.4,5,1,England,Brisbane,25 Nov 2010,ponting
+0,9,9,20,45,2,0,England,Adelaide,3 Dec 2010,ponting
+12,1,13,19,68.42,3,0,England,Perth,16 Dec 2010,ponting
+10,20,30,111,27.02,4,0,England,Melbourne,26 Dec 2010,ponting
 62,53,115,220,52.27,19,0,England,Birmingham,30 Jul 2009,watson
 51,-,51,67,76.11,9,0,England,Leeds,7 Aug 2009,watson
 34,40,74,150,49.33,13,0,England,The Oval,20 Aug 2009,watson
-0,-,0,7,0,0,0,West Indies,Brisbane,26 Nov 2009,watson
-96,48,144,278,51.79,20,0,West Indies,Adelaide,4 Dec 2009,watson
-89,30,119,185,64.32,19,0,West Indies,Perth,16 Dec 2009,watson
-93,120*,213,411,51.82,21,1,Pakistan,Melbourne,26 Dec 2009,watson
-6,97,103,182,56.59,12,3,Pakistan,Sydney,3 Jan 2010,watson
-29,1,30,57,52.63,5,0,Pakistan,Hobart,14 Jan 2010,watson
-12,65,77,131,58.77,12,2,New Zealand,Hamilton,27 Mar 2010,watson
-4,31,35,67,52.23,5,1,Pakistan,Lord's,13 Jul 2010,watson
-5,24,29,67,43.28,5,0,Pakistan,Leeds,21 Jul 2010,watson
-126,56,182,397,45.84,17,1,India,Mohali,1 Oct 2010,watson
-57,32,89,146,60.95,13,0,India,Bangalore,9 Oct 2010,watson
 36,41*,77,173,44.5,10,0,England,Brisbane,25 Nov 2010,watson
 51,57,108,235,45.95,17,1,England,Adelaide,3 Dec 2010,watson
 13,95,108,214,50.46,12,0,England,Perth,16 Dec 2010,watson
 5,54,59,114,51.75,6,0,England,Melbourne,26 Dec 2010,watson
 45,38,83,167,49.7,12,0,England,Sydney,3 Jan 2011,watson
-22,0,22,20,110,5,0,Sri Lanka,Galle,31 Aug 2011,watson
-36,-,36,57,63.15,6,0,Sri Lanka,Pallekele,8 Sep 2011,watson
-8,21,29,51,56.86,5,0,Sri Lanka,Colombo (SSC),16 Sep 2011,watson
-3,4,7,18,38.88,1,0,South Africa,Cape Town,9 Nov 2011,watson
-88,0,88,142,61.97,14,2,South Africa,Johannesburg,17 Nov 2011,watson
-39,52,91,137,66.42,9,2,West Indies,Bridgetown,7 Apr 2012,watson
-56,0,56,175,32,7,0,West Indies,Port of Spain,15 Apr 2012,watson
-41,5,46,133,34.58,3,0,West Indies,Roseau,23 Apr 2012,watson
-10,25,35,58,60.34,5,0,South Africa,Perth,30 Nov 2012,watson
-30,5,35,78,44.87,3,0,Sri Lanka,Hobart,14 Dec 2012,watson
-83,-,83,198,41.91,8,1,Sri Lanka,Melbourne,26 Dec 2012,watson
-28,17,45,106,42.45,4,1,India,Chennai,22 Feb 2013,watson
-23,9,32,66,48.48,4,1,India,Hyderabad (Deccan),2 Mar 2013,watson
-17,5,22,67,32.83,4,0,India,Delhi,22 Mar 2013,watson
 13,46,59,88,67.04,11,0,England,Nottingham,10 Jul 2013,watson
 30,20,50,65,76.92,9,0,England,Lord's,18 Jul 2013,watson
 19,18,37,73,50.68,3,0,England,Manchester,1 Aug 2013,watson
@@ -1450,105 +167,26 @@ DNB,-,-,-,-,-,-,India,Sydney,3 Jan 2012,haddin
 18,103,121,137,88.32,14,5,England,Perth,13 Dec 2013,watson
 10,83*,93,105,88.57,13,0,England,Melbourne,26 Dec 2013,watson
 43,9,52,68,76.47,9,0,England,Sydney,3 Jan 2014,watson
-40,25,65,49,132.65,3,5,South Africa,Cape Town,1 Mar 2014,watson
-14,33,47,119,39.49,7,1,India,Adelaide,9 Dec 2014,watson
-25,0,25,37,67.56,4,0,India,Brisbane,17 Dec 2014,watson
-52,17,69,123,56.09,5,0,India,Melbourne,26 Dec 2014,watson
-81,16,97,200,48.5,10,0,India,Sydney,6 Jan 2015,watson
-11,DNB,11,13,84.61,2,0,West Indies,Roseau,3 Jun 2015,watson
-25,DNB,25,73,34.24,4,0,West Indies,Kingston,11 Jun 2015,watson
-151,17,168,302,55.62,20,4,India,Bangalore,6 Oct 2004,clarke
-5,39*,44,126,34.92,4,0,India,Chennai,14 Oct 2004,clarke
-91,73,164,255,64.31,24,1,India,Nagpur,26 Oct 2004,clarke
-17,7,24,39,61.53,1,2,India,Mumbai,3 Nov 2004,clarke
-141,-,141,200,70.5,21,1,New Zealand,Brisbane,18 Nov 2004,clarke
-7,DNB,7,16,43.75,1,0,New Zealand,Adelaide,26 Nov 2004,clarke
-1,27,28,53,52.83,1,1,Pakistan,Perth,16 Dec 2004,clarke
-20,DNB,20,53,37.73,1,1,Pakistan,Melbourne,26 Dec 2004,clarke
-35,DNB,35,50,70,5,1,Pakistan,Sydney,2 Jan 2005,clarke
-8,DNB,8,8,100,2,0,New Zealand,Christchurch,10 Mar 2005,clarke
-8,-,8,32,25,0,0,New Zealand,Wellington,18 Mar 2005,clarke
-22,DNB,22,71,30.98,1,0,New Zealand,Auckland,26 Mar 2005,clarke
 11,91,102,128,79.68,17,0,England,Lord's,21 Jul 2005,clarke
 40,30,70,125,56,11,0,England,Birmingham,4 Aug 2005,clarke
 7,39,46,81,56.79,7,0,England,Manchester,11 Aug 2005,clarke
 36,56,92,223,41.25,11,0,England,Nottingham,25 Aug 2005,clarke
 25,DNB,25,59,42.37,2,0,England,The Oval,8 Sep 2005,clarke
-39,5,44,76,57.89,5,0,ICC World XI,Sydney,14 Oct 2005,clarke
-5,14*,19,31,61.29,2,0,West Indies,Brisbane,3 Nov 2005,clarke
-5,DNB,5,23,21.73,0,0,West Indies,Hobart,17 Nov 2005,clarke
-19,9,28,67,41.79,4,0,Bangladesh,Fatullah,9 Apr 2006,clarke
-23*,-,23,42,54.76,1,0,Bangladesh,Chittagong,16 Apr 2006,clarke
 56,DNB,56,94,59.57,5,1,England,Brisbane,23 Nov 2006,clarke
 124,21*,145,263,55.13,10,0,England,Adelaide,1 Dec 2006,clarke
 37,135*,172,231,74.45,21,1,England,Perth,14 Dec 2006,clarke
 5,-,5,5,100,0,0,England,Melbourne,26 Dec 2006,clarke
 11,DNB,11,24,45.83,1,0,England,Sydney,2 Jan 2007,clarke
-145*,-,145,249,58.23,14,1,Sri Lanka,Brisbane,8 Nov 2007,clarke
-71,DNB,71,123,57.72,8,0,Sri Lanka,Hobart,16 Nov 2007,clarke
-20,73,93,173,53.75,5,0,India,Melbourne,26 Dec 2007,clarke
-1,0,1,5,20,0,0,India,Sydney,2 Jan 2008,clarke
-23,81,104,168,61.9,13,0,India,Perth,16 Jan 2008,clarke
-118,-,118,243,48.55,8,0,India,Adelaide,24 Jan 2008,clarke
-110,10,120,211,56.87,12,0,West Indies,North Sound,30 May 2008,clarke
-0,48*,48,110,43.63,6,0,West Indies,Bridgetown,12 Jun 2008,clarke
-11,6,17,37,45.94,3,0,India,Bangalore,9 Oct 2008,clarke
-23,69,92,212,43.39,12,0,India,Mohali,17 Oct 2008,clarke
-112,DNB,112,253,44.26,6,1,India,Delhi,29 Oct 2008,clarke
-8,22,30,74,40.54,4,0,India,Nagpur,6 Nov 2008,clarke
-98,9,107,232,46.12,10,0,New Zealand,Brisbane,20 Nov 2008,clarke
-110,-,110,239,46.02,11,0,New Zealand,Adelaide,28 Nov 2008,clarke
-62,25,87,208,41.82,9,0,South Africa,Perth,17 Dec 2008,clarke
-88*,29,117,287,40.76,8,1,South Africa,Melbourne,26 Dec 2008,clarke
-138,41,179,305,58.68,19,0,South Africa,Sydney,3 Jan 2009,clarke
-68,0,68,92,73.91,10,0,South Africa,Johannesburg,26 Feb 2009,clarke
-3,23*,26,50,52,2,0,South Africa,Durban,6 Mar 2009,clarke
-0,47,47,109,43.11,7,0,South Africa,Cape Town,19 Mar 2009,clarke
 83,-,83,145,57.24,9,1,England,Cardiff,8 Jul 2009,clarke
 1,136,137,239,57.32,14,0,England,Lord's,16 Jul 2009,clarke
 29,103*,132,247,53.44,18,0,England,Birmingham,30 Jul 2009,clarke
 93,-,93,138,67.39,13,0,England,Leeds,7 Aug 2009,clarke
 3,0,3,11,27.27,0,0,England,The Oval,20 Aug 2009,clarke
-41,-,41,94,43.61,3,0,West Indies,Brisbane,26 Nov 2009,clarke
-71,61*,132,238,55.46,13,0,West Indies,Adelaide,4 Dec 2009,clarke
-11,25,36,82,43.9,3,0,West Indies,Perth,16 Dec 2009,clarke
-28*,37,65,124,52.41,4,0,Pakistan,Melbourne,26 Dec 2009,clarke
-3,21,24,70,34.28,0,0,Pakistan,Sydney,3 Jan 2010,clarke
-166,DNB,166,328,50.6,19,0,Pakistan,Hobart,14 Jan 2010,clarke
-168,DNB,168,253,66.4,22,2,New Zealand,Wellington,19 Mar 2010,clarke
-28,63,91,142,64.08,15,0,New Zealand,Hamilton,27 Mar 2010,clarke
-47,12,59,102,57.84,10,0,Pakistan,Lord's,13 Jul 2010,clarke
-3,77,80,163,49.07,7,0,Pakistan,Leeds,21 Jul 2010,clarke
-14,4,18,48,37.5,2,0,India,Mohali,1 Oct 2010,clarke
-14,3,17,44,38.63,1,0,India,Bangalore,9 Oct 2010,clarke
 9,DNB,9,50,18,0,0,England,Brisbane,25 Nov 2010,clarke
 2,80,82,145,56.55,11,0,England,Adelaide,3 Dec 2010,clarke
 4,20,24,28,85.71,5,0,England,Perth,16 Dec 2010,clarke
 20,13,33,120,27.5,2,0,England,Melbourne,26 Dec 2010,clarke
 4,41,45,94,47.87,6,0,England,Sydney,3 Jan 2011,clarke
-23,60,83,125,66.4,9,1,Sri Lanka,Galle,31 Aug 2011,clarke
-13,-,13,20,65,1,0,Sri Lanka,Pallekele,8 Sep 2011,clarke
-6,112,118,202,58.41,15,3,Sri Lanka,Colombo (SSC),16 Sep 2011,clarke
-151,2,153,182,84.06,22,0,South Africa,Cape Town,9 Nov 2011,clarke
-11,2,13,49,26.53,2,0,South Africa,Johannesburg,17 Nov 2011,clarke
-139,DNB,139,249,55.82,19,1,New Zealand,Brisbane,1 Dec 2011,clarke
-22,0,22,63,34.92,1,0,New Zealand,Hobart,9 Dec 2011,clarke
-31,1,32,72,44.44,5,0,India,Melbourne,26 Dec 2011,clarke
-329*,-,329,468,70.29,39,1,India,Sydney,3 Jan 2012,clarke
-18,-,18,38,47.36,3,0,India,Perth,13 Jan 2012,clarke
-210,37,247,318,77.67,30,1,India,Adelaide,24 Jan 2012,clarke
-73,6,79,180,43.88,4,1,West Indies,Bridgetown,7 Apr 2012,clarke
-45,15,60,150,40,8,0,West Indies,Port of Spain,15 Apr 2012,clarke
-24,25,49,105,46.66,2,0,West Indies,Roseau,23 Apr 2012,clarke
-259*,-,259,398,65.07,26,0,South Africa,Brisbane,9 Nov 2012,clarke
-230,38,268,318,84.27,43,2,South Africa,Adelaide,22 Nov 2012,clarke
-5,44,49,65,75.38,8,0,South Africa,Perth,30 Nov 2012,clarke
-74,57*,131,191,68.58,12,1,Sri Lanka,Hobart,14 Dec 2012,clarke
-106,-,106,187,56.68,14,0,Sri Lanka,Melbourne,26 Dec 2012,clarke
-50,29,79,127,62.2,8,1,Sri Lanka,Sydney,3 Jan 2013,clarke
-130,31,161,297,54.2,16,2,India,Chennai,22 Feb 2013,clarke
-91,16,107,217,49.3,9,2,India,Hyderabad (Deccan),2 Mar 2013,clarke
-0,18,18,50,36,3,0,India,Mohali,14 Mar 2013,clarke
 0,23,23,76,30.26,2,0,England,Nottingham,10 Jul 2013,clarke
 28,51,79,126,62.69,11,0,England,Lord's,18 Jul 2013,clarke
 187,30*,217,346,62.71,24,0,England,Manchester,1 Aug 2013,clarke
@@ -1559,113 +197,360 @@ DNB,-,-,-,-,-,-,India,Sydney,3 Jan 2012,haddin
 24,23,47,97,48.45,7,0,England,Perth,13 Dec 2013,clarke
 10,6*,16,54,29.62,1,0,England,Melbourne,26 Dec 2013,clarke
 10,6,16,47,34.04,2,0,England,Sydney,3 Jan 2014,clarke
-23,17*,40,86,46.51,5,0,South Africa,Centurion,12 Feb 2014,clarke
-19,1,20,44,45.45,4,0,South Africa,Port Elizabeth,20 Feb 2014,clarke
-161*,0,161,302,53.31,17,0,South Africa,Cape Town,1 Mar 2014,clarke
-2,3,5,22,22.72,0,0,Pakistan,Dubai (DSC),22 Oct 2014,clarke
-47,5,52,72,72.22,7,0,Pakistan,Abu Dhabi,30 Oct 2014,clarke
-128,7,135,183,73.77,19,0,India,Adelaide,9 Dec 2014,clarke
-18,DNB,18,28,64.28,1,1,West Indies,Roseau,3 Jun 2015,clarke
-47,14*,61,151,40.39,6,2,West Indies,Kingston,11 Jun 2015,clarke
+9,43,52,119,43.69,7,0,England,Leeds,8 Jun 1989,boon
+94,58*,152,310,49.03,18,0,England,Lord's,22 Jun 1989,boon
+38,22*,60,223,26.9,6,0,England,Birmingham,6 Jul 1989,boon
+12,10*,22,63,34.92,4,0,England,Manchester,27 Jul 1989,boon
+73,-,73,183,39.89,9,0,England,Nottingham,10 Aug 1989,boon
+46,37,83,197,42.13,10,0,England,The Oval,24 Aug 1989,boon
+18,DNB,18,42,42.85,0,0,England,Brisbane,23 Nov 1990,boon
+28,94*,122,316,38.6,9,0,England,Melbourne,26 Dec 1990,boon
+97,29,126,246,51.21,20,0,England,Sydney,4 Jan 1991,boon
+49,121,170,425,40,13,0,England,Adelaide,25 Jan 1991,boon
+64,30*,94,169,55.62,13,0,England,Perth,1 Feb 1991,boon
+21,93,114,346,32.94,13,0,England,Manchester,3 Jun 1993,boon
+164*,-,164,378,43.38,15,0,England,Lord's,17 Jun 1993,boon
+101,18,119,239,49.79,18,0,England,Nottingham,1 Jul 1993,boon
+107,-,107,225,47.55,17,0,England,Leeds,22 Jul 1993,boon
+0,38*,38,122,31.14,7,0,England,Birmingham,5 Aug 1993,boon
+13,0,13,24,54.16,1,1,England,The Oval,19 Aug 1993,boon
+3,28,31,144,21.52,0,0,England,Brisbane,25 Nov 1994,boon
+41,131,172,377,45.62,18,0,England,Melbourne,24 Dec 1994,boon
+3,17,20,75,26.66,1,0,England,Sydney,1 Jan 1995,boon
+0,4,4,12,33.33,1,0,England,Adelaide,26 Jan 1995,boon
+1,18,19,39,48.71,4,0,England,Perth,3 Feb 1995,boon
+138,23,161,244,65.98,19,0,England,Adelaide,25 Jan 1991,mwaugh
+26,DNB,26,37,70.27,4,0,England,Perth,1 Feb 1991,mwaugh
+6,64,70,143,48.95,5,1,England,Manchester,3 Jun 1993,mwaugh
+99,-,99,162,61.11,8,1,England,Lord's,17 Jun 1993,mwaugh
+70,1,71,76,93.42,12,0,England,Nottingham,1 Jul 1993,mwaugh
+52,-,52,72,72.22,6,0,England,Leeds,22 Jul 1993,mwaugh
+137,62*,199,306,65.03,24,1,England,Birmingham,5 Aug 1993,mwaugh
+10,49,59,101,58.41,6,0,England,The Oval,19 Aug 1993,mwaugh
+140,15,155,249,62.24,17,1,England,Brisbane,25 Nov 1994,mwaugh
+71,29,100,237,42.19,4,0,England,Melbourne,24 Dec 1994,mwaugh
+3,25,28,38,73.68,4,0,England,Sydney,1 Jan 1995,mwaugh
+39,24,63,97,64.94,6,0,England,Adelaide,26 Jan 1995,mwaugh
+88,1,89,191,46.59,10,0,England,Perth,3 Feb 1995,mwaugh
+5,1,6,32,18.75,1,0,England,Birmingham,5 Jun 1997,mwaugh
+33,-,33,60,55,1,0,England,Lord's,19 Jun 1997,mwaugh
+12,55,67,108,62.03,9,1,England,Manchester,3 Jul 1997,mwaugh
+8,-,8,18,44.44,1,0,England,Leeds,24 Jul 1997,mwaugh
+68,7,75,146,51.36,8,0,England,Nottingham,7 Aug 1997,mwaugh
+19,1,20,76,26.31,2,0,England,The Oval,21 Aug 1997,mwaugh
+31,27*,58,104,55.76,4,0,England,Brisbane,20 Nov 1998,mwaugh
+36,17*,53,167,31.73,6,0,England,Perth,28 Nov 1998,mwaugh
+7,51*,58,113,51.32,5,0,England,Adelaide,11 Dec 1998,mwaugh
+36,43,79,148,53.37,5,0,England,Melbourne,26 Dec 1998,mwaugh
+121,24,145,265,54.71,14,0,England,Sydney,2 Jan 1999,mwaugh
+49,-,49,143,34.26,7,0,England,Birmingham,5 Jul 2001,mwaugh
+108,0*,108,173,62.42,14,0,England,Lord's,19 Jul 2001,mwaugh
+15,42*,57,89,64.04,10,0,England,Nottingham,2 Aug 2001,mwaugh
+72,24*,96,175,54.85,12,0,England,Leeds,16 Aug 2001,mwaugh
+120,-,120,176,68.18,16,2,England,The Oval,23 Aug 2001,mwaugh
+136,60,196,427,45.9,24,0,England,Leeds,8 Jun 1989,taylor
+62,27,89,223,39.91,10,0,England,Lord's,22 Jun 1989,taylor
+43,51,94,247,38.05,9,0,England,Birmingham,6 Jul 1989,taylor
+85,37*,122,263,46.38,14,0,England,Manchester,27 Jul 1989,taylor
+219,-,219,461,47.5,23,0,England,Nottingham,10 Aug 1989,taylor
+71,48,119,245,48.57,11,0,England,The Oval,24 Aug 1989,taylor
+10,67*,77,183,42.07,8,0,England,Brisbane,23 Nov 1990,taylor
+61,5,66,201,32.83,5,0,England,Melbourne,26 Dec 1990,taylor
+11,19,30,78,38.46,4,0,England,Sydney,4 Jan 1991,taylor
+5,4,9,30,30,1,0,England,Adelaide,25 Jan 1991,taylor
+12,19,31,81,38.27,3,0,England,Perth,1 Feb 1991,taylor
+124,9,133,261,50.95,14,2,England,Manchester,3 Jun 1993,taylor
+111,-,111,243,45.67,10,1,England,Lord's,17 Jun 1993,taylor
+28,28,56,133,42.1,7,0,England,Nottingham,1 Jul 1993,taylor
+27,-,27,61,44.26,4,0,England,Leeds,22 Jul 1993,taylor
+19,4,23,104,22.11,2,0,England,Birmingham,5 Aug 1993,taylor
+70,8,78,163,47.85,11,0,England,The Oval,19 Aug 1993,taylor
+59,58,117,212,55.18,13,0,England,Brisbane,25 Nov 1994,taylor
+9,19,28,105,26.66,2,0,England,Melbourne,24 Dec 1994,taylor
+49,113,162,379,42.74,11,0,England,Sydney,1 Jan 1995,taylor
+90,13,103,231,44.58,9,0,England,Adelaide,26 Jan 1995,taylor
+9,52,61,158,38.6,8,0,England,Perth,3 Feb 1995,taylor
+7,129,136,312,43.58,12,1,England,Birmingham,5 Jun 1997,taylor
+1,-,1,15,6.66,0,0,England,Lord's,19 Jun 1997,taylor
+2,1,3,23,13.04,0,0,England,Manchester,3 Jul 1997,taylor
+0,-,0,11,0,0,0,England,Leeds,24 Jul 1997,taylor
+76,45,121,255,47.45,19,0,England,Nottingham,7 Aug 1997,taylor
+38,18,56,76,73.68,9,0,England,The Oval,21 Aug 1997,taylor
+46,0,46,140,32.85,6,0,England,Brisbane,20 Nov 1998,taylor
+61,3,64,159,40.25,6,0,England,Perth,28 Nov 1998,taylor
+59,29,88,195,45.12,8,0,England,Adelaide,11 Dec 1998,taylor
+7,19,26,62,41.93,1,0,England,Melbourne,26 Dec 1998,taylor
+2,2,4,33,12.12,0,0,England,Sydney,2 Jan 1999,taylor
+177*,DNB,177,242,73.14,24,0,England,Leeds,8 Jun 1989,swaugh
+152*,21*,173,289,59.86,19,0,England,Lord's,22 Jun 1989,swaugh
+43,DNB,43,54,79.62,6,0,England,Birmingham,6 Jul 1989,swaugh
+92,DNB,92,174,52.87,7,0,England,Manchester,27 Jul 1989,swaugh
+0,-,0,8,0,0,0,England,Nottingham,10 Aug 1989,swaugh
+14,7*,21,40,52.5,1,0,England,The Oval,24 Aug 1989,swaugh
+1,DNB,1,4,25,0,0,England,Brisbane,23 Nov 1990,swaugh
+19,DNB,19,47,40.42,2,0,England,Melbourne,26 Dec 1990,swaugh
+48,14,62,89,69.66,10,0,England,Sydney,4 Jan 1991,swaugh
+3,78*,81,153,52.94,8,0,England,Manchester,3 Jun 1993,swaugh
+13*,-,13,32,40.62,1,0,England,Lord's,17 Jun 1993,swaugh
+13,47*,60,173,34.68,6,0,England,Nottingham,1 Jul 1993,swaugh
+157*,-,157,305,51.47,19,0,England,Leeds,22 Jul 1993,swaugh
+59,DNB,59,175,33.71,6,0,England,Birmingham,5 Aug 1993,swaugh
+20,26,46,117,39.31,6,0,England,The Oval,19 Aug 1993,swaugh
+19,7,26,51,50.98,4,0,England,Brisbane,25 Nov 1994,swaugh
+94*,26*,120,264,45.45,5,0,England,Melbourne,24 Dec 1994,swaugh
+1,0,1,16,6.25,0,0,England,Sydney,1 Jan 1995,swaugh
+19,0,19,34,55.88,2,0,England,Adelaide,26 Jan 1995,swaugh
+99*,80,179,324,55.24,21,0,England,Perth,3 Feb 1995,swaugh
+12,33,45,120,37.5,6,0,England,Birmingham,5 Jun 1997,swaugh
+0,-,0,1,0,0,0,England,Lord's,19 Jun 1997,swaugh
+108,116,224,445,50.33,23,0,England,Manchester,3 Jul 1997,swaugh
+4,-,4,12,33.33,0,0,England,Leeds,24 Jul 1997,swaugh
+75,14,89,127,70.07,15,0,England,Nottingham,7 Aug 1997,swaugh
+22,6,28,53,52.83,2,0,England,The Oval,21 Aug 1997,swaugh
+112,16*,128,263,48.66,13,0,England,Brisbane,20 Nov 1998,swaugh
+33,15*,48,90,53.33,8,0,England,Perth,28 Nov 1998,swaugh
+59,7,66,131,50.38,4,1,England,Adelaide,11 Dec 1998,swaugh
+122*,30*,152,247,61.53,15,0,England,Melbourne,26 Dec 1998,swaugh
+96,8,104,199,52.26,10,0,England,Sydney,2 Jan 1999,swaugh
+105,-,105,181,58.01,13,0,England,Birmingham,5 Jul 2001,swaugh
+45,DNB,45,97,46.39,7,0,England,Lord's,19 Jul 2001,swaugh
+13,1*,14,31,45.16,2,0,England,Nottingham,2 Aug 2001,swaugh
+157*,-,157,256,61.32,21,1,England,The Oval,23 Aug 2001,swaugh
+7,12,19,79,24.05,0,0,England,Brisbane,7 Nov 2002,swaugh
+34,-,34,40,85,2,0,England,Adelaide,21 Nov 2002,swaugh
+53,-,53,89,59.55,10,0,England,Perth,29 Nov 2002,swaugh
+77,14,91,142,64.08,17,0,England,Melbourne,26 Dec 2002,swaugh
+102,6,108,146,73.97,19,0,England,Sydney,2 Jan 2003,swaugh
+0,47,47,129,36.43,3,0,Australia,Nottingham,10 Aug 1989,atherton
+12,14,26,81,32.09,4,0,Australia,The Oval,24 Aug 1989,atherton
+13,15,28,98,28.57,1,0,Australia,Brisbane,23 Nov 1990,atherton
+0,4,4,31,12.9,0,0,Australia,Melbourne,26 Dec 1990,atherton
+105,3*,108,381,28.34,8,0,Australia,Sydney,4 Jan 1991,atherton
+0,87,87,228,38.15,11,0,Australia,Adelaide,25 Jan 1991,atherton
+27,25,52,253,20.55,6,0,Australia,Perth,1 Feb 1991,atherton
+19,25,44,146,30.13,6,0,Australia,Manchester,3 Jun 1993,atherton
+80,99,179,425,42.11,22,0,Australia,Lord's,17 Jun 1993,atherton
+11,9,20,75,26.66,3,0,Australia,Nottingham,1 Jul 1993,atherton
+55,63,118,351,33.61,13,0,Australia,Leeds,22 Jul 1993,atherton
+72,28,100,223,44.84,12,0,Australia,Birmingham,5 Aug 1993,atherton
+50,42,92,156,58.97,17,0,Australia,The Oval,19 Aug 1993,atherton
+54,23,77,208,37.01,8,0,Australia,Brisbane,25 Nov 1994,atherton
+44,25,69,200,34.5,8,0,Australia,Melbourne,24 Dec 1994,atherton
+88,67,155,433,35.79,13,0,Australia,Sydney,1 Jan 1995,atherton
+80,14,94,272,34.55,8,0,Australia,Adelaide,26 Jan 1995,atherton
+4,8,12,46,26.08,2,0,Australia,Perth,3 Feb 1995,atherton
+2,57*,59,69,85.5,9,0,Australia,Birmingham,5 Jun 1997,atherton
+1,77,78,183,42.62,10,0,Australia,Lord's,19 Jun 1997,atherton
+5,21,26,67,38.8,1,1,Australia,Manchester,3 Jul 1997,atherton
+41,2,43,156,27.56,6,0,Australia,Leeds,24 Jul 1997,atherton
+27,8,35,107,32.71,4,0,Australia,Nottingham,7 Aug 1997,atherton
+8,8,16,38,42.1,1,0,Australia,The Oval,21 Aug 1997,atherton
+0,28,28,69,40.57,4,0,Australia,Brisbane,20 Nov 1998,atherton
+1,35,36,74,48.64,6,0,Australia,Perth,28 Nov 1998,atherton
+41,5,46,135,34.07,2,0,Australia,Adelaide,11 Dec 1998,atherton
+0,0,0,14,0,0,0,Australia,Melbourne,26 Dec 1998,atherton
+57,4,61,116,52.58,11,0,Australia,Birmingham,5 Jul 2001,atherton
+37,20,57,137,41.6,8,0,Australia,Lord's,19 Jul 2001,atherton
+0,51,51,106,48.11,9,0,Australia,Nottingham,2 Aug 2001,atherton
+22,8,30,66,45.45,6,0,Australia,Leeds,16 Aug 2001,atherton
+13,9,22,59,37.28,3,0,Australia,The Oval,23 Aug 2001,atherton
+6,114*,120,293,40.95,11,0,Australia,Nottingham,1 Jul 1993,thorpe
+0,13,13,49,26.53,1,0,Australia,Leeds,22 Jul 1993,thorpe
+37,60,97,245,39.59,9,0,Australia,Birmingham,5 Aug 1993,thorpe
+28,67,95,295,32.2,11,0,Australia,Brisbane,25 Nov 1994,thorpe
+51,9,60,136,44.11,6,0,Australia,Melbourne,24 Dec 1994,thorpe
+10,47*,57,88,64.77,6,0,Australia,Sydney,1 Jan 1995,thorpe
+26,83,109,152,71.71,15,0,Australia,Adelaide,26 Jan 1995,thorpe
+123,0,123,219,56.16,19,0,Australia,Perth,3 Feb 1995,thorpe
+138,DNB,138,245,56.32,19,0,Australia,Birmingham,5 Jun 1997,thorpe
+21,30*,51,88,57.95,8,0,Australia,Lord's,19 Jun 1997,thorpe
+3,7,10,36,27.77,0,0,Australia,Manchester,3 Jul 1997,thorpe
+15,15,30,56,53.57,4,0,Australia,Leeds,24 Jul 1997,thorpe
+53,82*,135,210,64.28,19,0,Australia,Nottingham,7 Aug 1997,thorpe
+27,62,89,149,59.73,12,0,Australia,The Oval,21 Aug 1997,thorpe
+77,9,86,195,44.1,7,0,Australia,Brisbane,20 Nov 1998,thorpe
+20,2,22,57,38.59,1,0,Australia,Lord's,19 Jul 2001,thorpe
+71,47*,118,299,39.46,16,0,Australia,Nottingham,1 Jul 1993,hussain
+15,18*,33,127,25.98,5,0,Australia,Leeds,22 Jul 1993,hussain
+3,0,3,17,17.64,0,0,Australia,Birmingham,5 Aug 1993,hussain
+30,0,30,55,54.54,6,0,Australia,The Oval,19 Aug 1993,hussain
+207,DNB,207,337,61.42,38,0,Australia,Birmingham,5 Jun 1997,hussain
+19,0,19,78,24.35,2,0,Australia,Lord's,19 Jun 1997,hussain
+13,1,14,43,32.55,2,0,Australia,Manchester,3 Jul 1997,hussain
+26,105,131,222,59,18,0,Australia,Leeds,24 Jul 1997,hussain
+2,21,23,59,38.98,2,0,Australia,Nottingham,7 Aug 1997,hussain
+35,2,37,164,22.56,4,0,Australia,The Oval,21 Aug 1997,hussain
+59,47,106,221,47.96,11,2,Australia,Brisbane,20 Nov 1998,hussain
+6,1,7,38,18.42,0,0,Australia,Perth,28 Nov 1998,hussain
+89*,41,130,301,43.18,12,0,Australia,Adelaide,11 Dec 1998,hussain
+19,50,69,187,36.89,8,0,Australia,Melbourne,26 Dec 1998,hussain
+42,53,95,255,37.25,6,0,Australia,Sydney,2 Jan 1999,hussain
+13,9*,22,55,40,2,0,Australia,Birmingham,5 Jul 2001,hussain
+46,55,101,214,47.19,13,1,Australia,Leeds,16 Aug 2001,hussain
+52,2,54,95,56.84,8,0,Australia,The Oval,23 Aug 2001,hussain
+51,11,62,156,39.74,5,1,Australia,Brisbane,7 Nov 2002,hussain
+47,10,57,150,38,7,0,Australia,Adelaide,21 Nov 2002,hussain
+8,61,69,182,37.91,8,0,Australia,Perth,29 Nov 2002,hussain
+24,23,47,128,36.71,6,0,Australia,Melbourne,26 Dec 2002,hussain
+75,72,147,330,44.54,17,0,Australia,Sydney,2 Jan 2003,hussain
+13,68,81,164,49.39,12,0,Australia,Leeds,8 Jun 1989,gooch
+60,0,60,126,47.61,9,0,Australia,Lord's,22 Jun 1989,gooch
+8,-,8,33,24.24,1,0,Australia,Birmingham,6 Jul 1989,gooch
+11,13,24,55,43.63,3,0,Australia,Manchester,27 Jul 1989,gooch
+0,10,10,37,27.02,0,0,Australia,The Oval,24 Aug 1989,gooch
+20,58,78,149,52.34,11,0,Australia,Melbourne,26 Dec 1990,gooch
+59,54,113,169,66.86,12,0,Australia,Sydney,4 Jan 1991,gooch
+87,117,204,385,52.98,20,0,Australia,Adelaide,25 Jan 1991,gooch
+13,18,31,95,32.63,4,0,Australia,Perth,1 Feb 1991,gooch
+65,133,198,384,51.56,27,2,Australia,Manchester,3 Jun 1993,gooch
+12,29,41,134,30.59,4,0,Australia,Lord's,17 Jun 1993,gooch
+38,120,158,347,45.53,25,1,Australia,Nottingham,1 Jul 1993,gooch
+59,26,85,169,50.29,13,1,Australia,Leeds,22 Jul 1993,gooch
+8,48,56,170,32.94,7,0,Australia,Birmingham,5 Aug 1993,gooch
+56,79,135,249,54.21,23,0,Australia,The Oval,19 Aug 1993,gooch
+20,56,76,167,45.5,12,1,Australia,Brisbane,25 Nov 1994,gooch
+15,2,17,60,28.33,1,0,Australia,Melbourne,24 Dec 1994,gooch
+1,29,30,46,65.21,4,0,Australia,Sydney,1 Jan 1995,gooch
+47,34,81,206,39.32,7,0,Australia,Adelaide,26 Jan 1995,gooch
+37,4,41,88,46.59,4,0,Australia,Perth,3 Feb 1995,gooch
+66,24,90,229,39.3,7,0,England,Lord's,16 Jun 1977,chappell
+44,112,156,311,50.16,22,1,England,Manchester,7 Jul 1977,chappell
+19,27,46,103,44.66,8,0,England,Nottingham,28 Jul 1977,chappell
+4,36,40,157,25.47,4,0,England,Leeds,11 Aug 1977,chappell
+39,-,39,78,50,3,0,England,The Oval,25 Aug 1977,chappell
+117,22*,139,229,60.69,14,2,England,Perth,12 Nov 1982,chappell
+53,8,61,90,67.77,8,0,England,Brisbane,26 Nov 1982,chappell
+115,26*,141,235,60,21,0,England,Adelaide,10 Dec 1982,chappell
+0,2,2,9,22.22,0,0,England,Melbourne,26 Dec 1982,chappell
+35,11,46,66,69.69,4,0,England,Sydney,2 Jan 1983,chappell
+1,-,1,37,2.7,0,0,England,The Oval,25 Aug 1977,hughes
+4,129,133,435,30.57,8,2,England,Brisbane,1 Dec 1978,hughes
+16,12,28,89,31.46,2,0,England,Perth,15 Dec 1978,hughes
+0,48,48,143,33.56,4,1,England,Melbourne,29 Dec 1978,hughes
+48,15,63,207,30.43,7,0,England,Sydney,6 Jan 1979,hughes
+4,46,50,186,26.88,5,0,England,Adelaide,27 Jan 1979,hughes
+16,7,23,102,22.54,3,0,England,Sydney,10 Feb 1979,hughes
+7,22,29,87,33.33,4,0,England,Nottingham,18 Jun 1981,hughes
+42,4,46,131,35.11,5,0,England,Lord's,2 Jul 1981,hughes
+89,0,89,217,41.01,8,0,England,Leeds,16 Jul 1981,hughes
+47,5,52,112,46.42,7,0,England,Birmingham,30 Jul 1981,hughes
+4,43,47,75,62.66,9,0,England,Manchester,13 Aug 1981,hughes
+31,6,37,91,40.65,2,0,England,The Oval,27 Aug 1981,hughes
+62,DNB,62,131,47.32,7,0,England,Perth,12 Nov 1982,hughes
+0,39*,39,111,35.13,1,0,England,Brisbane,26 Nov 1982,hughes
+88,DNB,88,232,37.93,6,2,England,Adelaide,10 Dec 1982,hughes
+66,48,114,288,39.58,13,0,England,Melbourne,26 Dec 1982,hughes
+29,137,166,384,43.22,15,3,England,Sydney,2 Jan 1983,hughes
+29,0,29,127,22.83,4,0,England,Melbourne,29 Dec 1978,border
+60*,45*,105,318,33.01,13,0,England,Sydney,6 Jan 1979,border
+11,1,12,37,32.43,1,0,England,Adelaide,27 Jan 1979,border
+63,20,83,253,32.8,9,0,England,Nottingham,18 Jun 1981,border
+64,12*,76,210,36.19,9,1,England,Lord's,2 Jul 1981,border
+8,0,8,28,28.57,1,0,England,Leeds,16 Jul 1981,border
+2,40,42,199,21.1,4,0,England,Birmingham,30 Jul 1981,border
+11,123*,134,379,35.35,18,0,England,Manchester,13 Aug 1981,border
+106*,84,190,382,49.73,21,0,England,The Oval,27 Aug 1981,border
+8,32*,40,85,47.05,5,0,England,Perth,12 Nov 1982,border
+0,15,15,36,41.66,2,0,England,Brisbane,26 Nov 1982,border
+26,DNB,26,95,27.36,1,1,England,Adelaide,10 Dec 1982,border
+2,62*,64,175,36.57,7,0,England,Melbourne,26 Dec 1982,border
+89,83,172,346,49.71,21,0,England,Sydney,2 Jan 1983,border
+32,8,40,132,30.3,5,0,England,Leeds,13 Jun 1985,border
+196,41*,237,407,58.23,28,0,England,Lord's,27 Jun 1985,border
+23,-,23,17,135.29,2,1,England,Nottingham,11 Jul 1985,border
+8,146*,154,351,43.87,14,0,England,Manchester,1 Aug 1985,border
+45,2,47,128,36.71,5,0,England,Birmingham,15 Aug 1985,border
+38,58,96,159,60.37,11,0,England,The Oval,29 Aug 1985,border
+7,23,30,125,24,2,0,England,Brisbane,14 Nov 1986,border
+125,16,141,354,39.83,20,0,England,Perth,28 Nov 1986,border
+70,100*,170,383,44.38,18,0,England,Adelaide,12 Dec 1986,border
+15,34,49,108,45.37,6,0,England,Melbourne,26 Dec 1986,border
+34,49,83,207,40.09,11,0,England,Sydney,10 Jan 1987,border
+52,15,67,151,44.37,8,0,Australia,Nottingham,18 Jun 1981,gatting
+59,16,75,181,41.43,9,1,Australia,Lord's,2 Jul 1981,gatting
+15,1,16,39,41.02,2,0,Australia,Leeds,16 Jul 1981,gatting
+21,39,60,117,51.28,5,0,Australia,Birmingham,30 Jul 1981,gatting
+32,11,43,86,50,5,0,Australia,Manchester,13 Aug 1981,gatting
+53,56,109,184,59.23,12,0,Australia,The Oval,27 Aug 1981,gatting
+53,12,65,128,50.78,9,0,Australia,Leeds,13 Jun 1985,gatting
+14,75*,89,212,41.98,18,0,Australia,Lord's,27 Jun 1985,gatting
+74,35*,109,251,43.42,14,0,Australia,Nottingham,11 Jul 1985,gatting
+160,-,160,266,60.15,21,0,Australia,Manchester,1 Aug 1985,gatting
+100*,-,100,127,78.74,12,0,Australia,Birmingham,15 Aug 1985,gatting
+4,-,4,27,14.81,0,0,Australia,The Oval,29 Aug 1985,gatting
+61,12,73,133,54.88,14,0,Australia,Brisbane,14 Nov 1986,gatting
+14,70,84,189,44.44,10,0,Australia,Perth,28 Nov 1986,gatting
+100,0,100,142,70.42,15,0,Australia,Adelaide,12 Dec 1986,gatting
+40,-,40,118,33.89,2,0,Australia,Melbourne,26 Dec 1986,gatting
+0,96,96,163,58.89,10,1,Australia,Sydney,10 Jan 1987,gatting
+107,80*,187,546,34.24,20,0,Australia,Nottingham,28 Jul 1977,boycott
+191,-,191,471,40.55,23,0,Australia,Leeds,11 Aug 1977,boycott
+39,25*,64,206,31.06,5,0,Australia,The Oval,25 Aug 1977,boycott
+13,16,29,149,19.46,1,0,Australia,Brisbane,1 Dec 1978,boycott
+77,23,100,440,22.72,1,0,Australia,Perth,15 Dec 1978,boycott
+1,38,39,168,23.21,1,0,Australia,Melbourne,29 Dec 1978,boycott
+8,0,8,41,19.51,0,0,Australia,Sydney,6 Jan 1979,boycott
+6,49,55,233,23.6,2,0,Australia,Adelaide,27 Jan 1979,boycott
+19,13,32,132,24.24,1,0,Australia,Sydney,10 Feb 1979,boycott
+27,4,31,62,50,2,0,Australia,Nottingham,18 Jun 1981,boycott
+17,60,77,273,28.2,5,0,Australia,Lord's,2 Jul 1981,boycott
+12,46,58,199,29.14,1,0,Australia,Leeds,16 Jul 1981,boycott
+13,29,42,178,23.59,4,0,Australia,Birmingham,30 Jul 1981,boycott
+10,37,47,142,33.09,3,0,Australia,Manchester,13 Aug 1981,boycott
+137,0,137,325,42.15,7,0,Australia,The Oval,27 Aug 1981,boycott
 25,DNB,25,61,40.98,3,0,Australia,Nottingham,28 Jul 1977,botham
 0,-,0,3,0,0,0,Australia,Leeds,11 Aug 1977,botham
-7,19,26,67,38.8,3,0,New Zealand,Wellington,10 Feb 1978,botham
-103,30*,133,319,41.69,15,1,New Zealand,Christchurch,24 Feb 1978,botham
-53,-,53,114,46.49,9,0,New Zealand,Auckland,4 Mar 1978,botham
-100,-,100,140,71.42,11,0,Pakistan,Birmingham,1 Jun 1978,botham
-108,-,108,110,98.18,12,1,Pakistan,Lord's,15 Jun 1978,botham
-4,-,4,6,66.66,1,0,Pakistan,Leeds,29 Jun 1978,botham
-22,DNB,22,80,27.5,2,0,New Zealand,The Oval,27 Jul 1978,botham
-8,-,8,16,50,1,0,New Zealand,Nottingham,10 Aug 1978,botham
-21,DNB,21,78,26.92,3,0,New Zealand,Lord's,24 Aug 1978,botham
 49,DNB,49,73,67.12,5,0,Australia,Brisbane,1 Dec 1978,botham
 11,30,41,67,61.19,5,0,Australia,Perth,15 Dec 1978,botham
 22,10,32,142,22.53,3,0,Australia,Melbourne,29 Dec 1978,botham
 59,6,65,196,33.16,7,0,Australia,Sydney,6 Jan 1979,botham
 74,7,81,126,64.28,7,2,Australia,Adelaide,27 Jan 1979,botham
 23,DNB,23,53,43.39,2,0,Australia,Sydney,10 Feb 1979,botham
-33,-,33,39,84.61,4,1,India,Birmingham,12 Jul 1979,botham
-36,-,36,63,57.14,3,0,India,Lord's,2 Aug 1979,botham
-137,-,137,152,90.13,10,5,India,Leeds,16 Aug 1979,botham
-38,0,38,58,65.51,4,1,India,The Oval,30 Aug 1979,botham
-15,18,33,60,55,3,0,Australia,Perth,14 Dec 1979,botham
-27,0,27,42,64.28,1,1,Australia,Sydney,4 Jan 1980,botham
-8,119*,127,234,54.27,16,0,Australia,Melbourne,1 Feb 1980,botham
-114,DNB,114,144,79.16,17,0,India,Mumbai,15 Feb 1980,botham
-57,4,61,90,67.77,6,2,West Indies,Nottingham,5 Jun 1980,botham
-8,DNB,8,19,42.1,2,0,West Indies,Lord's,19 Jun 1980,botham
-8,35,43,78,55.12,4,0,West Indies,Manchester,10 Jul 1980,botham
-9,4,13,33,39.39,1,0,West Indies,The Oval,24 Jul 1980,botham
-37,7,44,50,88,6,1,West Indies,Leeds,7 Aug 1980,botham
-0,DNB,0,14,0,0,0,Australia,Lord's,28 Aug 1980,botham
-0,16,16,63,25.39,1,0,West Indies,Port of Spain,13 Feb 1981,botham
-26,1,27,65,41.53,4,0,West Indies,Bridgetown,13 Mar 1981,botham
-1,DNB,1,5,20,0,0,West Indies,St John's,27 Mar 1981,botham
-13,16,29,91,31.86,1,0,West Indies,Kingston,10 Apr 1981,botham
 1,33,34,46,73.91,4,0,Australia,Nottingham,18 Jun 1981,botham
 0,0,0,4,0,0,0,Australia,Lord's,2 Jul 1981,botham
 50,149*,199,202,98.51,35,1,Australia,Leeds,16 Jul 1981,botham
 26,3,29,54,53.7,3,0,Australia,Birmingham,30 Jul 1981,botham
 0,118,118,103,114.56,13,6,Australia,Manchester,13 Aug 1981,botham
 3,16,19,19,100,2,0,Australia,The Oval,27 Aug 1981,botham
-7,29,36,44,81.81,3,1,India,Mumbai,27 Nov 1981,botham
-55,DNB,55,97,56.7,8,1,India,Bangalore,9 Dec 1981,botham
-66,DNB,66,48,137.5,2,5,India,Delhi,23 Dec 1981,botham
-58,31,89,147,60.54,8,1,India,Kolkata,1 Jan 1982,botham
-52,-,52,156,33.33,0,0,India,Chennai,13 Jan 1982,botham
-142,-,142,214,66.35,12,2,India,Kanpur,30 Jan 1982,botham
-13,DNB,13,47,27.65,3,0,Sri Lanka,Colombo (PSS),17 Feb 1982,botham
-67,DNB,67,105,63.8,8,1,India,Lord's,10 Jun 1982,botham
-128,-,128,169,75.73,19,2,India,Manchester,24 Jun 1982,botham
-208,DNB,208,226,92.03,19,4,India,The Oval,8 Jul 1982,botham
-2,0,2,7,28.57,0,0,Pakistan,Birmingham,29 Jul 1982,botham
-31,69,100,231,43.29,13,0,Pakistan,Lord's,12 Aug 1982,botham
-57,4,61,78,78.2,8,0,Pakistan,Leeds,26 Aug 1982,botham
 12,0,12,9,133.33,2,0,Australia,Perth,12 Nov 1982,botham
 40,15,55,83,66.26,7,1,Australia,Brisbane,26 Nov 1982,botham
 35,58,93,206,45.14,13,0,Australia,Adelaide,10 Dec 1982,botham
 27,46,73,69,105.79,13,0,Australia,Melbourne,26 Dec 1982,botham
 5,32,37,73,50.68,4,0,Australia,Sydney,2 Jan 1983,botham
-15,26,41,76,53.94,5,0,New Zealand,The Oval,14 Jul 1983,botham
-38,4,42,36,116.66,7,1,New Zealand,Leeds,28 Jul 1983,botham
-8,61,69,130,53.07,8,0,New Zealand,Lord's,11 Aug 1983,botham
-103,27,130,173,75.14,18,3,New Zealand,Nottingham,25 Aug 1983,botham
-138,DNB,138,167,82.63,22,2,New Zealand,Wellington,20 Jan 1984,botham
-18,0,18,32,56.25,1,0,New Zealand,Christchurch,3 Feb 1984,botham
-70,-,70,108,64.81,10,2,New Zealand,Auckland,10 Feb 1984,botham
-22,10,32,96,33.33,1,1,Pakistan,Karachi,2 Mar 1984,botham
-64,38,102,148,68.91,14,1,West Indies,Birmingham,14 Jun 1984,botham
-30,81,111,177,62.71,13,1,West Indies,Lord's,28 Jun 1984,botham
-45,14,59,111,53.15,9,1,West Indies,Leeds,12 Jul 1984,botham
-6,1,7,31,22.58,0,0,West Indies,Manchester,26 Jul 1984,botham
-14,54,68,71,95.77,7,0,West Indies,The Oval,9 Aug 1984,botham
-6,-,6,6,100,1,0,Sri Lanka,Lord's,23 Aug 1984,botham
 60,12,72,74,97.29,11,2,Australia,Leeds,13 Jun 1985,botham
 5,85,90,125,72,13,1,Australia,Lord's,27 Jun 1985,botham
 38,DNB,38,35,108.57,7,0,Australia,Nottingham,11 Jul 1985,botham
 20,-,20,25,80,3,0,Australia,Manchester,1 Aug 1985,botham
 18,-,18,7,257.14,1,2,Australia,Birmingham,15 Aug 1985,botham
 12,-,12,23,52.17,2,0,Australia,The Oval,29 Aug 1985,botham
-15,29,44,53,83.01,5,2,West Indies,Kingston,21 Feb 1986,botham
-2,1,3,19,15.78,0,0,West Indies,Port of Spain,7 Mar 1986,botham
-14,21,35,45,77.77,6,0,West Indies,Bridgetown,21 Mar 1986,botham
-38,25,63,122,51.63,9,0,West Indies,Port of Spain,3 Apr 1986,botham
-10,13,23,28,82.14,4,0,West Indies,St John's,11 Apr 1986,botham
-59*,-,59,36,163.88,8,2,New Zealand,The Oval,21 Aug 1986,botham
 138,DNB,138,174,79.31,13,4,Australia,Brisbane,14 Nov 1986,botham
 0,6,6,28,21.42,0,0,Australia,Perth,28 Nov 1986,botham
 29,-,29,54,53.7,4,0,Australia,Melbourne,26 Dec 1986,botham
 16,0,16,14,114.28,2,1,Australia,Sydney,10 Jan 1987,botham
-48,-,48,69,69.56,5,1,Pakistan,Manchester,4 Jun 1987,botham
-6,-,6,32,18.75,1,0,Pakistan,Lord's,18 Jun 1987,botham
-26,24,50,111,45.04,5,0,Pakistan,Leeds,2 Jul 1987,botham
-37,6,43,46,93.47,7,0,Pakistan,Birmingham,23 Jul 1987,botham
-34,51*,85,291,29.2,12,0,Pakistan,The Oval,6 Aug 1987,botham
-46,-,46,110,41.81,6,0,Australia,Birmingham,6 Jul 1989,botham
-0,4,4,29,13.79,0,0,Australia,Manchester,27 Jul 1989,botham
-12,absent,12,49,24.48,1,0,Australia,Nottingham,10 Aug 1989,botham
-31,4*,35,83,42.16,3,0,West Indies,The Oval,8 Aug 1991,botham
-22,DNB,22,33,66.66,4,0,Sri Lanka,Lord's,22 Aug 1991,botham
-15,1,16,61,26.22,2,0,New Zealand,Wellington,6 Feb 1992,botham
-DNB,-,-,-,-,-,-,Pakistan,Birmingham,4 Jun 1992,botham
-2,6,8,39,20.51,0,0,Pakistan,Lord's,18 Jun 1992,botham
+44,48*,92,180,51.11,9,0,Australia,Brisbane,1 Dec 1978,gower
+102,12,114,268,42.53,9,0,Australia,Perth,15 Dec 1978,gower
+29,49,78,176,44.31,7,0,Australia,Melbourne,29 Dec 1978,gower
+7,34,41,78,52.56,3,0,Australia,Sydney,6 Jan 1979,gower
+9,21,30,67,44.77,4,0,Australia,Adelaide,27 Jan 1979,gower
+65,DNB,65,111,58.55,6,0,Australia,Sydney,10 Feb 1979,gower
+26,28,54,111,48.64,7,0,Australia,Nottingham,18 Jun 1981,gower
+27,89,116,293,39.59,15,1,Australia,Lord's,2 Jul 1981,gower
+24,9,33,72,45.83,4,0,Australia,Leeds,16 Jul 1981,gower
+0,23,23,69,33.33,2,0,Australia,Birmingham,30 Jul 1981,gower
+23,1,24,70,34.28,3,0,Australia,Manchester,13 Aug 1981,gower
+72,28,100,150,66.66,10,0,Australia,Perth,12 Nov 1982,gower
+18,34,52,147,35.37,7,0,Australia,Brisbane,26 Nov 1982,gower
+60,114,174,392,44.38,21,0,Australia,Adelaide,10 Dec 1982,gower
+18,3,21,35,60,1,0,Australia,Melbourne,26 Dec 1982,gower
+70,24,94,164,57.31,10,0,Australia,Sydney,2 Jan 1983,gower
+17,5,22,40,55,3,0,Australia,Leeds,13 Jun 1985,gower
+86,22,108,167,64.67,17,0,Australia,Lord's,27 Jun 1985,gower
+166,17,183,318,57.54,19,0,Australia,Nottingham,11 Jul 1985,gower
+47,-,47,141,33.33,5,0,Australia,Manchester,1 Aug 1985,gower
+215,-,215,314,68.47,25,1,Australia,Birmingham,15 Aug 1985,gower
+157,-,157,216,72.68,20,0,Australia,The Oval,29 Aug 1985,gower
+51,15*,66,119,55.46,8,0,Australia,Brisbane,14 Nov 1986,gower
+136,48,184,231,79.65,23,0,Australia,Perth,28 Nov 1986,gower
+38,DNB,38,42,90.47,5,0,Australia,Adelaide,12 Dec 1986,gower
+7,-,7,17,41.17,1,0,Australia,Melbourne,26 Dec 1986,gower
+72,37,109,236,46.18,17,0,Australia,Sydney,10 Jan 1987,gower

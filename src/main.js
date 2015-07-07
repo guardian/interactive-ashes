@@ -178,72 +178,119 @@ queue()
 		var from=new Date(2005,0,1),
     		to=new Date();
 		
-		var batsmen=new Batsmen(batsmen_data.filter(function(d){
-			return d.date >= from && d.date <= to;
-		}),{
-			from:from,
-			to:to,
-			container:"#batsmen2005_2015",
-			matches:matches_data,
-			players:players.batsmen,
-			aggregates:aggregates_data,
-			teams:{
-				"EN":"England",
-				"AU":"Australia"
-			}
-		});
+		var batsmen=[];
+		batsmen.push(
+			new Batsmen(batsmen_data.filter(function(d){
+				return d.date >= from && d.date <= to;
+			}),{
+				from:from,
+				to:to,
+				container:"#batsmen2005_2015",
+				matches:matches_data,
+				players:players.batsmen,
+				aggregates:aggregates_data,
+				teams:{
+					"EN":"England",
+					"AU":"Australia"
+				}
+			})
+		);
 		
-		
-		var bowlers=new Bowlers(bowlers_data.filter(function(d){
-			return d.date >= from && d.date <= to;
-		}),{
-			from:from,
-			to:to,
-			matches:matches_data,
-			container:"#bowlers2005_2015",
-			players:players.bowlers,
-			aggregates:aggregates_data,
-			teams:{
-				"EN":"England",
-				"AU":"Australia"
-			}
-		})
+		var bowlers=[];
 
+		bowlers.push(
+			new Bowlers(bowlers_data.filter(function(d){
+				return d.date >= from && d.date <= to;
+			}),{
+				from:from,
+				to:to,
+				matches:matches_data,
+				container:"#bowlers2005_2015",
+				players:players.bowlers,
+				aggregates:aggregates_data,
+				teams:{
+					"EN":"England",
+					"AU":"Australia"
+				}
+			})
+		);
+		
 		
 		from=new Date(1989,0,1),
-    	to=new Date(2004,11,31);
-
-    	new Batsmen(batsmen_data.filter(function(d){
-			return d.date >= from && d.date <= to;
-		}),{
-			from:from,
-			to:to,
-			container:"#batsmen1989_2003",
-			matches:matches_data,
-			players:players.batsmen,
-			aggregates:aggregates_data,
-			teams:{
-				"EN":"England",
-				"AU":"Australia"
-			}
-		});
-
-		new Bowlers(bowlers_data.filter(function(d){
-			return d.date >= from && d.date <= to;
-		}),{
-			from:from,
-			to:to,
-			matches:matches_data,
-			container:"#bowlers1989_2003",
-			players:players.bowlers,
-			aggregates:aggregates_data,
-			teams:{
-				"EN":"England",
-				"AU":"Australia"
-			}
-		})
+    	to=new Date(2003,11,31);
+    	batsmen.push(
+	    	new Batsmen(batsmen_data.filter(function(d){
+				return d.date >= from && d.date <= to;
+			}),{
+				from:from,
+				to:to,
+				container:"#batsmen1989_2003",
+				matches:matches_data,
+				players:players.batsmen,
+				aggregates:aggregates_data,
+				teams:{
+					"EN":"England",
+					"AU":"Australia"
+				}
+			})
+		)
+    	bowlers.push(
+			new Bowlers(bowlers_data.filter(function(d){
+				return d.date >= from && d.date <= to;
+			}),{
+				from:from,
+				to:to,
+				matches:matches_data,
+				container:"#bowlers1989_2003",
+				players:players.bowlers,
+				aggregates:aggregates_data,
+				teams:{
+					"EN":"England",
+					"AU":"Australia"
+				}
+			})
+		)
 		
-	
+		
+		
+
+		from=new Date(1977,0,1),
+    	to=new Date(1987,11,31);
+
+    	batsmen.push(
+	    	new Batsmen(batsmen_data.filter(function(d){
+				return d.date >= from && d.date <= to;
+			}),{
+				from:from,
+				to:to,
+				container:"#batsmen1977_1987",
+				matches:matches_data,
+				players:players.batsmen,
+				aggregates:aggregates_data,
+				teams:{
+					"EN":"England",
+					"AU":"Australia"
+				}
+			})
+		)
+
+    	bowlers.push(
+			new Bowlers(bowlers_data.filter(function(d){
+				return d.date >= from && d.date <= to;
+			}),{
+				from:from,
+				to:to,
+				matches:matches_data,
+				container:"#bowlers1977_1987",
+				players:players.bowlers,
+				aggregates:aggregates_data,
+				teams:{
+					"EN":"England",
+					"AU":"Australia"
+				}
+			})
+		)
+
 		/*
 		new AshesSummary(aggregates_data.filter(function(d){
 			return d.date >= from;
@@ -266,9 +313,13 @@ queue()
 			linechart.update();
 			history.update();
 			
-			//batsmen.update();
+			batsmen.forEach(function(b){
+				b.update();
+			});
 			
-			//bowlers.update();
+			bowlers.forEach(function(b){
+				b.update();
+			});
 			
 			
 		}

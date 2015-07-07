@@ -105,7 +105,7 @@ function Bowlers(data,options) {
 				//console.log(player.id,d.key)
 				return player.id==d.key;
 			});
-			//console.log("FOUND",player)
+			console.log("FOUND",player,d)
 			return +player.dates[1] >= + options.from
 		})
 		.sort(function(a,b) {
