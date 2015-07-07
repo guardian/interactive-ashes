@@ -412,7 +412,7 @@ function BatsmanCareerChart(data,options) {
 			})
 			.text(function(d){
 				////console.log(d)
-				return d.key;
+				return d.key.replace("/"," - ");
 			});
 
 	

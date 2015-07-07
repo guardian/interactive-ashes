@@ -73,7 +73,7 @@ function Series(data,options) {
 			winner=options.teams[d.Winner]+" won "+w+" - "+l;
 		}
 
-		var str="<span class=\"tour-year\">"+d.Year+"</span><br/>";
+		var str="<span class=\"tour-year\">"+(d.Year.replace("/"," - "))+"</span><br/>";
 
 		str+="Tour of "+options.teams[d.tour[0]]+" in "+options.teams[d.tour[1]];
 

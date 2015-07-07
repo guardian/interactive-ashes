@@ -514,7 +514,7 @@ function BowlerCareerChart(data,options) {
 			})
 			.text(function(d){
 				//console.log(d)
-				return d.key;
+				return d.key.replace("/"," - ");
 			})
 	//avgs
 	d3.range(3).forEach(function(avg_y){
