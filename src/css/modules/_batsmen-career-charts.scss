@@ -214,18 +214,22 @@
 		padding: 5px;
 
 		display: none;
+		color:colour(neutral-2);
 
 
 		h1 {
+			@include fs-header(1);
 			font-size: 14px;
 			margin:0;
 			margin-bottom:0.5em;
-			border-bottom:1px solid #ddd;
+			border-bottom:1px dotted #ddd;
+			color:colour(neutral);
 
 			span {
+				@include fs-textSans(2);
 				display: block;
 				font-weight: normal;
-				font-size:13px;
+				font-size:12px;
 			}
 		}
 
@@ -234,7 +238,7 @@
 		}
 
 		span.runs {
-			font-size:13px;
+			font-size:12px;
 			font-weight: bold;
 		}
 	}
