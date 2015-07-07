@@ -16,7 +16,7 @@
 	    padding-bottom: ($gs-baseline * 2);
 
 	    h1 {
-			@include fs-headline(9);
+			@include fs-headline(10);
 		}
 	}
 
@@ -87,16 +87,19 @@
 		.contents {
 			
 			h2 {
-				@include fs-headline(5);
+				@include fs-headline(6);
+				font-weight:600;
+				margin-top: 5px;
 			}
 			
 			.period {
-				border-top: 1px solid #dcdcdc;
+				border-top: 1px dotted #dcdcdc;
   				//padding-bottom: 80px;
 				
 				h3 {
-					@include fs-headline(3);
-					margin-top:2em;
+					@include fs-headline(6);
+					color:colour(neutral-3);
+					margin-top:5px;
 					margin-bottom:0.25em;
 				}
 			}
@@ -110,6 +113,7 @@
 			}
 			.section-text {
 		        color: colour(neutral-2);
+		        margin:0 0 30px 0;
 		    }
 		    .section-legend {
 		    	float:left;

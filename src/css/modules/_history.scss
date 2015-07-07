@@ -3,7 +3,7 @@
 	font-family: $f-serif-text;
 
 	div.period {
-		border-top:1px solid colour(neutral-4);
+		border-top:1px dotted colour(neutral-4);
 		//padding-bottom:80px;
 		
 		
@@ -124,7 +124,9 @@
 			div.period-summary-years {
 				
 				h1 {
-					@include fs-headline(3);
+					@include fs-headline(6);
+					color: colour(neutral-3);
+					margin-top: 5px;
 				}
 				
 			}
@@ -160,8 +162,8 @@
 				width:100%;
 				p {
 					
-					@include fs-headline(3);
-					font-weight: 200;
+					@include fs-bodyCopy(2);
+					// font-weight: 200;
 					
 					color:colour(neutral-2);
 					text-align: left;
@@ -308,7 +310,9 @@
 			.tour-info {
 				
 				font-size:16px;
-				color:colour(neutral-2);
+				@include fs-header(2);
+				color:colour(neutral-3);
+				// font-weight:600;
 				
 				span.tour-year {
 					@include fs-headline(2);
@@ -317,10 +321,10 @@
 				
 				span.tour-winner {
 					display: block;
-					
+					@include fs-header(2);
 					color:colour(neutral-1);
 				
-					@include fs-header(2);
+					// @include fs-header(2);
 					
 					@include mq(tablet) { //9
 				        display: inline-block;
