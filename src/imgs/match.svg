@@ -1,50 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 165 84" enable-background="new 0 0 165 84" xml:space="preserve">
-<text transform="matrix(1 0 0 1 116.7193 62.9843)" fill="#282828" font-family="'DS3DisplaySans'" font-size="11">WINNER</text>
-<g transform="translate(10,20)">
-	<g>
-		<path fill="#282828" fill-opacity="0.3" d="M13.4,45l24.2-19.6V44H13.4V45z"/>
-		<line fill="none" stroke="#282828" stroke-width="2" x1="13.4" y1="45" x2="37.6" y2="25.4"/>
-		<circle fill="#E1AD28" cx="37.6" cy="25.4" r="0"/>
-	</g>
-	<g>
-		<path fill="#737373" fill-opacity="0.3" d="M37.6,45l13.1-9v9H37.6L37.6,45z"/>
-		<line fill="none" stroke="#737373" stroke-width="2" x1="37.6" y1="45" x2="50.7" y2="36"/>
-		<circle fill="#4E69B2" cx="50.7" cy="36" r="0"/>
-	</g>
-	<g>
-		<path fill="#282828" fill-opacity="0.3" d="M50.6,25.4L74-1.2V44H50.6V25.4z"/>
-		<line fill="none" stroke="#282828" stroke-width="2" x1="50.6" y1="25.4" x2="74" y2="-1.2"/>
-		<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="37.6" y1="25.4" x2="50.6" y2="25.4"/>
-		<circle fill="#282828" cx="74" cy="-1.2" r="3"/>
-	</g>
-	<g>
-		<path fill="#737373" fill-opacity="0.3" d="M74,36l20.2-11.9V44H74V36z"/>
-		<line fill="none" stroke="#737373" stroke-width="2" x1="74" y1="36" x2="94.2" y2="24.1"/>
-		<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="50.7" y1="36" x2="74" y2="36"/>
-		<circle fill="#737373" cx="94.2" cy="24.1" r="2"/>
-	</g>
-</g>
-<line fill="none" stroke="#616161" stroke-miterlimit="10" x1="11.6" y1="65" x2="158.2" y2="65"/>
-<text transform="matrix(1 0 0 1 11.3672 77.1701)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">innings</text>
-<text transform="matrix(1 0 0 1 15.3672 26.1748)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">runs</text>
-<g>
-	<g>
-		<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="55.4" y1="73.9" x2="80.4" y2="73.9"/>
+<g id="match">
+	<text transform="matrix(1 0 0 1 118.7209 62.9843)" fill="#6D6E71" font-family="'DS3DisplaySans'" font-size="11">WINNER</text>
+	<g transform="translate(10,20)">
 		<g>
-			<polygon fill="#BDBDBD" points="79.4,77.8 85.4,74.3 79.4,70.8 			"/>
+			<path fill="#808285" fill-opacity="0.3" d="M13.4,45l24.2-19.6V44H13.4V45z"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="13.4" y1="45" x2="37.6" y2="25.4"/>
+			<circle fill="#E1AD28" cx="37.6" cy="25.4" r="0"/>
+		</g>
+		<g>
+			<path fill="#BCBEC0" fill-opacity="0.3" d="M37.6,45l13.1-9v9H37.6L37.6,45z"/>
+			<line fill="none" stroke="#939598" stroke-width="2" x1="37.6" y1="45" x2="50.7" y2="36"/>
+			<circle fill="#4E69B2" cx="50.7" cy="36" r="0"/>
+		</g>
+		<g>
+			<path fill="#808285" fill-opacity="0.3" d="M50.6,25.4L74-1.2V44H50.6V25.4z"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="50.6" y1="25.4" x2="74" y2="-1.2"/>
+			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="37.6" y1="25.4" x2="50.6" y2="25.4"/>
+			<circle cx="74" cy="-1.2" r="3"/>
+		</g>
+		<g>
+			<path fill="#BCBEC0" fill-opacity="0.3" d="M74,36l20.2-11.9V44H74V36z"/>
+			<line fill="none" stroke="#939598" stroke-width="2" x1="74" y1="36" x2="94.2" y2="24.1"/>
+			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="50.7" y1="36" x2="74" y2="36"/>
+			<circle fill="#939598" cx="94.2" cy="24.1" r="2"/>
+		</g>
+	</g>
+	<line fill="none" stroke="#D1D3D4" stroke-miterlimit="10" x1="11.6" y1="65" x2="158.2" y2="65"/>
+	<text transform="matrix(1 0 0 1 10.3672 77.1701)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">Innings</text>
+	<text transform="matrix(1 0 0 1 15.3672 29.1772)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">Runs</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="54.4" y1="73.9" x2="79.4" y2="73.9"/>
+			<g>
+				<polygon fill="#BDBDBD" points="78.4,77.8 84.4,74.3 78.4,70.8 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="11.9" y1="39.4" x2="11.9" y2="14.4"/>
+			<g>
+				<polygon fill="#BDBDBD" points="15.5,15.4 12,9.4 8.5,15.4 				"/>
+			</g>
 		</g>
 	</g>
 </g>
-<g>
-	<g>
-		<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="11.9" y1="39.4" x2="11.9" y2="14.4"/>
+<g id="bowler" display="none">
+	<g display="inline">
 		<g>
-			<polygon fill="#BDBDBD" points="15.5,15.4 12,9.4 8.5,15.4 			"/>
+			<g transform="translate(724.1379310344827,0)">
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-715.3" cy="46.6" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(753.1034482758621,0)">
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-714.4" cy="44.5" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(782.0689655172414,0)">
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-713.4" cy="41" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(811.0344827586207,0)">
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-712.5" cy="45.7" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(840,0)">
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-711.5" cy="44.1" rx="3.1" ry="3.5"/>
+			</g>
+		</g>
+		<path fill="#939598" fill-opacity="0.3" d="M8.8,46.6l29.9-2.1l28.8,3.1l31-2l29.9-1.5v20.8H98.6H68.7H38.7H8.8V46.6z"/>
+		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="8.8" y1="56.8" x2="128.5" y2="56.8"/>
+		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="8.8" y1="48.7" x2="128.5" y2="48.7"/>
+		<line fill="none" stroke="#FFFFFF" stroke-opacity="0.25" x1="8.8" y1="40.6" x2="128.5" y2="40.6"/>
+		<path fill="none" stroke="#000000" stroke-width="2" d="M8.8,46.6l29.9-2.1l28.8,3.1l31-2l29.9-1.5"/>
+	</g>
+	<path display="inline" fill="none" stroke="#000000" d="M8.8,20.7l29.9,0.8l29.9,6.6l29.9,4.9l29.9-13.9"/>
+	<line display="inline" fill="none" stroke="#3F403F" x1="3.7" y1="64.9" x2="133.6" y2="64.9"/>
+	<text transform="matrix(1 0 0 1 9.9399 76.8055)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Test matches</text>
+	<text transform="matrix(1 0 0 1 9.94 15.6667)" display="inline" font-family="'DS3DisplaySans'" font-size="11">Avg. match RPO</text>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 9.9397 40.9971)" font-family="'DS5DisplaySansSemibold'" font-size="11">Economy rate</text>
+	</g>
+	<g display="inline">
+		<g>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="127.9" y1="24.4" x2="127.9" y2="33.4"/>
+			<g>
+				<polygon fill="#BDBDBD" points="124.5,32.4 128,38.5 131.5,32.4 				"/>
+			</g>
 		</g>
 	</g>
+	<g display="inline">
+		<g>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="127.9" y1="15.4" x2="127.9" y2="8.4"/>
+			<g>
+				<polygon fill="#BDBDBD" points="131.5,9.4 128,3.4 124.5,9.4 				"/>
+			</g>
+		</g>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 132.7731 12.3345)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">Worse</text>
+	
+		<text transform="matrix(1 0 0 1 132.7734 36.3353)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">Better</text>
+	<text transform="matrix(1 0 0 1 1.5701 48.971)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">2</text>
+	<text transform="matrix(1 0 0 1 2.5699 62.6937)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">1</text>
+</g>
+<g id="batsman" display="none">
+	<g display="inline">
+		<path fill="#939598" fill-opacity="0.1" d="M31.8,13.4L62,40l30.2,17.8l30.2-6.4l30.2-18.5v32.6h-30.2H92.2H62H31.8V13.4z"/>
+		<g>
+			<g transform="translate(434,0)">
+				<rect x="-403.2" y="13.4" width="2.1" height="52.2"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-402.2" cy="13.4" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(463,0)">
+				<rect x="-402" y="40" width="2.1" height="25.6"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-401" cy="40" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(492,0)">
+				<rect x="-400.9" y="57.8" width="2.1" height="7.8"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-399.8" cy="57.8" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(521,0)">
+				<rect x="-399.7" y="51.4" width="2.1" height="14.2"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-398.6" cy="51.4" rx="3.1" ry="3.5"/>
+			</g>
+			<g transform="translate(550,0)">
+				<rect x="-398.5" y="32.9" width="2.1" height="32.6"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-397.4" cy="32.9" rx="3.1" ry="3.5"/>
+			</g>
+		</g>
+		<line fill="none" stroke="#000000" x1="26.6" y1="65.5" x2="157.8" y2="65.5"/>
+	</g>
+	<line display="inline" fill="none" stroke="#FFFFFF" x1="4" y1="46.9" x2="165.8" y2="46.9"/>
+	<line display="inline" fill="none" stroke="#FFFFFF" x1="4" y1="30.2" x2="165.8" y2="30.2"/>
+	<line display="inline" fill="none" stroke="#FFFFFF" x1="4" y1="13.5" x2="165.8" y2="13.5"/>
+	
+		<text transform="matrix(1 0 0 1 25.8022 77.5954)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Test matches</text>
+	<text transform="matrix(1 0 0 1 5.845 12.1748)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Runs</text>
+	
+		<text transform="matrix(1 0 0 1 10.3545 50.2079)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">100</text>
+	<text transform="matrix(1 0 0 1 8.353 33.7667)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">200</text>
 </g>
 </svg>
