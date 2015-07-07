@@ -1,0 +1,93 @@
+.all-series {
+	
+	.timeline-chart {
+		
+		width:100%;
+		height:200px;
+
+		svg {
+			.team {
+				path {
+					fill:none;
+					stroke-width:2;
+					shape-rendering: crispEdges;
+					stroke-linecap:square;
+				}
+				text.status {
+					@include fs-header(2);
+					
+					font-size: 14px;
+				}
+			}
+			.EN {
+				path {
+					stroke:$EN;
+				}
+				text.status {
+					fill:$EN;	
+				}
+			}
+			.AU {
+				path {
+					stroke:$AU;
+				}
+				text.status {
+					fill:$AU;	
+				}
+			}
+			
+			.notes {
+				.note {
+					line {
+						fill:none;
+						shape-rendering: crispEdges;
+						stroke:#ccc;
+					}
+					circle {
+						stroke:none;
+						fill:#aaa;
+					}
+				}
+			}
+
+			.axis {
+				path,line {
+					fill:none;
+					shape-rendering: crispEdges;
+					stroke:#ccc;
+				}
+				path {
+					//display: none;
+				}
+
+				.tick {
+					line {
+						//display: none;
+					}
+					text {
+						//display: none;
+					}
+				}
+				.tick.main {
+					text {
+						display: block;
+					}
+				}
+				text {
+					@include fs-headline(2);
+					fill: #767676;
+					font-size: 12px;
+				}
+
+				text.ww {
+					@include fs-headline(2);
+					fill: #767676;
+					font-size: 10px;	
+				}
+				
+			}
+		}	
+	}
+	
+
+}

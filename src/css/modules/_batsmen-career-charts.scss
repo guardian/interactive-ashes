@@ -1,0 +1,245 @@
+.batsmen-career-charts {
+	overflow:visible;
+
+	
+	.career-row {
+		width:100%;
+		margin-bottom:20px;
+		overflow: visible;
+
+		div.info {
+			//height: 20px;
+			position: relative;
+
+			h1 {
+				@include fs-headline(2);
+				font-size: 15px;
+				line-height: 15px;
+				font-weight: 500;
+				
+				width: 100%;
+			}
+		}
+		
+
+		.career-chart {
+			width: 100%;//calc(100% - 150px);
+			height: 70px;
+			
+			
+			margin:0;
+			
+			position: relative;
+			
+
+			svg {
+				width: 100%;
+				height: 100%;
+
+				.ux {
+					fill-opacity:0;
+				}
+			}
+			g.axes {
+				path,line {
+					fill:none;
+					shape-rendering: crispEdges;
+					stroke:#ccc;
+				}
+				text {
+					font-size:11px;
+					fill:#bbb;
+				}
+			}
+			g.career {
+				line.baseline {
+					stroke:#aaa;
+					stroke-width:1;
+					stroke-opacity:0.2;
+					fill:none;
+					shape-rendering: crispEdges;
+				}
+				line.baseline.EN {
+					stroke:$EN;
+					stroke-opacity:1;
+				}
+				line.baseline.AU {
+					stroke:$AU;
+					stroke-opacity:1;
+				}
+				line.century {
+					stroke:#fff;
+					stroke-opacity:1;
+					stroke-width:1;
+					fill:none;
+					shape-rendering: crispEdges;
+					//stroke-dasharray:1, 2;
+				}
+				path.years {
+					stroke:none;
+					fill:#767676;
+					fill-opacity:0.1;
+				}
+				path.years.EN {
+					//fill:$EN;
+				}
+				path.years.AU {
+					//fill:$AU;
+				}
+				.period {
+					.matches {
+						path {
+							fill:none;
+							stroke:#333;
+							stroke-width:1;
+						}
+						
+						line {
+							//display:none;
+							stroke:#333;
+							stroke-width:1;
+							stroke-opacity:0.5;
+							shape-rendering: crispEdges;
+						}
+
+
+						rect {
+							stroke:none;
+							fill:#767676;
+							fill-opacity:1;
+							shape-rendering: crispEdges;
+						}
+
+						rect.EN {
+							fill:$EN;
+						}
+						rect.AU {
+							fill:$AU;
+						}
+
+						rect.ux {
+							fill:#ffce4b;
+							fill-opacity:0;
+						}
+
+						circle {
+							stroke:none;
+							stroke-width:1;
+							fill:#aaa;
+						}
+
+						circle.EN {
+							fill:$EN;
+						}
+						circle.AU {
+							fill:$AU;
+						}
+
+						circle.marker {
+							fill-opacity:0;
+
+							transition: none;
+							transition-delay: 0s;
+						}
+						
+						.highlight {
+							circle.marker {
+								fill-opacity:1;
+							}
+
+							rect {
+								//fill:#000 !important;
+							}
+						}
+
+						
+
+					}
+
+					text.labels {
+							font-family: $f-sans-serif-text;
+							fill: #767676;
+							font-size: 11px;
+							text-anchor:middle;
+						}
+
+				}
+				.period.any {
+					.matches {
+						rect {
+							fill-opacity:0.5;
+						}
+					}
+				}
+				
+			}
+			
+		}
+		.EN svg rect {
+		//	fill:$EN;
+		}
+		.AU svg rect {
+		//	fill:$AU;
+		}
+
+
+
+
+	}
+	
+	.selected .career-chart-line {
+		display: block;
+	}
+
+	.tooltip {
+		position: absolute;
+		bottom:0;
+		left:0;
+		width:200px;
+		background-color: rgba(255,255,255,0.8);
+		padding:5px;
+		//border:1px solid #000;
+
+		pointer-events: none;
+
+		display: none;
+		
+		@include fs-textSans(2);
+
+		
+		font-size: 12px;
+
+		line-height: 15px;
+
+		padding: 5px;
+
+		display: none;
+
+
+		h1 {
+			font-size: 14px;
+			margin:0;
+			margin-bottom:0.5em;
+			border-bottom:1px solid #ddd;
+
+			span {
+				display: block;
+				font-weight: normal;
+				font-size:13px;
+			}
+		}
+
+		span {
+			display: block;
+		}
+
+		span.runs {
+			font-size:13px;
+			font-weight: bold;
+		}
+	}
+	.tooltip.visible {
+		display: block;
+	}
+
+}

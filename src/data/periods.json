@@ -1,0 +1,59 @@
+[
+	{
+		"years":[1882,1883],
+		"blurb":"Beard the kangaroo in his den and try and recover those ashes",
+		"author":"A. N. Hornby",
+		"shown":0
+	},
+	{
+		"years":[1884,1896],
+		"blurb":"Beard the kangaroo in his den and try and recover those ashes",
+		"author":"A N Hornby",
+		"shown":0
+	},
+	{
+		"years":[1897,1902],
+		"blurb":"Beard the kangaroo in his den and try and recover those ashes",
+		"author":"A N Hornby",
+		"shown":0
+	},
+	{
+		"years":[1905,1912],
+		"blurb":"Beard the kangaroo in his den and try and recover those ashes",
+		"author":"A N Hornby",
+		"shown":0
+	},
+	{
+		"years":[1920,1933],
+		"blurb":"Beard the kangaroo in his den and try and recover those ashes",
+		"author":"A N Hornby",
+		"shown":0
+	},
+	{
+		"years":[1934,1953],
+		"blurb":"Beard the kangaroo in his den and try and recover those ashes",
+		"author":"A N Hornby",
+		"shown":0
+	},
+	{
+		"years":[1954,1971],
+		"blurb":"Beard the kangaroo in his den and try and recover those ashes",
+		"author":"A N Hornby",
+		"shown":0
+	},
+	{
+		"years":[1972,1987],
+		"blurb":"England won five out of six series, including a 5-1 win in 1978-79, the only time England have won five Tests in one visit to Australia (though there have been three 4-1 series wins). Despite this the 1981 Ashes in England, in which Ian Botham inspired the hosts to famously improbable victory at Headingley and eventually the series, is the most cherished success of the period.",
+		"shown":1
+	},
+	{
+		"years":[1989,2003],
+		"blurb":"A run of unbroken Australian success unprecedented in Ashes history. They won eight successive series, and lost just seven of 43 Tests (all but one of those in dead rubbers when Australia had already secured the urn).",
+		"shown":1
+	},
+	{
+		"years":[2005,2015],
+		"blurb":"In 2005 England won the Ashes for the first time in 18 years, a raucously-received victory in one of the most spellbinding series in cricketing history. Though the urn was ripped from their grasp at the first attempt with a 5-0 thrashing in 2006-07 they won the next three series in a row, a short spell of dominance that ended in emphatic style with another whitewash in 2013-14.",
+		"shown":1
+	}
+]

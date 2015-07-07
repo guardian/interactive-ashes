@@ -1,0 +1,59 @@
+.careers {
+	overflow:hidden;
+
+	.career {
+
+		width: 200px;
+		height: 200px;
+		
+		float:left;
+		margin:20px;
+		
+		h1 {
+			font-family: $f-serif-text;
+			font-size: 12px;
+			line-height: 15px;
+			text-align: center;
+			font-weight:normal;
+		}
+
+		svg {
+			width: 100%;
+			height: 100%;
+			
+			line.mid-line {
+				stroke-width:1;
+				stroke:#ddd;
+			}
+
+			g.years {
+
+				.year {
+
+					rect {
+						stroke:#aaa;
+						stroke-width:1;
+						fill:#ccc;
+						shape-rendering: crispEdges;
+					}
+
+					line {
+						stroke:#aaa;
+						stroke-width:1;
+						fill:none;
+						shape-rendering: crispEdges;
+					}
+
+				}
+
+				path {
+					fill:#333;
+					fill-opacity:0.1;
+					stroke:#aaa;
+				}
+
+			}
+		}
+
+	}
+}

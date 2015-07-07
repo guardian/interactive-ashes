@@ -1,0 +1,424 @@
+#series {
+	width:100%;
+	font-family: $f-serif-text;
+
+	div.period {
+		border-top:1px solid colour(neutral-4);
+		//padding-bottom:80px;
+		
+		
+		
+		
+		@include mq(tablet) {
+			background-color: white;
+			background-image: linear-gradient(90deg, transparent 50%, rgba(0, 0, 0, 0.1) 50%);
+			background-size: 2px 100%;
+			background-repeat: no-repeat;
+
+			background-position: calc(100% - 30px + 1px);
+		}
+		@include mq(desktop) {
+			background-position: calc(100% - 30px + 1px);
+		}
+		//overflow: hidden;
+
+		.button {
+			min-width: 100px;
+		}
+		div.period-stuff {
+			@include mq(tablet) {
+				float:left;
+				width: gs-span(8) - $gs-gutter*2;
+			}
+			@include mq(desktop) {
+				float:left;
+				width: gs-span(8);
+			}
+			@include mq(wide) {
+				float:left;
+				width: gs-span(11) + $gs-gutter*4;
+			}
+		}
+		div.period-timeline {
+			
+			display: none;
+
+			@include mq(tablet) {
+				display: block;
+				float:right;
+				width: gs-span(2) ;
+				margin-right: $gs-gutter;
+			}
+			@include mq(desktop) {
+				float:right;
+
+				width: gs-span(2) - $gs-gutter*2;
+
+				
+				
+			}
+
+			@include fs-textSans(1);
+
+			div {
+				color: colour(neutral-3);
+				text-align: right;
+				line-height: 20px;
+				height:20px;
+				padding-top:17px;
+				
+				cursor: pointer;
+
+
+
+				span {
+					display: block;
+					height:20px;
+					line-height: 20px;
+					float:right;
+				}
+				b {
+					line-height: 20px;
+					display: block;
+					float:right;
+					width:14px;
+					height: 14px;
+					border-radius: 7px;
+					border:3px solid #fff;
+					background-color: colour(neutral-3);
+					margin-right:3px;
+					margin-left:5px;
+					margin-top: 3px;
+				}
+			}
+			
+		}
+
+		div.period-timeline:hover {
+			div {
+				span {
+					color: colour(neutral-1);
+				}
+			}
+		}
+
+		
+
+		div.period-summary {
+			
+
+			width:100%;
+
+			overflow: hidden;
+			//height: 80px;
+
+			>div {
+				
+				height: 100%;
+				padding:0px;
+				
+
+
+				
+			}
+			div.period-summary-years {
+				
+				h1 {
+					@include fs-headline(3);
+				}
+				
+			}
+			
+			div.period-summary-results {
+				width:100%;
+				overflow: hidden;
+				
+				@include fs-header(3);
+
+				div {
+					span {
+						color:colour(neutral-2);
+						font-family: $f-sans-serif-text;
+						font-size:12px;
+						font-weight: normal;
+					}
+				}
+				.EN {
+					color:$EN;
+				}
+				.AU {
+					color:$AU;
+				}
+				.loser {
+					color:#333 !important;
+				}
+				
+			}
+
+			div.period-summary-blurb {
+				margin-top:10px;
+				width:100%;
+				p {
+					
+					@include fs-headline(3);
+					font-weight: 200;
+					
+					color:colour(neutral-2);
+					text-align: left;
+					
+					margin:0;
+					padding:0;
+				}
+				span.author {
+					color:colour(neutral-3)
+				}
+
+				// Breakpoints
+			    
+
+			    @include mq(desktop) { //12
+			        width: gs-span(7) ;
+			    }
+
+			    
+			}
+		}
+	}
+	
+	div.period:first-child {
+
+		div.period-timeline {
+			@include mq(tablet) {
+				background:white;
+				div {
+					cursor: default;
+					b {
+					//margin-top: 20px;
+					}	
+				}
+				
+			}
+		}
+	}
+	div.period:last-child {
+		background: #fff;
+		div.period-timeline {
+			@include mq(tablet) {
+				background:white;
+				div {
+					
+					background-color: white;
+					background-image: linear-gradient(90deg, transparent 50%, rgba(0, 0, 0, 0.1) 50%);
+					background-size: 2px 100%;
+					background-repeat: no-repeat;
+					background-position: calc(100% - 10px + 1px);
+
+					b {
+					//margin-top: 20px;
+					}	
+				}
+				
+			}
+		}
+	}
+
+	div.period.compressed {
+
+		padding:0;
+		border-top:none;
+		div.period-stuff {
+			display: none;
+		}
+
+		div.period-timeline {
+			div {
+				padding-top:0;
+				span {
+					@include mq(desktop) {
+						visibility: hidden;
+					}
+				}
+			}
+		}
+
+		div.period-timeline:hover {
+			div {
+				span {
+					visibility: visible;
+				}
+			}
+		}
+	}
+	div.period.compressed:last-child {
+		
+		div.period-timeline {
+			@include mq(tablet) {
+				
+				div {
+					
+					height:10px;
+					
+				}
+				
+			}
+		}
+	}
+	
+	div.period-series {
+		//display: none;
+		margin-bottom:30px;
+	}
+	.selected div.period-series {
+		display: block;
+	}
+	/*.tour-winner {
+		padding-left: 101px;
+		color:#333;
+		
+	}*/
+
+	ul {
+		list-style-type: none;
+		margin:0;
+		padding:0;
+
+		
+		position:relative;
+		
+		overflow: hidden;
+		@include mq(tablet) {
+			overflow: visible;
+		}
+		//height: calc((145px + 20px)* 3);
+	    transition: height 1000ms ease-out;
+		
+		
+
+		li.tour {
+			
+			padding:0;
+			margin:10px 0;
+			//height: 160px;
+
+			//overflow: hidden;
+			
+			//position: absolute;
+			//min-height: 145px;	
+
+			.tour-info {
+				
+				font-size:16px;
+				color:colour(neutral-2);
+				
+				span.tour-year {
+					@include fs-headline(2);
+					color:colour(neutral-3);
+				}
+				
+				span.tour-winner {
+					display: block;
+					
+					color:colour(neutral-1);
+				
+					@include fs-header(2);
+					
+					@include mq(tablet) { //9
+				        display: inline-block;
+				        margin-left:0.5em;
+				    }
+				}
+
+				span.tour-circle {
+					width:40px;
+					text-align: center;
+					b {
+						display: inline-block;
+						width:10px;
+						height:10px;
+						border-radius:5px;
+
+						background-color: #ddd;
+
+						box-shadow: 0 0 0 3px #fff;
+					}
+				}
+				span.tour-circle.EN b {
+					background-color: $EN;
+				}
+				span.tour-circle.AU b {
+					background-color: $AU;
+				}
+				
+			}
+
+			
+
+			.match-badge {
+
+				box-sizing: border-box;
+				width:210px;
+				height: 30px;
+				
+				display: inline-block;
+				ul {
+					margin:0;
+					padding:0;
+					overflow: hidden;
+					li {
+						display: block;
+						float: left;
+						width: 20px;
+						height: 20px;
+						margin: 5px;
+						background-color:#ddd;
+
+						border-radius:3px;
+
+						> span {
+							display: block;
+							line-height: 20px;
+							width: 20px;
+							height: 20px;
+							color:#fff;
+							font-family: $f-sans-serif-text;
+							font-weight: 200;
+							font-size: 14px;
+							text-align: center;
+							display: none;
+						}
+					}
+					li.AU {
+						background-color: $AU;
+					}
+					li.EN {
+						background-color: $EN;
+					}
+				}
+			}
+			
+			
+
+		}
+		li.hidden {
+			display: none;
+		}
+		li.EN {
+			border-left-color:$EN;
+		}
+
+		li.AU {
+			border-left-color:$AU;
+		}
+
+		li.tour:hover .tour-info {
+			/*cursor: pointer;
+
+			.tour-year {
+				font-weight: bold;
+			}*/
+		}
+		
+
+	}
+
+}

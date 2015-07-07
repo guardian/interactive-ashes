@@ -1,0 +1,278 @@
+.bowlers-career-charts {
+	overflow:visible;
+
+	
+	.career-row {
+		width:100%;
+		margin-bottom:20px;
+		overflow: visible;
+
+		div.info {
+			//height: 20px;
+			position: relative;
+
+			h1 {
+				@include fs-headline(2);
+				font-size: 15px;
+				line-height: 15px;
+				font-weight: 500;
+				
+				width: 100%;
+			}
+		}
+		
+
+		.career-chart {
+			width: 100%;//calc(100% - 150px);
+			height: 70px;
+			
+			
+			margin:0;
+			
+			position: relative;
+			
+
+			svg {
+				width: 100%;
+				height: 100%;
+
+				.ux {
+					fill-opacity:0;
+				}
+			}
+			g.axes {
+				path,line {
+					fill:none;
+					shape-rendering: crispEdges;
+					stroke:#ccc;
+				}
+				text {
+					font-size:11px;
+					fill:#bbb;
+				}
+			}
+			g.career {
+				line.baseline {
+					stroke:#bdbdbd;
+					stroke-width:1;
+					stroke-opacity:0.2;
+					fill:none;
+					shape-rendering: crispEdges;
+				}
+				line.baseline.EN {
+					stroke:$EN;
+					stroke-opacity:1;
+				}
+				line.baseline.AU {
+					stroke:$AU;
+					stroke-opacity:1;
+				}
+				line.average {
+					stroke:#333;
+					stroke-opacity:0.75;
+					stroke-width:1;
+					fill:none;
+					shape-rendering: crispEdges;
+					//stroke-dasharray:1, 2;
+				}
+				path.regression {
+					stroke:#333;//colour(news-main-2);
+					stroke-width:1.5;
+					stroke-opacity:0.3;
+					fill:none;
+
+					transition: stroke-opacity 1000ms ease-out;
+					transition-delay: 1000ms;
+				}
+				path.regression.hidden {
+					stroke-opacity:0;
+				}
+				path.years {
+					stroke:none;
+					fill:#4bc6df;
+					fill-opacity:0.5;
+				}
+				.period,
+				.period-agg {
+					
+						path {
+							fill:none;
+							stroke:#767676;
+							stroke-width:2;
+						}
+
+						path.area.EN {
+							fill:$EN;
+							fill-opacity:0.3;
+							stroke:none;
+						}
+						path.area.AU {
+							fill:$AU;
+							fill-opacity:0.3;
+							stroke:none;
+						}
+
+						path.rpo,line.rpo {
+							fill:none;
+							stroke:#767676;
+							stroke-width:1;
+							stroke-opacity:1;
+
+							transition: stroke-opacity 1000ms ease-out;
+							transition-delay: 0.5s;
+							//stroke-dasharray: 1,1;
+						}
+
+						path.rpo.hidden {
+							stroke-opacity:0;
+						}
+
+						path.EN {
+							stroke:$EN;
+						}
+						path.AU {
+							stroke:$AU;
+						}
+						
+						line {
+							//display:none;
+							stroke:#fff;
+							stroke-width:1;
+							stroke-opacity:1;
+							shape-rendering: crispEdges;
+						}
+						
+						line.average {
+							stroke:#fff;
+							stroke-opacity:0.25
+						}
+
+						line.EN {
+							stroke:$EN;
+						}
+						line.AU {
+							stroke:$AU;
+						}
+
+						circle {
+							stroke:none;
+							stroke-width:1;
+							fill:#aaa;
+							fill-opacity:0.5;
+
+							transition: fill-opacity 1000ms ease-out;
+							transition-delay: 0.5s;
+						}
+						circle.ashes {
+							fill-opacity:1;
+						}
+
+						circle.EN {
+							fill:$EN;
+						}
+						circle.AU {
+							fill:$AU;
+						}
+
+						circle.rpo {
+							fill:#111;
+							fill-opacity:1;
+						}
+
+						circle.marker {
+							fill-opacity:0;
+
+							transition: none;
+							transition-delay: 0s;
+						}
+
+						rect {
+							stroke:none;
+							shape-rendering: crispEdges;
+						}
+
+						rect.EN {
+							fill:$EN;
+						}
+						rect.AU {
+							fill:$AU;
+						}
+
+						text.labels {
+							font-family: $f-sans-serif-text;
+							fill: #767676;
+							font-size: 11px;
+							text-anchor:middle;
+						}
+
+						.highlight {
+							circle.marker {
+								fill-opacity:1;
+							}
+						}
+
+				}
+				.period.hidden {
+					circle {
+						fill-opacity:0;
+					}
+				}
+			}
+			
+		}
+
+
+	}
+
+	.tooltip {
+		position: absolute;
+		bottom: 0;
+		left:0;
+		width:200px;
+		background-color: rgba(255,255,255,0.8);
+		padding:5px;
+		//border:1px solid #000;
+
+		pointer-events: none;
+
+		display: none;
+		
+		@include fs-textSans(2);
+
+		
+		font-size: 12px;
+
+		line-height: 15px;
+
+		padding: 5px;
+
+		display: none;
+
+
+		h1 {
+			font-size: 14px;
+			margin:0;
+			margin-bottom:0.5em;
+			border-bottom:1px solid #ddd;
+
+			span {
+				display: block;
+				font-weight: normal;
+				font-size:13px;
+			}
+		}
+
+		span {
+			display: block;
+		}
+
+		span.runs {
+			font-size:13px;
+			font-weight: bold;
+		}
+	}
+	.tooltip.visible {
+		display: block;
+	}
+
+}
