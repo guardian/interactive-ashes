@@ -339,6 +339,7 @@ function TestMatchMiniChart(data,options) {
 		var size=options.container.getBoundingClientRect(),
 	    	WIDTH = size.width;
 
+	    WIDTH= +d3.select(options.container).style("width").replace("px","");
 	    xscale.range([0,WIDTH-(margins.left+margins.right)]);
 
 	    if(options.area) {

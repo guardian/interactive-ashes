@@ -172,13 +172,15 @@ queue()
 			container:"#series",
 			series:series_data
 		});
-
+		
+		
    	
 		
 		var from=new Date(2005,0,1),
     		to=new Date();
 		
 		var batsmen=[];
+		
 		batsmen.push(
 			new Batsmen(batsmen_data.filter(function(d){
 				return d.date >= from && d.date <= to;
@@ -218,6 +220,8 @@ queue()
 		
 		from=new Date(1989,0,1),
     	to=new Date(2003,11,31);
+
+    	
     	batsmen.push(
 	    	new Batsmen(batsmen_data.filter(function(d){
 				return d.date >= from && d.date <= to;
@@ -234,6 +238,7 @@ queue()
 				}
 			})
 		)
+		
     	bowlers.push(
 			new Bowlers(bowlers_data.filter(function(d){
 				return d.date >= from && d.date <= to;
@@ -256,7 +261,7 @@ queue()
 
 		from=new Date(1977,0,1),
     	to=new Date(1987,11,31);
-
+		
     	batsmen.push(
 	    	new Batsmen(batsmen_data.filter(function(d){
 				return d.date >= from && d.date <= to;
@@ -273,6 +278,7 @@ queue()
 				}
 			})
 		)
+		
 
     	bowlers.push(
 			new Bowlers(bowlers_data.filter(function(d){
@@ -291,18 +297,7 @@ queue()
 			})
 		)
 
-		/*
-		new AshesSummary(aggregates_data.filter(function(d){
-			return d.date >= from;
-		}),{
-			container:"#ashesSummary1"
-		})
-		new AshesSummary(aggregates_data.filter(function(d){
-			return d.date >= from;
-		}),{
-			container:"#ashesSummary2"
-		})
-*/
+
 		
 		
 		
@@ -310,12 +305,14 @@ queue()
 		
 		
 		window.onresize=function(){
-			linechart.update();
+			/*linechart.update();
 			history.update();
-			
+			*/
 			batsmen.forEach(function(b){
 				b.update();
 			});
+
+
 			
 			bowlers.forEach(function(b){
 				b.update();

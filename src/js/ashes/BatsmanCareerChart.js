@@ -193,6 +193,9 @@ function BatsmanCareerChart(data,options) {
     	teams:options.teams
     })
 
+    viz.append("div")
+		.attr("class","match-legend");
+
 	var svg=viz.append("svg")
 				.attr("width","100%")
 				.attr("height","100%")
@@ -545,7 +548,20 @@ function BatsmanCareerChart(data,options) {
 			yscale.domain(options.extents.aruns);
 		}
 
+		ux.select("rect")
+			.attr("x",0)
+			.attr("y",0)
+			.attr("width",WIDTH);
 
+		match
+			.filter(function(d){
+				return !isNaN(d[INDEX])
+			})
+			.attr("transform",function(d){
+				var x=xscale(options.indexed?d[INDEX]:d.date),
+					y=0;
+				return "translate("+x+","+y+")";
+			});
 
 		////console.log("X DOMAIN",xscale.domain())
 		////console.log("Y DOMAIN",yscale.domain())

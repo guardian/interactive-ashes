@@ -21,6 +21,11 @@
 			}
 		}
 		
+		.career-chart:hover {
+			.match-legend {
+				display: block;
+			}
+		}
 
 		.career-chart {
 			width: 100%;//calc(100% - 150px);
@@ -31,6 +36,16 @@
 			
 			position: relative;
 			
+			.match-legend {
+				width: gs-span(2) + $gs-gutter;
+				height:99px;
+				position:absolute;
+				left: (gs-span(2) + $gs-gutter) * -1;
+				top: -30px;
+				background:transparent url(../imgs/bowler.svg) bottom left no-repeat;
+				opacity:0.5;
+				display: none;
+			}
 
 			svg {
 				width: 100%;
@@ -281,3 +296,4 @@
 	}
 
 }
+

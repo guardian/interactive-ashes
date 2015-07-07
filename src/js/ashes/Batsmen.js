@@ -103,8 +103,15 @@ function Batsmen(data,options) {
 			//console.log("FOUND",player,d)
 			return +player.dates[1] >= + options.from && +player.dates[0] <= + options.to
 		})
-		.sort(function(a,b) {
+		/*.sort(function(a,b) {
 			return +a.values.min_date - +b.values.min_date;
+		})*/
+		.sort(function(a,b) {
+			var diff=(+b.values.min_date - +a.values.min_date);
+			if(diff!==0) {
+				return (+b.values.n_matches - +a.values.n_matches)
+			}
+			return diff;
 		})
 		.forEach(function(player){
 

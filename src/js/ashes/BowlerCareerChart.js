@@ -229,7 +229,10 @@ function BowlerCareerChart(data,options) {
     	margins:margins,
     	info:options.info,
     	teams:options.teams
-    })
+    });
+
+    viz.append("div")
+		.attr("class","match-legend");
 
 	var svg=viz.append("svg")
 				.attr("width","100%")
@@ -796,6 +799,7 @@ function BowlerCareerChart(data,options) {
 	
 	function update(__options) {
 
+
 		var DURATION=(__options && __options.duration?__options.duration:0);
 
 		if(__options && (typeof __options.only_ashes != 'undefined')) {
@@ -806,7 +810,7 @@ function BowlerCareerChart(data,options) {
 		var size=viz.node().getBoundingClientRect(),
     		WIDTH = size.width;
 
-    	//console.log("bowler new width",WIDTH)
+    	console.log("bowler new width",WIDTH)
 
     	xscale.range([0,WIDTH-(margins.left+margins.right)]);
     	xscale_all.range([0,WIDTH-(margins.left+margins.right)]);
@@ -820,6 +824,22 @@ function BowlerCareerChart(data,options) {
 		if(options.only_ashes) {
 			xscale.domain(options.extents.aindex);
 		}
+
+		ux.select("rect")
+			.attr("x",0)
+			.attr("y",0)
+			.attr("width",WIDTH);
+
+		match
+			.filter(function(d){
+				return !isNaN(d[INDEX])
+			})
+			.attr("transform",function(d){
+				var x=xscale(options.indexed?d[INDEX]:d.date),
+					y=0;
+				return "translate("+x+","+y+")";
+			});
+		
 
 		career_g.select("line.baseline.main")
 			.attr("x1",xscale.range()[0]-margins.left)
