@@ -16,10 +16,10 @@ var LineChart=require('./js/ashes/LineChart');
 var date_format=d3.time.format("%d %b %Y");
 
 // Useful detection tool. See js/utils/detect.js for more.
-//console.log('Is IOS: ', detect.isIOS());
-//console.log('Connection speed: ', detect.getConnectionSpeed());
+////console.log('Is IOS: ', detect.isIOS());
+////console.log('Connection speed: ', detect.getConnectionSpeed());
 
-//console.log(d3,queue.version);
+////console.log(d3,queue.version);
 
 var prev_date={
 	batsmen:null,
@@ -28,16 +28,16 @@ var prev_date={
 
 
 queue()
-    .defer(d3.json,"./data/periods.json")
-    .defer(d3.json,"./data/ashes.json")
-    .defer(d3.csv,"./data/ashes.csv",function(d){
+    .defer(d3.json,"/data/periods.json")
+    .defer(d3.json,"/data/ashes.json")
+    .defer(d3.csv,"/data/ashes.csv",function(d){
     	
     	d.date=date_format.parse(d.StartDate);
 		d.Type=d.Type || "ashes";
 
     	return d;
     })
-    .defer(d3.csv,"./data/series.csv",function(d){
+    .defer(d3.csv,"/data/series.csv",function(d){
     	
     	d.date=date_format.parse(d.StartDate);
 		d.tour=d.Tour.split(" in ");
@@ -45,7 +45,7 @@ queue()
 
     	return d;
     })
-    .defer(d3.csv,"./data/matches.csv",function(d){
+    .defer(d3.csv,"/data/matches.csv",function(d){
 
     	d.date=date_format.parse(d.StartDate);
 					
@@ -63,7 +63,7 @@ queue()
 
     	return d;
     })
-    .defer(d3.csv,"./data/aggregates.csv",function(d,i){
+    .defer(d3.csv,"/data/aggregates.csv",function(d,i){
 
     	
 
@@ -73,7 +73,7 @@ queue()
 
     	return d;
     })
-    .defer(d3.csv,"./data/innings.csv",function(d){
+    .defer(d3.csv,"/data/innings.csv",function(d){
 
     	d.Inns= +d.Inns;
 		d.oOvers= d.Overs;
@@ -89,7 +89,7 @@ queue()
 
     	return d;
     })
-    .defer(d3.csv,"./data/batsmen.csv",function(d){
+    .defer(d3.csv,"/data/batsmen.csv",function(d){
 
     	d.date=date_format.parse(d.StartDate);
 
@@ -99,7 +99,7 @@ queue()
 
     	return d;
     })
-    .defer(d3.csv,"./data/bowlers.csv",function(d){
+    .defer(d3.csv,"/data/bowlers.csv",function(d){
 
     	d.date=date_format.parse(d.StartDate);
 
@@ -110,7 +110,7 @@ queue()
 
     	return d;
     })
-    .defer(d3.json,"./data/players.json")
+    .defer(d3.json,"/data/players.json")
     .await(function(error, periods, ashes, ashes_data, series_data, matches_data, aggregates_data, innings_data, batsmen_data, bowlers_data, players) { 
     	
     	aggregates_data.reverse().forEach(function(d,i){
@@ -127,7 +127,7 @@ queue()
 			};
 		})
 		
-		//console.log("JSON",ashes_data)
+		////console.log("JSON",ashes_data)
 		
 		periods=dataUtils.updatePeriods(periods,ashes);
 		
@@ -135,11 +135,11 @@ queue()
 		
 		ashes_data=dataUtils.updateTours(ashes_data);
 
-		console.log("ASHES DATA",ashes_data)
+		//console.log("ASHES DATA",ashes_data)
 
 		aggregates_data=dataUtils.updateAggregates(aggregates_data,series_data,matches_data)
 
-		console.log("AGGREGATES",aggregates_data)
+		//console.log("AGGREGATES",aggregates_data)
 
 		//return;
 		batsmen_data=dataUtils.updateBatsmen(batsmen_data,series_data,aggregates_data,matches_data)

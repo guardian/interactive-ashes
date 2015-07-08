@@ -5,7 +5,7 @@ function Series(data,options) {
 	var status=0,
 		series_height=150 + 20,
 		min_length=3;
-	console.log("Series",data);
+	//console.log("Series",data);
 
 	var position=d3.scale.ordinal().rangePoints([(data.length-1)*series_height,0]).domain(data.map(function(d){return d.date;}));
 
@@ -157,7 +157,7 @@ function Series(data,options) {
 	
 	function update() {
 		miniCharts.forEach(function(m){
-			//console.log(m)
+			////console.log(m)
 			m.update();
 		})
 	}

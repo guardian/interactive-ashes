@@ -1,6 +1,6 @@
 function BatsmanCareerChart(data,options) {
 
-	console.log("BatsmanCareerChart",options)
+	////console.log("BatsmanCareerChart",options)
 	
 	/*data=data.sort(function(a,b){
 		return +a.date - (+b.date);
@@ -12,14 +12,14 @@ function BatsmanCareerChart(data,options) {
 
 	var aggregates=options.aggregates.filter(function(agg){
 		return data.some(function(match){
-			////console.log(agg.key,"==",match.Year)
+			////////console.log(agg.key,"==",match.Year)
 			return agg.key == match.Year;
 		})
 	})
 
 	aggregates.forEach(function(agg){
 		agg.values.forEach(function(match){
-			//console.log(match);
+			//////console.log(match);
 			if(!data.some(function(d){
 				return +d.date == +match.date
 			})) {
@@ -42,7 +42,7 @@ function BatsmanCareerChart(data,options) {
 		d.aindex = +d.aindex;
 		
 		/*if(options.only_ashes) {
-			//console.log("AINDEX",d.aindex)
+			//////console.log("AINDEX",d.aindex)
 			d.index = +d.aindex;
 		}
 		*/
@@ -53,7 +53,7 @@ function BatsmanCareerChart(data,options) {
 		prev_runs+=d.runs;
 	});
 
-	console.log(data)
+	////console.log(data)
 
 
 
@@ -98,7 +98,7 @@ function BatsmanCareerChart(data,options) {
 	})
 						
 
-	console.log("YEARS",years)
+	////console.log("YEARS",years)
 
 	function setExtents() {
 
@@ -140,11 +140,11 @@ function BatsmanCareerChart(data,options) {
 
 	setExtents();
 
-	//console.log("DATA",data);
-	//console.log("OPTIONS.EXTENTS",options.extents);
-	//console.log("EXTENTS",extents);
+	//////console.log("DATA",data);
+	//////console.log("OPTIONS.EXTENTS",options.extents);
+	//////console.log("EXTENTS",extents);
 
-	//console.log("CONTAINER",options.container)
+	//////console.log("CONTAINER",options.container)
 
 	
 
@@ -177,7 +177,7 @@ function BatsmanCareerChart(data,options) {
     	WIDTH = size.width,
     	HEIGHT = size.height;
 
-   	//console.log(WIDTH,HEIGHT)
+   	//////console.log(WIDTH,HEIGHT)
 
     var margins={
     	left:10,
@@ -216,9 +216,9 @@ function BatsmanCareerChart(data,options) {
 			.attr("height",HEIGHT)
 			.on("mousemove",function(d){
 				var coord=d3.mouse(this);
-				//console.log(xscale.invert(coord[0]))
+				//////console.log(xscale.invert(coord[0]))
 
-				//console.log(coord[0],xscale.invert(coord[0]));
+				//////console.log(coord[0],xscale.invert(coord[0]));
 
 				var match=findBar(xscale.invert(coord[0]-margins.left))
 				if(match) {
@@ -261,7 +261,7 @@ function BatsmanCareerChart(data,options) {
 		yscale.domain(options.extents.aruns);
 	}
 
-	//console.log("X DOMAIN",xscale.domain())
+	//////console.log("X DOMAIN",xscale.domain())
 
 	
 
@@ -272,7 +272,7 @@ function BatsmanCareerChart(data,options) {
 			.attr("x2",xscale.range()[1]+margins.right)
 			.attr("y2",yscale.range()[0]);
 
-	console.log("#############",years)
+	////console.log("#############",years)
 
 	var period=career_g.selectAll("g.period")
 			.data(years)
@@ -304,7 +304,7 @@ function BatsmanCareerChart(data,options) {
 				    	return xscale(options.indexed?d.index:d.date); 
 				    })
 				    .y(function(d) {
-				    	////console.log(d.runs,yscale(d.runs))
+				    	////////console.log(d.runs,yscale(d.runs))
 				    	return yscale(d.value);
 				    })
 				    //.interpolate("basis");
@@ -315,7 +315,7 @@ function BatsmanCareerChart(data,options) {
 					    })
 					    .y0(yscale.range()[0])
 					    .y1(function(d) {
-					    	////console.log(d.runs,yscale(d.runs))
+					    	////////console.log(d.runs,yscale(d.runs))
 					    	return yscale(d.value);
 					    })
 					    //.interpolate("step-before");
@@ -327,7 +327,7 @@ function BatsmanCareerChart(data,options) {
 				})
 				.append("path")
 					.attr("class",function(d){
-						//console.log("AREA",d)
+						//////console.log("AREA",d)
 						return "years runs "+d.values[0].values.first.series_winner
 					})
 					.attr("d", function(d){
@@ -341,7 +341,7 @@ function BatsmanCareerChart(data,options) {
 							return d.runs > 0;
 						});
 						*/
-						////console.log("MATCHES",INDEX,d,flattened);
+						////////console.log("MATCHES",INDEX,d,flattened);
 
 						return area(d.flattened.map(function(d){
 							return {
@@ -370,7 +370,7 @@ function BatsmanCareerChart(data,options) {
 				})
 				.append("line")
 					.attr("class",function(d){
-						//console.log("AREA",d)
+						//////console.log("AREA",d)
 						return "baseline "+d.values[0].values.first.series_winner
 					})
 					.attr("x1",function(d){						
@@ -411,7 +411,7 @@ function BatsmanCareerChart(data,options) {
 				return yscale.range()[0] + 12;
 			})
 			.text(function(d){
-				////console.log(d)
+				////////console.log(d)
 				return d.key.replace("/"," - ");
 			});
 
@@ -427,7 +427,7 @@ function BatsmanCareerChart(data,options) {
 				  return a.concat(b);
 				});
 				*/
-				//console.log("MATCHES",d,flattened);
+				//////console.log("MATCHES",d,flattened);
 				return d.flattened;
 			})
 			.enter()
@@ -447,7 +447,7 @@ function BatsmanCareerChart(data,options) {
 		})
 		/*
 		.on("mouseover",function(d){
-			//console.log(d);
+			//////console.log(d);
 			//var h=(cumulativeYScale(d.prev_runs) - cumulativeYScale(d.cumulative));
 			var x=xscale(options.indexed?d[INDEX]:d.date),
 				y=isNaN(d[INDEX])?yscale.range()[0]:yscale(d.runs);
@@ -455,7 +455,7 @@ function BatsmanCareerChart(data,options) {
 			tooltip.show(d,x,y);
 		})
 		.on("mouseout",function(d){
-			console.log("out")
+			////console.log("out")
 			tooltip.hide();
 		});
 		*/	
@@ -533,7 +533,7 @@ function BatsmanCareerChart(data,options) {
 		var size=viz.node().getBoundingClientRect(),
     		WIDTH = size.width;
 
-    	////console.log("bowler new width",WIDTH)
+    	////////console.log("bowler new width",WIDTH)
 
     	xscale.range([0,WIDTH-(margins.left+margins.right)]);
 
@@ -563,8 +563,8 @@ function BatsmanCareerChart(data,options) {
 				return "translate("+x+","+y+")";
 			});
 
-		////console.log("X DOMAIN",xscale.domain())
-		////console.log("Y DOMAIN",yscale.domain())
+		////////console.log("X DOMAIN",xscale.domain())
+		////////console.log("Y DOMAIN",yscale.domain())
 
     	career_g.select("line.baseline.main")
 				.attr("x1",xscale.range()[0]-margins.left)
@@ -602,7 +602,7 @@ function BatsmanCareerChart(data,options) {
 								return d.runs > 0;
 							});
 							*/
-							////console.log("MATCHES",INDEX,d,flattened);
+							////////console.log("MATCHES",INDEX,d,flattened);
 
 							return area(d.flattened.map(function(d){
 								return {
@@ -656,7 +656,7 @@ function BatsmanCareerChart(data,options) {
 							return d.runs > 0;
 						});
 						*/
-						//console.log("MATCHES",INDEX,d,flattened);
+						//////console.log("MATCHES",INDEX,d,flattened);
 						
 						if(d.flattened.length) {
 							return xscale(d.flattened[0][INDEX])-5;
@@ -674,7 +674,7 @@ function BatsmanCareerChart(data,options) {
 							return d.runs > 0;
 						});
 						*/
-						////console.log("MATCHES",INDEX,d,flattened);
+						////////console.log("MATCHES",INDEX,d,flattened);
 
 						
 						if(d.flattened.length) {
@@ -748,7 +748,7 @@ function BatsmanCareerChart(data,options) {
 		var w=options.width || 200,
 			h=options.height || 110;
 
-		////console.log("!!!!!!!!!!!",options)
+		////////console.log("!!!!!!!!!!!",options)
 
 		var tooltip=d3.select(options.container)
 						.append("div")
@@ -770,7 +770,7 @@ function BatsmanCareerChart(data,options) {
 		}
 		this.show=function(match,x,y) {
 
-			//console.log(x,y,match)
+			//////console.log(x,y,match)
 
 
 

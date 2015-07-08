@@ -2,7 +2,7 @@ var Series=require('./Series')
 
 function AshesHistory(periods,options) {
 
-	console.log("AshesHistory",periods,options);
+	//console.log("AshesHistory",periods,options);
 
 	var period=d3.select(options.container)
 		.selectAll("div.period")
@@ -14,7 +14,7 @@ function AshesHistory(periods,options) {
 				return !d.shown;
 			})
 				.attr("rel",function(d){
-					//console.log(d)
+					////console.log(d)
 					return d.years.join("-");
 				})
 				.attr("id",function(d){
@@ -82,9 +82,13 @@ function AshesHistory(periods,options) {
 			})
 			
 
-	summary.append("div")
+	var blurb=summary.append("div")
 			.attr("class","period-summary-blurb")
-			.append("p")
+			.classed("with-img",function(d){
+				return  d.years[1]==2015 ||  d.years[1]==2003;
+			})
+	
+	blurb.append("p")
 				.html(function(d){
 					var str=(d.author?"&ldquo;":"")+d.blurb+(d.author?"&rdquo;":"");
 					if(d.author) {
@@ -93,6 +97,19 @@ function AshesHistory(periods,options) {
 					
 					return str;
 				})
+	blurb
+		.filter(function(d){
+			return d.years[1]==2015;
+		})
+		.append("img")
+			.attr("src","imgs/en.jpg")
+
+	blurb
+		.filter(function(d){
+			return d.years[1]==2003;
+		})
+		.append("img")
+			.attr("src","imgs/au.jpg")
 	
 	var series=[],
 		serie=stuff.append("div")

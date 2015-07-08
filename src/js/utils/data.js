@@ -24,8 +24,8 @@ function updatePeriods(periods,tournament_data) {
 			AU:period.victories.AU-prev.AU
 		}
 
-		//console.log("prev",prev.EN,prev.AU)
-		//console.log("current",period.victories.EN,period.victories.AU)
+		////console.log("prev",prev.EN,prev.AU)
+		////console.log("current",period.victories.EN,period.victories.AU)
 
 
 		prev.EN=period.tours[period.tours.length-1].values.EN;
@@ -34,7 +34,7 @@ function updatePeriods(periods,tournament_data) {
 
 
 	})
-	//console.log(periods)
+	////console.log(periods)
 	
 	periods.reverse();
 
@@ -45,7 +45,7 @@ function updateMatches(matches_data,series_data,innings,aggregates) {
 
 	matches_data.forEach(function(match){
 		var tour=series_data.find(function(tour){
-			//console.log(tour.date,match.date)
+			////console.log(tour.date,match.date)
 			if(tour.nextdate) {
 				return (+match.date >= +tour.date) && (+match.date < +tour.nextdate);	
 			}
@@ -103,7 +103,7 @@ function updateBowlers(bowlers_data,series_data,aggregates) {
 			match.rpo=agg.rpo;
 			match.Year=agg.Year;
 
-			//console.log(match.date,match.Year)
+			////console.log(match.date,match.Year)
 		}
 		*/
 
@@ -113,7 +113,7 @@ function updateBowlers(bowlers_data,series_data,aggregates) {
 }
 function updateBatsmen(batsmen_data,series_data,aggregates,matches) {
 
-	console.log("updateBatsmen",matches)
+	//console.log("updateBatsmen",matches)
 
 	aggregates.forEach(function(agg){
 		
@@ -160,7 +160,7 @@ function updatePlayers(players,batsmen_data,bowlers_data) {
 
 	})
 	
-	console.log("BATSMEN",batsmen)
+	//console.log("BATSMEN",batsmen)
 
 	var bowlers=d3.nest()
 		.key(function(d){
@@ -189,13 +189,13 @@ function updatePlayers(players,batsmen_data,bowlers_data) {
 
 	})
 	
-	console.log("BOWLERS",bowlers)
+	//console.log("BOWLERS",bowlers)
 
 	return players;
 }
 function updateAggregates(aggregates,series, matches) {
 
-	//console.log("AHHHH",series)
+	////console.log("AHHHH",series)
 
 	series.forEach(function(s){
 		aggregates.filter(function(a){
@@ -228,7 +228,7 @@ function updateTours(data) {
 	data=data.sort(function(a,b){
 		return +a.date - (+b.date);
 	});
-	//console.log(data);
+	////console.log(data);
 	//return;
 	var ashes=d3.nest()
 				.key(function(d){
@@ -269,7 +269,7 @@ function updateTours(data) {
 		}
 	})*/
 
-	//console.log(ashes,victories)
+	////console.log(ashes,victories)
 
 	return ashes;
 }

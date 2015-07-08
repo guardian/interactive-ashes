@@ -2,10 +2,10 @@ var CareerChart=require('./BowlerCareerChart')
 
 function Bowlers(data,options) {
 
-	console.log("Bowlers",data,options);
+	////console.log("Bowlers",data,options);
 
 
-	//console.log("MATCHES DATA",options.matches)
+	//////console.log("MATCHES DATA",options.matches)
 
 	data=data.filter(function(d){
 		return 1;
@@ -77,7 +77,7 @@ function Bowlers(data,options) {
 				}
 			})
 			.entries(data);
-		//console.log("PLAYERS",players)
+		//////console.log("PLAYERS",players)
 		extents.y_gap=d3.max(players,function(d){
 			return d.values.y_gap;
 		});
@@ -102,10 +102,10 @@ function Bowlers(data,options) {
 		})
 		.filter(function(d){
 			var player=options.players.find(function(player){
-				//console.log(player.id,d.key)
+				//////console.log(player.id,d.key)
 				return player.id==d.key;
 			});
-			console.log("FOUND",player,d)
+			////console.log("FOUND",player,d)
 			return +player.dates[1] >= + options.from
 		})
 		.sort(function(a,b) {
@@ -117,7 +117,7 @@ function Bowlers(data,options) {
 		})
 		.forEach(function(player){
 
-			//console.log("PLAYER",player.key,player)
+			//////console.log("PLAYER",player.key,player)
 
 			charts.push(
 				new CareerChart(data.filter(function(d){
