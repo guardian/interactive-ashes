@@ -75,8 +75,9 @@
 
 		svg {
 			width:100%;
-			height:calc(100% - 1px);
-
+			//height:calc(100% - 1px);
+			height:71px;
+			
 			border-bottom:1px solid #ddd;
 			
 			text.result {
