@@ -176,10 +176,24 @@
 				}
 
 				// Breakpoints
-			    
+			    img {
+			    	width: 100%;
+			    	margin-top:2em;
+			    }
 
-			    @include mq(desktop) { //12
-			        width: gs-span(7) ;
+			    @include mq(tablet) {
+			        //width: gs-span(7) ;
+					p,img {
+						float: left;
+					}
+					p {
+						width: 60%;
+					}
+					img {
+						width: 33%;
+						margin-top:0;
+						margin-left:2em;
+					}
 			    }
 
 			    

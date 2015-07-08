@@ -108,12 +108,54 @@
 					margin-bottom:0.25em;
 				}
 			}
+			
+			#batsmen1 {
+				
+
+				.section-subtext {
+					
+				}
+
+				@include mq(tablet) {
+					background: transparent url(../imgs/cook.png) top right no-repeat;
+					background-size: 200px 200px;
+			       	
+			       	.section-subtext {
+			       		width: gs-span(7);
+					}
+			    }
+			    @include mq(wide) {
+			    	background-position: 70% 20px;
+				}
+			}
+			#bowlers1 {
+				
+				
+
+				.section-subtext {
+					
+				}
+
+				@include mq(tablet) {
+					background: transparent url(../imgs/warne.png) top right no-repeat;
+					background-size: 200px 200px;
+			       	
+			       	.section-subtext {
+						width: gs-span(7);
+					}
+			    }
+			    @include mq(wide) {
+			    	background-position: 70% 20px;
+				}
+			}
 			.section-intro {
 				overflow: hidden;
 
 				.section-text {
-					width:calc(100% - 200px);
-					float: left;
+					@include mq(tablet) {
+						width:calc(100% - 200px);
+						float: left;
+					}
 				}
 			}
 			.section-text {
@@ -121,8 +163,10 @@
 		        margin:0 0 30px 0;
 		    }
 		    .section-legend {
-		    	float:left;
-		        width:160px;
+				@include mq(tablet) {
+		    		float:left;
+		        	width:160px;
+		    	}
 		    }
 		    .section-subtext {
 		        color: colour(neutral-2);
@@ -177,7 +221,7 @@
 		    	}
 
 		        .chart {
-					width: gs-span(7)
+					width: gs-span(9)
 				}
 
 				.section-intro {
@@ -201,11 +245,11 @@
 		        width: gs-span(13) + $gs-gutter*2;
 
 		        .chart {
-					width: gs-span(11)
+					width: gs-span(12)
 				}
 
 				.section-subtext {
-	   				width: gs-span(10);
+	   				width: gs-span(8);
 		        }
 		    }
 			

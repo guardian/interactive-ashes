@@ -305,9 +305,9 @@ queue()
 		
 		
 		window.onresize=function(){
-			/*linechart.update();
+			linechart.update();
 			history.update();
-			*/
+			
 			batsmen.forEach(function(b){
 				b.update();
 			});

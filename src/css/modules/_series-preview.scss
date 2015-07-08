@@ -43,11 +43,11 @@
 		
 		@include mq(tablet) { 
 	        margin-bottom:0;
-	        width:95px;
+	        width:90px;
 	    }
 	    @include mq(desktop) {
 	        margin-bottom:0;
-	        width:105px;
+	        width:90px;
 	    }
 	    @include mq(wide) {
 	        margin-bottom:0;
