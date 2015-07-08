@@ -67,6 +67,9 @@ function Bowlers(data,options) {
 					min_date: d3.min(leaves,function(d){
 						return +d.date;
 					}),
+					max_date: d3.max(leaves,function(d){
+						return +d.date;
+					}),
 					y_gap:(function(){
 						var year_ext=d3.extent(leaves,function(d){
 							return +d.date.getFullYear();
@@ -109,11 +112,7 @@ function Bowlers(data,options) {
 			return +player.dates[1] >= + options.from
 		})
 		.sort(function(a,b) {
-			var diff=(+b.values.min_date - +a.values.min_date);
-			if(diff!==0) {
-				return (+b.values.n_matches - +a.values.n_matches)
-			}
-			return diff;
+			return (+b.values.max_date - +a.values.max_date)
 		})
 		.forEach(function(player){
 
