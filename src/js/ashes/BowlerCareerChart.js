@@ -810,7 +810,7 @@ function BowlerCareerChart(data,options) {
 		var size=viz.node().getBoundingClientRect(),
     		WIDTH = size.width;
 
-    	console.log("bowler new width",WIDTH)
+    	//console.log("bowler new width",WIDTH)
 
     	xscale.range([0,WIDTH-(margins.left+margins.right)]);
     	xscale_all.range([0,WIDTH-(margins.left+margins.right)]);

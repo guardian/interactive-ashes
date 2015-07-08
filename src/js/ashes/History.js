@@ -90,10 +90,14 @@ function AshesHistory(periods,options) {
 	
 	blurb.append("p")
 				.html(function(d){
-					var str=(d.author?"&ldquo;":"")+d.blurb+(d.author?"&rdquo;":"");
-					if(d.author) {
-						str+="<br/><span class=\"author\">"+d.author+"</span>";
+					var str="";
+					if(d.blurb) {
+						str+=(d.author?"&ldquo;":"")+d.blurb+(d.author?"&rdquo;":"");
+						if(d.author) {
+							str+="<br/><span class=\"author\">"+d.author+"</span>";
+						}	
 					}
+					
 					
 					return str;
 				})
@@ -102,14 +106,14 @@ function AshesHistory(periods,options) {
 			return d.years[1]==2015;
 		})
 		.append("img")
-			.attr("src","imgs/en.jpg")
+			.attr("src","/imgs/en.jpg")
 
 	blurb
 		.filter(function(d){
 			return d.years[1]==2003;
 		})
 		.append("img")
-			.attr("src","imgs/au.jpg")
+			.attr("src","/imgs/au.jpg")
 	
 	var series=[],
 		serie=stuff.append("div")
