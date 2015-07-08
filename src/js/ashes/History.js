@@ -14,16 +14,12 @@ function AshesHistory(periods,options) {
 				return !d.shown;
 			})
 				.attr("rel",function(d){
-					////console.log(d)
 					return d.years.join("-");
 				})
 				.attr("id",function(d){
 					return "p"+d.years.join("_")
 				})
-				/*.on("click",function(d){
-					var selected=d3.select(this).classed("selected");
-					d3.select(this).classed("selected",!selected);
-				})*/
+
 	
 	var stuff=period.append("div")
 			.attr("class","period-stuff clearfix");
@@ -97,8 +93,6 @@ function AshesHistory(periods,options) {
 							str+="<br/><span class=\"author\">"+d.author+"</span>";
 						}	
 					}
-					
-					
 					return str;
 				})
 	blurb
@@ -106,14 +100,23 @@ function AshesHistory(periods,options) {
 			return d.years[1]==2015;
 		})
 		.append("img")
-			.attr("src","/imgs/en.jpg")
+			.attr("src","http://media.guim.co.uk/27bf3b015e29187176fc7fcfdf6762637f96b266/403_66_3300_2504/500.jpg")
 
 	blurb
 		.filter(function(d){
 			return d.years[1]==2003;
 		})
 		.append("img")
-			.attr("src","/imgs/au.jpg")
+			.attr("src","http://media.guim.co.uk/866bb6f8a9ec172659d1a4c876149e97e3381f02/0_35_2026_1474/500.jpg")
+
+	blurb
+		.filter(function(d){
+			return d.years[1]==1987;
+		})
+		.append("img")
+			.attr("src","http://media.guim.co.uk/4efa627ad4eef9ab99690b10a92f1106833f092e/0_141_3654_2468/500.jpg")
+
+	
 	
 	var series=[],
 		serie=stuff.append("div")
