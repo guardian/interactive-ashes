@@ -102,14 +102,14 @@ function AshesHistory(periods,options) {
 			return d.years[1]==2015;
 		})
 		.append("img")
-			.attr("src","imgs/en.jpg")
+			.attr("src","/imgs/en.jpg")
 
 	blurb
 		.filter(function(d){
 			return d.years[1]==2003;
 		})
 		.append("img")
-			.attr("src","imgs/au.jpg")
+			.attr("src","/imgs/au.jpg")
 	
 	var series=[],
 		serie=stuff.append("div")
