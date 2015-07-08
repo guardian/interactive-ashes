@@ -38,6 +38,8 @@ function updatePeriods(periods,tournament_data) {
 	
 	periods.reverse();
 
+	//console.log(JSON.stringify(periods))
+
 	return periods;
 }
 

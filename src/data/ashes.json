@@ -528,30 +528,6 @@
       "location": "EN",
       "date": "1964-06-03T23:00:00.000Z",
       "type": "ashes",
-      "notes": {
-        "Team": "AU",
-        "Mat": "5",
-        "Won": "1",
-        "Lost": "0",
-        "Tied": "0",
-        "Draw": "4",
-        "W/L": "-",
-        "Ave": "36.68",
-        "RPO": "2.33",
-        "Inns": "9",
-        "HS": "656",
-        "LS": "168",
-        "StartDate": "4 Jun 1964",
-        "Winner": "AU",
-        "Location": "EN",
-        "Year": "1964",
-        "Type": "ashes",
-        "notes": {
-          "text":"England retained the Ashes when they won the 1912 Triangular Tournament, which also featured South Africa.",
-          "author":"Diego Maradona"
-        },
-        "date": "1964-06-03T23:00:00.000Z"
-      },
       "EN": 21,
       "AU": 19
     }
@@ -761,30 +737,6 @@
       "location": "EN",
       "date": "2001-07-04T23:00:00.000Z",
       "type": "ashes",
-      "notes": {
-        "Team": "EN",
-        "Mat": "5",
-        "Won": "1",
-        "Lost": "4",
-        "Tied": "0",
-        "Draw": "0",
-        "W/L": "0.25",
-        "Ave": "26.44",
-        "RPO": "3.5",
-        "Inns": "10",
-        "HS": "432",
-        "LS": "162",
-        "StartDate": "5 Jul 2001",
-        "Winner": "AU",
-        "Location": "EN",
-        "Year": "2001",
-        "Type": "ashes",
-        "notes": {
-          "text":"England retained the Ashes when they won the 1912 Triangular Tournament, which also featured South Africa.",
-          "author":"Diego Maradona"
-        },
-        "date": "2001-07-04T23:00:00.000Z"
-      },
       "EN": 27,
       "AU": 29
     }
@@ -860,7 +812,6 @@
     "values": {
       "winner": "AU",
       "location": "AU",
-      "date": "2013-11-21T00:00:00.000Z",
       "type": "ashes",
       "EN": 31,
       "AU": 32

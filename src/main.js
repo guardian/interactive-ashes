@@ -11,8 +11,9 @@ var Batsmen=require('./js/ashes/Batsmen');
 var Bowlers=require('./js/ashes/Bowlers');
 var LineChart=require('./js/ashes/LineChart');
 var ShareButtons = require('./js/utils/social.js');
-
-
+var periods = require('./data/periods.json');
+//var ashes = require('./data/ashes.json');
+var players = require('./data/players.json');
 
 var date_format=d3.time.format("%d %b %Y");
 
@@ -29,8 +30,8 @@ var prev_date={
 
 
 queue()
-    .defer(d3.json,"/data/periods.json")
-    .defer(d3.json,"/data/ashes.json")
+    //.defer(d3.json,"/data/periods.json")
+    //.defer(d3.json,"/data/ashes.json")
     .defer(d3.csv,"/data/ashes.csv",function(d){
     	
     	d.date=date_format.parse(d.StartDate);
@@ -111,8 +112,8 @@ queue()
 
     	return d;
     })
-    .defer(d3.json,"/data/players.json")
-    .await(function(error, periods, ashes, ashes_data, series_data, matches_data, aggregates_data, innings_data, batsmen_data, bowlers_data, players) { 
+    //.defer(d3.json,"/data/players.json")
+    .await(function(error, ashes_data, series_data, matches_data, aggregates_data, innings_data, batsmen_data, bowlers_data) { 
     	
     	var el = window.gv_el || document.querySelector('.interactive');
     	//d3.select(el).html(base); //d3 way.....
@@ -121,10 +122,11 @@ queue()
     	aggregates_data.reverse().forEach(function(d,i){
     		d.index=i;
     	})
-
+    	/*
     	ashes.forEach(function(d){
 			d.values.date=new Date(d.key);
-		})
+		});
+		*/
 
 		series_data.forEach(function(tour,i){
 			if(series_data[i+1]) {
@@ -134,7 +136,7 @@ queue()
 		
 		////console.log("JSON",ashes_data)
 		
-		periods=dataUtils.updatePeriods(periods,ashes);
+		//periods=dataUtils.updatePeriods(periods,ashes);
 		
 		matches_data=dataUtils.updateMatches(matches_data,series_data,innings_data,aggregates_data)
 		
@@ -155,7 +157,7 @@ queue()
     	
 
     	
-		new ShareButtons('.header .share');
+		
     	
     	var linechart=new LineChart(ashes_data,{
 			container:"#timeline",
@@ -165,6 +167,7 @@ queue()
 				}
 		});
 		
+		new ShareButtons('.header .share');
 
     	var history=new AshesHistory(periods.filter(function(p,i){
     		//return p.shown;
