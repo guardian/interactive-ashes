@@ -10,6 +10,7 @@ var AshesSummary=require('./js/ashes/AshesSummary');
 var Batsmen=require('./js/ashes/Batsmen');
 var Bowlers=require('./js/ashes/Bowlers');
 var LineChart=require('./js/ashes/LineChart');
+var ShareButtons = require('./js/utils/social.js');
 
 
 
@@ -113,6 +114,10 @@ queue()
     .defer(d3.json,"/data/players.json")
     .await(function(error, periods, ashes, ashes_data, series_data, matches_data, aggregates_data, innings_data, batsmen_data, bowlers_data, players) { 
     	
+    	var el = window.gv_el || document.querySelector('.interactive');
+    	//d3.select(el).html(base); //d3 way.....
+    	el.innerHTML=base;
+
     	aggregates_data.reverse().forEach(function(d,i){
     		d.index=i;
     	})
@@ -147,13 +152,10 @@ queue()
 
 		players=dataUtils.updatePlayers(players,batsmen_data,bowlers_data);
 
-    	var el = window.gv_el || document.querySelector('.interactive');
-		
-    	//d3.select(el).html(base); //d3 way.....
-    	el.innerHTML=base;
+    	
 
     	
-		
+		new ShareButtons('.header .share');
     	
     	var linechart=new LineChart(ashes_data,{
 			container:"#timeline",
