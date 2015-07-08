@@ -90,10 +90,14 @@ function AshesHistory(periods,options) {
 	
 	blurb.append("p")
 				.html(function(d){
-					var str=(d.author?"&ldquo;":"")+d.blurb+(d.author?"&rdquo;":"");
-					if(d.author) {
-						str+="<br/><span class=\"author\">"+d.author+"</span>";
+					var str="";
+					if(d.blurb) {
+						str+=(d.author?"&ldquo;":"")+d.blurb+(d.author?"&rdquo;":"");
+						if(d.author) {
+							str+="<br/><span class=\"author\">"+d.author+"</span>";
+						}	
 					}
+					
 					
 					return str;
 				})
