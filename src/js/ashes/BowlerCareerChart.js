@@ -185,15 +185,33 @@ function BowlerCareerChart(data,options) {
 	//console.log("CONTAINER",options.container)
 
 	var container=d3.select(options.container);
-
+	var to;
 	var row=container.append("div")
 					.attr("id",options.name)
     				.attr("class","career-row")
-    				.on("click",function(d){
+    				/*.on("click",function(d){
     					var selected=d3.select(this).classed("selected");
 
     					d3.select(this).classed("selected",!selected);
-    				})
+    				})*/
+					.on("mouseenter",function(){
+						d3.select(this).classed("hover",true)
+					})
+					.on("mouseleave",function(){
+						d3.select(this).classed("hover",false)
+					})
+					.on("touchstart",function(){
+						d3.select(options.container).selectAll(".hover").classed("hover",false)
+						d3.select(this).classed("hover",true)
+					})
+					.on("touchend",function(){
+						//var d3this=d3.select(this);
+						//to=setTimeout(function(){
+							//d3this.classed("hover",false)
+						//},1000);
+						
+					})
+    				
 
     var info=row.append("div")
     				.attr("class","info")
@@ -267,7 +285,7 @@ function BowlerCareerChart(data,options) {
 				
 
 			})
-			.on("mouseout",function(d){
+			.on("mouseleave",function(d){
 				//console.log("out")
 				highlightMatch();
 				tooltip.hide();
@@ -1107,6 +1125,7 @@ function BowlerCareerChart(data,options) {
 							.attr("class","tooltip");
 
 		var title=tooltip.append("h1"),
+			overs=tooltip.append("span").attr("class","date"),
 			econ=tooltip.append("span").attr("class","runs"),
 			bf=tooltip.append("span").attr("class","date"),
 			rpo=tooltip.append("span").attr("class","date"),
@@ -1120,11 +1139,12 @@ function BowlerCareerChart(data,options) {
 
 			//console.log(x,y,match)
 
-
+			//console.log(x,WIDTH)
 
 			//title.text(match.runs+" runs "+match.Opposition);
 			title.html(options.teams[options.info.country]+" - "+match.Opposition+"<span>"+(match.Ground+", "+match.StartDate)+"</span>");
 			
+			overs.text("Overs: "+match.Overs);
 			econ.text("Economy rate: "+match.econ);
 			rpo.text("Match RPO: "+match.rpo).style("display","block")
 			if(!match.rpo) {
@@ -1132,7 +1152,9 @@ function BowlerCareerChart(data,options) {
 			}
 			wk.text("Wickets: "+match.Wkts)
 			
-			
+			if(x+w+options.margins.right > WIDTH) {
+				x-= (w + options.margins.right + 20*2);
+			}
 
 			tooltip.style({
 				left:(x+20+options.margins.left)+"px",

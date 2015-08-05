@@ -250,12 +250,14 @@
 			div {
 				padding-top:0;
 				span {
-					@include mq(desktop) {
+					@include mq(wide) {
 						visibility: hidden;
 					}
 				}
 			}
 		}
+
+
 
 		/*div.period-timeline:hover {
 			div {

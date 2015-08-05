@@ -1,4 +1,5 @@
 var TestMatchMiniChart=require('./TestMatchMiniChart');
+var detect = require('../utils/detect');
 
 function Series(data,options) {
 
@@ -69,7 +70,11 @@ function Series(data,options) {
 			l=(d.Winner==d.Team)?d.Lost:d.Won,
 			winner=d.Winner;
 
-		if(winner!="drawn") {
+		if(winner=="drawn"){
+
+		} else if(winner=="ongoing") {
+			winner="in progress "+w+" - "+l;
+		} else {
 			winner=options.teams[d.Winner]+" won "+w+" - "+l;
 		}
 
@@ -103,9 +108,27 @@ function Series(data,options) {
 		})
 	*/
 	var miniCharts=[];
+	var to;
 	var series_preview=series
 						.append("div")
-						.attr("class","series-preview clearfix");
+						.attr("class","series-preview clearfix")
+						.on("mouseenter",function(){
+							d3.select(this).classed("hover",true)
+						})
+						.on("mouseleave",function(){
+							d3.select(this).classed("hover",false)
+						})
+						.on("touchstart",function(){
+							d3.select(options.container).selectAll(".hover").classed("hover",false)
+							d3.select(this).classed("hover",true)
+						})
+						.on("touchend",function(){
+							//var d3this=d3.select(this);
+							//to=setTimeout(function(){
+								//d3this.classed("hover",false)
+							//},1000);
+							
+						})
 	
 	series_preview.append("div")
 						.attr("class","match-legend");

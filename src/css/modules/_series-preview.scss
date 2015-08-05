@@ -3,9 +3,14 @@
 }
 .series-preview {
 	
+	-webkit-user-select: none;
+	* {
+		-webkit-user-select: none;
+	}
+
 	overflow: visible;
 
-	background-color:#fff;
+	
 	padding:10px 0;
 
 	width:100%;
@@ -202,7 +207,8 @@
 		stroke-width:2;
 	}
 }
-.series-preview:hover {
+//.series-preview:hover,
+.series-preview.hover {
 	.match-legend {
 		display:block;
 	}

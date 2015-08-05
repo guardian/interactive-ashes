@@ -64,10 +64,14 @@ function updateMatches(matches_data,series_data,innings,aggregates) {
 			return +match.date == +inn.date;
 		});
 
+		
+
 		if(match) {
 			match.innings.push(inn);
 			match.overs+=Math.floor(inn.Overs);
 			match.runs[inn.Team]+=inn.runs;
+		} else {
+			console.log("INNING",inn)
 		}
 
 	});
@@ -197,7 +201,7 @@ function updatePlayers(players,batsmen_data,bowlers_data) {
 }
 function updateAggregates(aggregates,series, matches) {
 
-	////console.log("AHHHH",series)
+	
 
 	series.forEach(function(s){
 		aggregates.filter(function(a){
@@ -209,10 +213,13 @@ function updateAggregates(aggregates,series, matches) {
 	});
 
 	aggregates.forEach(function(a){
+		if(!(+a.date)) {
+			console.log(a)
+		}
 		var match=matches.find(function(m){
 			return +a.date == +m.date;
 		})
-
+		
 		a.Winner = match.Winner;
 	})
 
@@ -230,8 +237,7 @@ function updateTours(data) {
 	data=data.sort(function(a,b){
 		return +a.date - (+b.date);
 	});
-	////console.log(data);
-	//return;
+	//console.log(data)
 	var ashes=d3.nest()
 				.key(function(d){
 					return d.date;//Year;
@@ -251,27 +257,16 @@ function updateTours(data) {
 
 	ashes.forEach(function(series){
 		if(series.values.type=="ashes") {
-			victories[series.values.winner]++;
+			if(typeof victories[series.values.winner] != 'undefined') {
+				victories[series.values.winner]++;
+			}
 		}
 		
 		series.values["EN"]=victories["EN"];
 		series.values["AU"]=victories["AU"];	
 		
 	})
-	/*var last=ashes[ashes.length-1].values;
-	ashes.push({
-		key:new Date()+"",
-		values:{
-			AU:last.AU,
-			EN:last.EN,
-			date:new Date(),
-			location:"EN",
-			type:"ashes",
-			winner:"AU"
-		}
-	})*/
 
-	////console.log(ashes,victories)
 
 	return ashes;
 }

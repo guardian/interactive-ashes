@@ -1,11 +1,16 @@
 .batsmen-career-charts {
 	overflow:visible;
 
+	* {
+		-webkit-user-select: none;
+	}
 	
 	.career-row {
 		width:100%;
 		margin-bottom:20px;
 		overflow: visible;
+		
+		
 
 		div.info {
 			//height: 20px;
@@ -21,11 +26,7 @@
 			}
 		}
 		
-		.career-chart:hover {
-			.match-legend {
-				display: block;
-			}
-		}
+		
 
 		.career-chart {
 			width: 100%;//calc(100% - 150px);
@@ -38,10 +39,10 @@
 			
 			.match-legend {
 				width: gs-span(2) + $gs-gutter;
-				height:99px;
+				height:90px;
 				position:absolute;
 				left: (gs-span(2) + $gs-gutter) * -1;
-				top: -30px;
+				top: -24px;
 				background:transparent url(../imgs/batsman.svg) bottom left no-repeat;
 				opacity:1;
 				display: none;
@@ -200,6 +201,12 @@
 
 
 
+	}
+
+	.career-row.hover {
+		.match-legend {
+			display: block;
+		}
 	}
 	
 	.selected .career-chart-line {

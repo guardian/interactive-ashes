@@ -4,6 +4,7 @@
 		
 		width:100%;
 		height:200px;
+		position: relative;
 
 		svg {
 			.team {
@@ -17,6 +18,18 @@
 					@include fs-header(2);
 					
 					font-size: 14px;
+				}
+				.series line {
+					fill:none;
+					stroke:#333;
+					stroke-width:1;
+					shape-rendering: crispEdges;
+					stroke-opacity:0;
+				}
+				.series line.highlight {
+					stroke-width:1;
+					stroke:#ddd;
+					stroke-opacity:1;
 				}
 			}
 			.EN {
@@ -81,12 +94,84 @@
 
 				text.ww {
 					@include fs-textSans(1);
-					font-weight: bold;
+					font-weight: normal;
+					font-size:11px;
 					fill: #767676;
 				}
 				
 			}
-		}	
+		}
+
+		.tooltip {
+			position: absolute;
+			bottom:0;
+			left:0;
+			width:160px;
+			background-color: rgba(255,255,255,0.8);
+			padding:5px;
+
+			
+			//border:1px solid #000;
+
+			pointer-events: none;
+
+			//display: none;
+			
+			@include fs-textSans(2);
+
+			
+			font-size: 12px;
+
+			line-height: 15px;
+
+			padding: 5px;
+
+			display: none;
+			color:colour(neutral-2);
+
+
+			h1 {
+				@include fs-header(1);
+				font-size: 14px;
+				margin:0;
+				margin-bottom:0.5em;
+				
+				color:colour(neutral);
+
+				span {
+					@include fs-textSans(2);
+					display: block;
+					font-weight: normal;
+					font-size:12px;
+				}
+			}
+
+			span {
+				display: block;
+			}
+
+			span.runs {
+				font-size:12px;
+				font-weight: bold;
+				color:black;
+			}
+			p {
+				display: block;
+				width: 100%;
+				@include fs-header(1);
+				margin: 0 0 5px;
+
+				b.EN {
+					color:$EN;
+				}
+				b.AU {
+					color:$AU;
+				}
+			}
+		}
+		.tooltip.visible {
+			display: block;
+		}
 	}
 	
 

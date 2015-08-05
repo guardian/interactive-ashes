@@ -12,8 +12,9 @@
 @import 'modules/_mq';
 @import 'modules/_side-margins';
 
-*{
+* {
     box-sizing:border-box;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
 // Setup page

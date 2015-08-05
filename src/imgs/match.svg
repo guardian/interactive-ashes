@@ -1,50 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 165 84" enable-background="new 0 0 165 84" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="6.6 240.9 582 360" enable-background="new 6.6 240.9 582 360" xml:space="preserve">
 <g id="match">
-	<text transform="matrix(1 0 0 1 118.7209 62.9843)" fill="#6D6E71" font-family="'DS3DisplaySans'" font-size="11">WINNER</text>
+	<g enable-background="new    ">
+		<path fill="#6D6E71" d="M429,501.1h3.7l5.2,21.8h0.1l6.2-21.8h3l6.1,21.8h0.1l5.2-21.8h3.3l-6.9,27.5h-3.5l-5.9-21.4h-0.1
+			l-6.1,21.4h-3.5L429,501.1z"/>
+		<path fill="#6D6E71" d="M465.7,501.1h3.6v27.5h-3.6V501.1z"/>
+		<path fill="#6D6E71" d="M475.6,501.1h4.2l12.6,21.4h0.1v-21.4h3.3v27.5h-3.7L479,506.1h-0.1v22.5h-3.3V501.1z"/>
+		<path fill="#6D6E71" d="M502.1,501.1h4.2l12.6,21.4h0.1v-21.4h3.3v27.5h-3.7l-13.1-22.5h-0.1v22.5h-3.3V501.1z"/>
+		<path fill="#6D6E71" d="M528.6,501.1H545v3.1h-12.8v8.7h9.8v3.1h-9.8v9.6h12.9v3.1h-16.5V501.1z"/>
+		<path fill="#6D6E71" d="M550.3,501.1h8.1c6,0,9.2,2.7,9.2,7.8c0,3.9-2,6-5.2,7.2v0.2l7.2,12.3h-4.1l-6.6-11.6h-4.9v11.6h-3.6
+			V501.1z M558.1,514.2c4,0,5.6-1.6,5.6-5.1c0-3.5-1.7-4.8-5.6-4.8h-4.2v10H558.1z"/>
+	</g>
 	<g transform="translate(10,20)">
 		<g>
-			<path fill="#808285" fill-opacity="0.3" d="M13.4,45l24.2-19.6V44H13.4V45z"/>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="13.4" y1="45" x2="37.6" y2="25.4"/>
-			<circle fill="#E1AD28" cx="37.6" cy="25.4" r="0"/>
+			<path fill="#808285" fill-opacity="0.3" d="M161.7,445.2v70.7H74.4L161.7,445.2z"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="74.4" y1="515.9" x2="161.7" y2="445.2"/>
+			<circle fill="#E1AD28" cx="161.7" cy="445.2" r="0"/>
 		</g>
 		<g>
-			<path fill="#BCBEC0" fill-opacity="0.3" d="M37.6,45l13.1-9v9H37.6L37.6,45z"/>
-			<line fill="none" stroke="#939598" stroke-width="2" x1="37.6" y1="45" x2="50.7" y2="36"/>
-			<circle fill="#4E69B2" cx="50.7" cy="36" r="0"/>
+			<path fill="#BCBEC0" fill-opacity="0.3" d="M161.7,515.9l47.3-32.5v32.5H161.7L161.7,515.9z"/>
+			<line fill="none" stroke="#939598" stroke-width="2" x1="161.7" y1="515.9" x2="209" y2="483.5"/>
+			<circle fill="#4E69B2" cx="209" cy="483.5" r="0"/>
 		</g>
 		<g>
-			<path fill="#808285" fill-opacity="0.3" d="M50.6,25.4L74-1.2V44H50.6V25.4z"/>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="50.6" y1="25.4" x2="74" y2="-1.2"/>
-			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="37.6" y1="25.4" x2="50.6" y2="25.4"/>
-			<circle cx="74" cy="-1.2" r="3"/>
+			<path fill="#808285" fill-opacity="0.3" d="M208.6,445.2l84.4-96v166.7H209L208.6,445.2z"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="208.6" y1="445.2" x2="293.1" y2="349.2"/>
+			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="161.7" y1="445.2" x2="208.6" y2="445.2"/>
+			<circle cx="293.1" cy="349.2" r="10.8"/>
 		</g>
 		<g>
-			<path fill="#BCBEC0" fill-opacity="0.3" d="M74,36l20.2-11.9V44H74V36z"/>
-			<line fill="none" stroke="#939598" stroke-width="2" x1="74" y1="36" x2="94.2" y2="24.1"/>
-			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="50.7" y1="36" x2="74" y2="36"/>
-			<circle fill="#939598" cx="94.2" cy="24.1" r="2"/>
+			<path fill="#BCBEC0" fill-opacity="0.3" d="M293.1,485.7l72.9-44.9v75.1h-72.9V485.7z"/>
+			<line fill="none" stroke="#939598" stroke-width="2" x1="293.1" y1="485.7" x2="365.9" y2="440.9"/>
+			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="209" y1="485.7" x2="293.1" y2="485.7"/>
+			<ellipse fill="#939598" cx="365.9" cy="440.9" rx="7.2" ry="7.5"/>
 		</g>
 	</g>
-	<line fill="none" stroke="#D1D3D4" stroke-miterlimit="10" x1="11.6" y1="65" x2="158.2" y2="65"/>
-	<text transform="matrix(1 0 0 1 10.3672 77.1701)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">Innings</text>
-	<text transform="matrix(1 0 0 1 15.3672 29.1772)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">Runs</text>
+	<line fill="none" stroke="#D1D3D4" stroke-miterlimit="10" x1="41.8" y1="535.9" x2="570.7" y2="535.9"/>
+	<g enable-background="new    ">
+		<path fill="#BDBDBD" d="M40.9,549.8h3.9v30h-3.9V549.8z"/>
+		<path fill="#BDBDBD" d="M51.1,557.6h3.6v1.9h0.2c1.9-1.3,4.8-2.3,7.5-2.3c4.4,0,6.5,1.8,6.5,6.1v16.5h-3.8v-15.7
+			c0-2.6-0.8-3.6-4.3-3.6c-1.9,0-4.2,0.7-5.8,1.5v17.9h-3.8V557.6z"/>
+		<path fill="#BDBDBD" d="M74.2,557.6h3.6v1.9h0.2c1.9-1.3,4.8-2.3,7.5-2.3c4.4,0,6.5,1.8,6.5,6.1v16.5h-3.8v-15.7
+			c0-2.6-0.8-3.6-4.3-3.6c-1.9,0-4.2,0.7-5.8,1.5v17.9h-3.8V557.6z"/>
+		<path fill="#BDBDBD" d="M97.4,549.3h3.9v3.9h-3.9V549.3z M97.4,557.6h3.8v22.2h-3.8V557.6z"/>
+		<path fill="#BDBDBD" d="M106.8,557.6h3.6v1.9h0.2c1.9-1.3,4.8-2.3,7.5-2.3c4.4,0,6.5,1.8,6.5,6.1v16.5h-3.8v-15.7
+			c0-2.6-0.8-3.6-4.3-3.6c-1.9,0-4.2,0.7-5.8,1.5v17.9h-3.8V557.6z"/>
+		<path fill="#BDBDBD" d="M127.5,582.8c0-2.4,1.9-4,4.2-4.8v-0.2c-1.3-0.5-2.3-1.6-2.3-3.1c0-1.5,0.8-3,2.6-4.3
+			c-1.7-1.1-2.8-2.9-2.8-5.5v-0.4c0-4.7,3.5-7.3,8.5-7.3c1.1,0,2.2,0.1,3.2,0.4h7.6v2.9h-3.8c0.9,1,1.4,2.3,1.4,3.9v0.4
+			c0,4.8-3.8,7.1-8.4,7.1c-1.3,0-2.6-0.2-3.7-0.5c-0.5,0.5-0.9,1.2-0.9,1.9c0,1.2,0.6,1.9,2.1,1.9h6.1c4.1,0,7.1,1.5,7.1,5.8
+			c0,4.1-3.1,7.4-10.7,7.4C130.8,588.4,127.5,586.2,127.5,582.8z M144.3,581.6c0-2-0.9-2.8-3.8-2.8h-6.3c-1.5,0.5-2.7,1.7-2.7,3.5
+			c0,2,1.8,3.1,5.9,3.1C142.5,585.3,144.3,583.9,144.3,581.6z M142.3,564.9v-0.6c0-2.9-1.8-4.2-4.6-4.2c-2.9,0-4.6,1.5-4.6,4.1v0.6
+			c0,2.8,1.8,4.2,4.6,4.2C140.6,569,142.3,567.7,142.3,564.9z"/>
+		<path fill="#BDBDBD" d="M150.5,578.7v-3c1.9,0.7,3.5,1.4,6.7,1.4c3.3,0,4.7-1.1,4.7-3.1c0-1.8-0.9-2.7-3.6-3.5l-2.1-0.6
+			c-3.2-0.9-5.5-2.3-5.5-6.2c0-3.9,2.5-6.5,7.8-6.5c3,0,4.8,0.6,6.1,1.3v3.1c-1.1-0.5-3.4-1.2-5.9-1.2c-2.9,0-4.3,1-4.3,2.9
+			c0,1.8,1,2.6,3.2,3.2l2.1,0.6c4.3,1.2,6.1,2.6,6.1,6.5c0,4.4-3.1,6.6-8,6.6C154.8,580.2,152.3,579.7,150.5,578.7z"/>
+	</g>
+	<g enable-background="new    ">
+		<path fill="#BDBDBD" d="M58.8,376.7h8.8c6.6,0,10,2.9,10,8.5c0,4.3-2.2,6.6-5.7,7.8v0.2l7.8,13.4h-4.5L68.1,394h-5.4v12.7h-3.9
+			V376.7z M67.4,390.9c4.4,0,6.1-1.8,6.1-5.6c0-3.8-1.8-5.3-6.1-5.3h-4.6v10.9H67.4z"/>
+		<path fill="#BDBDBD" d="M82.6,400.6v-16.1h3.8V400c0,2.7,0.9,3.9,4.1,3.9c2.3,0,4.2-0.8,5.8-1.6v-17.7h3.8v22.2h-3.2l-0.4-1.9
+			h-0.2c-1.9,1.3-4.1,2.3-6.8,2.3C85.1,407.1,82.6,404.9,82.6,400.6z"/>
+		<path fill="#BDBDBD" d="M105.6,384.5h3.6v1.9h0.2c1.9-1.3,4.8-2.3,7.5-2.3c4.4,0,6.5,1.8,6.5,6.1v16.5h-3.8V391
+			c0-2.6-0.8-3.6-4.3-3.6c-1.9,0-4.2,0.7-5.8,1.5v17.9h-3.8V384.5z"/>
+		<path fill="#BDBDBD" d="M127.2,405.5v-3c1.9,0.7,3.5,1.4,6.7,1.4c3.3,0,4.7-1.1,4.7-3.1c0-1.8-0.9-2.7-3.6-3.5l-2.1-0.6
+			c-3.2-0.9-5.5-2.3-5.5-6.2c0-3.9,2.5-6.5,7.8-6.5c3,0,4.8,0.6,6.1,1.3v3.1c-1.1-0.5-3.4-1.2-5.9-1.2c-2.9,0-4.3,1-4.3,2.9
+			c0,1.8,1,2.6,3.2,3.2l2.1,0.6c4.3,1.2,6.1,2.6,6.1,6.5c0,4.4-3.1,6.6-8,6.6C131.6,407.1,129.1,406.6,127.2,405.5z"/>
+	</g>
 	<g>
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="54.4" y1="73.9" x2="79.4" y2="73.9"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="196.3" y1="568" x2="286.5" y2="568"/>
 			<g>
-				<polygon fill="#BDBDBD" points="78.4,77.8 84.4,74.3 78.4,70.8 				"/>
+				<polygon fill="#BDBDBD" points="282.8,582.1 304.5,569.5 282.8,556.8 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="11.9" y1="39.4" x2="11.9" y2="14.4"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="42.9" y1="443.6" x2="42.9" y2="353.4"/>
 			<g>
-				<polygon fill="#BDBDBD" points="15.5,15.4 12,9.4 8.5,15.4 				"/>
+				<polygon fill="#BDBDBD" points="55.9,357 43.3,335.3 30.7,357 				"/>
 			</g>
 		</g>
 	</g>
@@ -53,92 +90,98 @@
 	<g display="inline">
 		<g>
 			<g transform="translate(724.1379310344827,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-715.3" cy="46.6" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-692.3" cy="437.5" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(753.1034482758621,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-714.4" cy="44.5" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-613.5" cy="430" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(782.0689655172414,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-713.4" cy="41" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-534.3" cy="417.3" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(811.0344827586207,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-712.5" cy="45.7" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-455.5" cy="434.3" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(840,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-711.5" cy="44.1" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-376.4" cy="428.5" rx="11.2" ry="12.6"/>
 			</g>
 		</g>
-		<path fill="#939598" fill-opacity="0.3" d="M8.8,46.6l29.9-2.1l28.8,3.1l31-2l29.9-1.5v20.8H98.6H68.7H38.7H8.8V46.6z"/>
-		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="8.8" y1="56.8" x2="128.5" y2="56.8"/>
-		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="8.8" y1="48.7" x2="128.5" y2="48.7"/>
-		<line fill="none" stroke="#FFFFFF" stroke-opacity="0.25" x1="8.8" y1="40.6" x2="128.5" y2="40.6"/>
-		<path fill="none" stroke="#000000" stroke-width="2" d="M8.8,46.6l29.9-2.1l28.8,3.1l31-2l29.9-1.5"/>
+		<path fill="#939598" fill-opacity="0.3" d="M31.7,437.5l107.9-7.6l103.9,11.2l111.8-7.2l107.9-5.4v75H355.7H247.9H139.6H31.7
+			V437.5z"/>
+		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="31.7" y1="474.3" x2="463.6" y2="474.3"/>
+		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="31.7" y1="445.1" x2="463.6" y2="445.1"/>
+		<line fill="none" stroke="#FFFFFF" stroke-opacity="0.25" x1="31.7" y1="415.9" x2="463.6" y2="415.9"/>
+		<path fill="none" stroke="#000000" stroke-width="2" d="M31.7,437.5l107.9-7.6l103.9,11.2l111.8-7.2l107.9-5.4"/>
 	</g>
-	<path display="inline" fill="none" stroke="#000000" d="M8.8,20.7l29.9,0.8l29.9,6.6l29.9,4.9l29.9-13.9"/>
-	<line display="inline" fill="none" stroke="#3F403F" x1="3.7" y1="64.9" x2="133.6" y2="64.9"/>
-	<text transform="matrix(1 0 0 1 9.9399 76.8055)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Test matches</text>
-	<text transform="matrix(1 0 0 1 9.94 15.6667)" display="inline" font-family="'DS3DisplaySans'" font-size="11">Avg. match RPO</text>
+	<path display="inline" fill="none" stroke="#000000" d="M31.7,344.1l107.9,2.9l107.9,23.8l107.9,17.7l107.9-50.1"/>
+	<line display="inline" fill="none" stroke="#3F403F" x1="13.3" y1="503.6" x2="482" y2="503.6"/>
+	
+		<text transform="matrix(1 0 0 1 35.8619 546.5155)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="39.6853">Test matches</text>
+	<text transform="matrix(1 0 0 1 35.8619 325.9404)" display="inline" font-family="'DS3DisplaySans'" font-size="39.6853">Avg. match RPO</text>
 	<g display="inline">
-		<text transform="matrix(1 0 0 1 9.9397 40.9971)" font-family="'DS5DisplaySansSemibold'" font-size="11">Economy rate</text>
+		<text transform="matrix(1 0 0 1 35.8619 417.3252)" font-family="'DS5DisplaySansSemibold'" font-size="39.6853">Economy rate</text>
 	</g>
 	<g display="inline">
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="127.9" y1="24.4" x2="127.9" y2="33.4"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="461.4" y1="357.4" x2="461.4" y2="389.9"/>
 			<g>
-				<polygon fill="#BDBDBD" points="124.5,32.4 128,38.5 131.5,32.4 				"/>
+				<polygon fill="#BDBDBD" points="449.2,386.3 461.8,408.3 474.4,386.3 				"/>
 			</g>
 		</g>
 	</g>
 	<g display="inline">
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="127.9" y1="15.4" x2="127.9" y2="8.4"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="461.4" y1="325" x2="461.4" y2="299.7"/>
 			<g>
-				<polygon fill="#BDBDBD" points="131.5,9.4 128,3.4 124.5,9.4 				"/>
+				<polygon fill="#BDBDBD" points="474.4,303.3 461.8,281.7 449.2,303.3 				"/>
 			</g>
 		</g>
 	</g>
 	
-		<text transform="matrix(1 0 0 1 132.7731 12.3345)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">Worse</text>
+		<text transform="matrix(1 0 0 1 479.0129 313.9186)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">Worse</text>
 	
-		<text transform="matrix(1 0 0 1 132.7734 36.3353)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">Better</text>
-	<text transform="matrix(1 0 0 1 1.5701 48.971)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">2</text>
-	<text transform="matrix(1 0 0 1 2.5699 62.6937)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">1</text>
+		<text transform="matrix(1 0 0 1 479.015 400.5064)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">Better</text>
+	
+		<text transform="matrix(1 0 0 1 5.6647 446.0957)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">2</text>
+	
+		<text transform="matrix(1 0 0 1 9.2716 495.6033)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">1</text>
 </g>
 <g id="batsman" display="none">
 	<g display="inline">
-		<path fill="#939598" fill-opacity="0.1" d="M31.8,13.4L62,40l30.2,17.8l30.2-6.4l30.2-18.5v32.6h-30.2H92.2H62H31.8V13.4z"/>
+		<path fill="#939598" fill-opacity="0.1" d="M114.7,317.8l109,96l109,64.2l109-23.1l109-66.7v117.6h-109h-109h-109h-109V317.8z"/>
 		<g>
 			<g transform="translate(434,0)">
-				<rect x="-403.2" y="13.4" width="2.1" height="52.2"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-402.2" cy="13.4" rx="3.1" ry="3.5"/>
+				<rect x="-322.9" y="317.8" width="7.6" height="188.3"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-319.3" cy="317.8" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(463,0)">
-				<rect x="-402" y="40" width="2.1" height="25.6"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-401" cy="40" rx="3.1" ry="3.5"/>
+				<rect x="-242.9" y="413.7" width="7.6" height="92.4"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-239.3" cy="413.7" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(492,0)">
-				<rect x="-400.9" y="57.8" width="2.1" height="7.8"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-399.8" cy="57.8" rx="3.1" ry="3.5"/>
+				<rect x="-163.3" y="477.9" width="7.6" height="28.1"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-159.4" cy="477.9" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(521,0)">
-				<rect x="-399.7" y="51.4" width="2.1" height="14.2"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-398.6" cy="51.4" rx="3.1" ry="3.5"/>
+				<rect x="-83.4" y="454.9" width="7.6" height="51.2"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-79.4" cy="454.9" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(550,0)">
-				<rect x="-398.5" y="32.9" width="2.1" height="32.6"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-397.4" cy="32.9" rx="3.1" ry="3.5"/>
+				<rect x="-3.4" y="388.1" width="7.6" height="117.6"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="0.5" cy="388.1" rx="11.2" ry="12.6"/>
 			</g>
 		</g>
-		<line fill="none" stroke="#000000" x1="26.6" y1="65.5" x2="157.8" y2="65.5"/>
+		<line fill="none" stroke="#000000" x1="96" y1="505.7" x2="569.3" y2="505.7"/>
 	</g>
-	<line display="inline" fill="none" stroke="#FFFFFF" x1="4" y1="46.9" x2="165.8" y2="46.9"/>
-	<line display="inline" fill="none" stroke="#FFFFFF" x1="4" y1="30.2" x2="165.8" y2="30.2"/>
-	<line display="inline" fill="none" stroke="#FFFFFF" x1="4" y1="13.5" x2="165.8" y2="13.5"/>
+	<line display="inline" fill="none" stroke="#FFFFFF" x1="14.4" y1="438.6" x2="598.2" y2="438.6"/>
+	<line display="inline" fill="none" stroke="#FFFFFF" x1="14.4" y1="378.4" x2="598.2" y2="378.4"/>
+	<line display="inline" fill="none" stroke="#FFFFFF" x1="14.4" y1="318.1" x2="598.2" y2="318.1"/>
 	
-		<text transform="matrix(1 0 0 1 25.8022 77.5954)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Test matches</text>
-	<text transform="matrix(1 0 0 1 5.845 12.1748)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Runs</text>
+		<text transform="matrix(1 0 0 1 93.0875 549.3643)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="39.6853">Test matches</text>
 	
-		<text transform="matrix(1 0 0 1 10.3545 50.2079)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">100</text>
-	<text transform="matrix(1 0 0 1 8.353 33.7667)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">200</text>
+		<text transform="matrix(1 0 0 1 21.0876 313.3423)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="39.6853">Runs</text>
+	
+		<text transform="matrix(1 0 0 1 37.3565 450.5553)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="39.6853">100</text>
+	
+		<text transform="matrix(1 0 0 1 30.1359 391.2412)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="39.6853">200</text>
 </g>
 </svg>

@@ -306,6 +306,26 @@
 			"id":"hughes",
 			"name":"MG Hughes",
 			"country":"AU"
+		},
+		{
+			"id":"ali",
+			"name":"MM Ali",
+			"country":"EN"
+		},
+		{
+			"id":"finn",
+			"name":"ST Finn",
+			"country":"AU"
+		},
+		{
+			"id":"starc",
+			"name":"MA Starc",
+			"country":"AU"
+		},
+		{
+			"id":"stokes",
+			"name":"BA Stokes",
+			"country":"EN"
 		}
 
 	]

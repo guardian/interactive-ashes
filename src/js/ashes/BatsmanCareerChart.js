@@ -51,7 +51,11 @@ function BatsmanCareerChart(data,options) {
 
 		d.prev_runs=prev_runs;
 		prev_runs+=d.runs;
-	});
+	})
+
+	data.sort(function(a,b){
+		return a[INDEX] - b[INDEX]
+	})
 
 	////console.log(data)
 
@@ -149,15 +153,32 @@ function BatsmanCareerChart(data,options) {
 	
 
 	var container=d3.select(options.container);
-
+	var to;
 	var row=container.append("div")
 					.attr("id",options.name)
     				.attr("class","career-row")
-    				.on("click",function(d){
+    				/*.on("click",function(d){
     					var selected=d3.select(this).classed("selected");
-
     					d3.select(this).classed("selected",!selected);
-    				})
+    				})*/
+					.on("mouseenter",function(){
+						d3.select(this).classed("hover",true)
+					})
+					.on("mouseleave",function(){
+						d3.select(this).classed("hover",false)
+					})
+					.on("touchstart",function(){
+						d3.select(options.container).selectAll(".hover").classed("hover",false)
+						d3.select(this).classed("hover",true)
+					})
+					.on("touchend",function(){
+						//var d3this=d3.select(this);
+						//to=setTimeout(function(){
+							//d3this.classed("hover",false)
+						//},1000);
+						
+					})
+    				
 
     
 
@@ -216,9 +237,6 @@ function BatsmanCareerChart(data,options) {
 			.attr("height",HEIGHT)
 			.on("mousemove",function(d){
 				var coord=d3.mouse(this);
-				//////console.log(xscale.invert(coord[0]))
-
-				//////console.log(coord[0],xscale.invert(coord[0]));
 
 				var match=findBar(xscale.invert(coord[0]-margins.left))
 				if(match) {
@@ -228,7 +246,7 @@ function BatsmanCareerChart(data,options) {
 				
 
 			})
-			.on("mouseout",function(d){
+			.on("mouseleave",function(d){
 				highlightMatch();
 				tooltip.hide();
 			})
@@ -445,20 +463,7 @@ function BatsmanCareerChart(data,options) {
 				y=0;
 			return "translate("+x+","+y+")";
 		})
-		/*
-		.on("mouseover",function(d){
-			//////console.log(d);
-			//var h=(cumulativeYScale(d.prev_runs) - cumulativeYScale(d.cumulative));
-			var x=xscale(options.indexed?d[INDEX]:d.date),
-				y=isNaN(d[INDEX])?yscale.range()[0]:yscale(d.runs);
-			y=yscale.range()[0]+25;
-			tooltip.show(d,x,y);
-		})
-		.on("mouseout",function(d){
-			////console.log("out")
-			tooltip.hide();
-		});
-		*/	
+			
 	
 
 	var w=2;
@@ -786,6 +791,10 @@ function BatsmanCareerChart(data,options) {
 			
 			s6.text("Boundary 4s: "+match["4s"]+" - 6s:"+match["6s"])
 			//s4.text("Boundary 4s: "+match["4s"])
+
+			if(x+w+options.margins.right > WIDTH) {
+				x-= (w + options.margins.right + 20*2);
+			}
 
 			tooltip.style({
 				left:(x+20+options.margins.left)+"px",

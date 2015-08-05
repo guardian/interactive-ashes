@@ -1,53 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 165 84" enable-background="new 0 0 165 84" xml:space="preserve">
-<g id="match" display="none">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="6.6 240.9 582 360" enable-background="new 6.6 240.9 582 360" xml:space="preserve">
+<font horiz-adv-x="1000">
+<!-- Copyright (c) 2005 Christian Schwartz &amp; Paul Barnes. All rights reserved. -->
+<!-- Copyright: Copyright 2015 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="DS5DisplaySansSemibold" units-per-em="1000" underline-position="-133" underline-thickness="20"/>
+<missing-glyph horiz-adv-x="497"/>
+<glyph unicode="E" horiz-adv-x="562" d="M62,0l461,0l0,119l-309,0l0,177l234,0l0,118l-234,0l0,160l301,0l0,119l-453,0z"/>
+<glyph unicode="a" horiz-adv-x="500" d="M184,-10C251,-10 296,11 319,42l6,0l11,-42l116,0l0,376C452,489 377,534 253,534C178,534 117,524 65,505l0,-98C100,416 147,423 199,423C282,423 311,406 311,346l0,-32l-112,-15C90,285 21,244 21,141C21,40 89,-10 184,-10M229,84C188,84 158,102 158,150C158,197 181,216 229,220l82,8l0,-118C295,95 263,84 229,84z"/>
+<glyph unicode="c" horiz-adv-x="457" d="M279,-10C354,-10 404,8 436,28l0,102C410,119 367,101 308,101C213,101 169,147 169,258l0,21C169,378 221,423 303,423C363,423 393,413 431,397l0,108C398,523 356,534 286,534C130,534 23,447 23,266l0,-14C23,79 116,-10 279,-10z"/>
+<glyph unicode="e" horiz-adv-x="525" d="M290,-10C383,-10 445,15 482,39l0,95C438,114 388,99 322,99C228,99 177,126 167,223l334,0l0,50C501,442 435,534 271,534C127,534 23,441 23,270l0,-14C23,87 112,-10 290,-10M270,436C331,436 362,402 362,316l-195,0C176,411 223,436 270,436z"/>
+<glyph unicode="m" horiz-adv-x="847" d="M50,0l140,0l0,397C218,411 252,422 284,422C337,422 355,402 355,355l0,-355l140,0l0,377C495,385 494,391 494,397C527,412 558,422 589,422C642,422 660,402 660,355l0,-355l140,0l0,392C800,494 747,534 656,534C594,534 535,513 482,476l-5,0C454,516 411,534 352,534C287,534 234,511 190,479l-5,0l0,45l-135,0z"/>
+<glyph unicode="n" horiz-adv-x="562" d="M50,0l140,0l0,397C218,410 259,422 294,422C356,422 374,403 374,354l0,-354l141,0l0,390C515,493 461,534 361,534C295,534 235,513 190,479l-5,0l0,45l-135,0z"/>
+<glyph unicode="o" horiz-adv-x="561" d="M279,-10C429,-10 537,83 537,258l0,14C537,440 445,534 280,534C131,534 23,441 23,267l0,-14C23,86 114,-10 279,-10M281,91C216,91 168,124 168,253l0,23C168,387 208,434 278,434C343,434 392,402 392,271l0,-23C392,137 351,91 281,91z"/>
+<glyph unicode="r" horiz-adv-x="370" d="M50,0l140,0l0,376C223,395 266,406 314,406C326,406 345,404 357,402l0,124C351,528 339,530 325,530C270,530 219,501 190,463l-5,0l0,61l-135,0z"/>
+<glyph unicode=" " horiz-adv-x="176"/>
+<glyph unicode="t" horiz-adv-x="367" d="M239,-7C290,-7 322,4 343,14l0,92C327,102 305,99 287,99C238,99 221,113 221,155l0,267l117,0l0,102l-117,0l0,125l-141,0l0,-125l-68,0l0,-102l68,0l0,-287C80,28 141,-7 239,-7z"/>
+<glyph unicode="y" horiz-adv-x="525" d="M124,-198C227,-198 282,-153 316,-55l206,579l-135,0l-112,-344l-3,0l-121,344l-148,0l197,-513l-17,-43C167,-75 138,-94 90,-94C72,-94 52,-91 36,-88l0,-95C54,-191 93,-198 124,-198z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright (c) 2005 Christian Schwartz &amp; Paul Barnes. All rights reserved. -->
+<!-- Copyright: Copyright 2015 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="DS3DisplaySans" units-per-em="1000" underline-position="-133" underline-thickness="20"/>
+<missing-glyph horiz-adv-x="497"/>
+<glyph unicode="A" horiz-adv-x="605" d="M7,0l86,0l69,195l271,0l70,-195l95,0l-250,693l-89,0M295,572l3,0l107,-300l-216,0z"/>
+<glyph unicode="B" horiz-adv-x="585" d="M78,0l233,0C469,0 548,83 548,197C548,297 492,348 405,364l0,4C489,395 518,449 518,518C518,627 455,693 293,693l-215,0M169,76l0,246l130,0C397,322 452,288 452,201C452,117 402,76 305,76M169,395l0,221l116,0C376,616 424,591 424,506C424,420 361,395 278,395z"/>
+<glyph unicode="E" horiz-adv-x="547" d="M78,0l416,0l0,77l-325,0l0,242l248,0l0,77l-248,0l0,220l322,0l0,77l-413,0z"/>
+<glyph unicode="I" horiz-adv-x="253" d="M81,0l91,0l0,693l-91,0z"/>
+<glyph unicode="N" horiz-adv-x="667" d="M78,0l83,0l0,568l3,0l331,-568l94,0l0,693l-83,0l0,-539l-3,0l-318,539l-107,0z"/>
+<glyph unicode="O" horiz-adv-x="687" d="M342,-12C534,-12 649,121 649,336l0,20C649,581 534,705 346,705C153,705 38,572 38,357l0,-20C38,112 153,-12 342,-12M345,63C191,63 136,178 136,339l0,34C136,519 201,630 341,630C496,629 551,516 551,355l0,-34C551,175 485,63 345,63z"/>
+<glyph unicode="P" horiz-adv-x="554" d="M78,0l91,0l0,273l139,0C439,273 530,347 530,487C530,618 452,693 299,693l-221,0M169,349l0,267l121,0C394,616 433,577 433,480C433,391 392,349 288,349z"/>
+<glyph unicode="R" horiz-adv-x="578" d="M78,0l91,0l0,293l124,0l167,-293l104,0l-181,310l0,5C464,344 514,397 514,496C514,626 434,693 282,693l-204,0M169,365l0,251l106,0C375,616 417,581 417,494C417,406 377,365 276,365z"/>
+<glyph unicode="T" horiz-adv-x="537" d="M223,0l91,0l0,616l205,0l0,77l-501,0l0,-77l205,0z"/>
+<glyph unicode="W" horiz-adv-x="861" d="M190,0l88,0l154,540l3,0l149,-540l88,0l173,693l-84,0l-130,-550l-3,0l-154,550l-75,0l-157,-550l-3,0l-131,550l-92,0z"/>
+<glyph unicode="a" horiz-adv-x="469" d="M189,-10C257,-10 298,14 323,43l6,0l9,-43l71,0l0,372C409,475 344,523 230,523C168,523 119,513 73,495l0,-63C104,439 145,447 195,447C287,447 321,428 321,350l0,-48l-136,-17C88,273 30,225 30,136C30,37 97,-10 189,-10M212,58C157,58 121,84 121,138C121,194 150,217 208,223l113,12l0,-142C299,73 256,58 212,58z"/>
+<glyph unicode="c" horiz-adv-x="443" d="M270,-10C341,-10 387,9 421,31l0,70C395,88 349,65 280,65C176,65 122,119 122,248l0,27C122,386 178,448 269,448C337,448 369,435 415,416l0,73C381,510 342,523 275,523C140,523 31,443 31,262l0,-17C31,73 124,-10 270,-10z"/>
+<glyph unicode="e" horiz-adv-x="496" d="M276,-10C361,-10 419,17 450,40l0,65C403,81 359,66 290,66C188,66 128,109 122,231l343,0l0,50C465,442 398,523 257,523C138,523 31,443 31,264l0,-15C31,90 114,-10 276,-10M253,452C331,452 372,410 372,302l-250,0C130,420 196,452 253,452z"/>
+<glyph unicode="g" horiz-adv-x="503" d="M244,-199C419,-199 491,-121 491,-27C491,73 422,108 328,108l-141,0C154,108 139,124 139,152C139,168 148,184 160,195C186,187 215,183 246,183C354,183 441,237 441,348l0,10C441,395 430,424 409,447l87,0l0,67l-175,0C298,520 273,523 247,523C133,523 51,462 51,354l0,-10C51,284 76,242 115,216C74,186 56,152 56,117C56,82 78,57 108,46l0,-5C55,23 12,-14 12,-69C12,-148 88,-199 244,-199M242,-127C146,-127 105,-103 105,-56C105,-15 132,12 167,24l145,0C378,24 399,5 399,-41C399,-93 358,-127 242,-127M246,250C181,250 139,281 139,346l0,15C139,421 178,456 246,456C311,456 353,426 353,359l0,-15C353,281 314,250 246,250z"/>
+<glyph unicode="h" horiz-adv-x="534" d="M63,0l88,0l0,413C188,430 241,447 286,447C367,447 386,422 386,363l0,-363l88,0l0,382C474,481 426,523 325,523C262,523 198,500 156,471l-5,0l0,268l-88,0z"/>
+<glyph unicode="i" horiz-adv-x="220" d="M66,0l88,0l0,513l-88,0M65,615l90,0l0,91l-90,0z"/>
+<glyph unicode="m" horiz-adv-x="809" d="M63,0l88,0l0,413C188,431 232,447 273,447C341,447 362,422 362,363l0,-363l88,0l0,382C450,393 449,402 448,412C492,433 534,447 572,447C640,447 661,422 661,363l0,-363l88,0l0,382C749,481 697,523 607,523C549,523 490,502 436,466l-5,0C407,505 366,523 308,523C251,523 195,498 152,469l-5,0l0,44l-84,0z"/>
+<glyph unicode="n" horiz-adv-x="534" d="M63,0l88,0l0,413C188,430 241,447 286,447C367,447 386,422 386,363l0,-363l88,0l0,382C474,481 426,523 325,523C262,523 195,499 152,469l-5,0l0,44l-84,0z"/>
+<glyph unicode="o" horiz-adv-x="531" d="M265,-10C406,-10 500,88 500,250l0,16C500,427 413,523 266,523C125,523 31,424 31,263l0,-17C31,85 117,-10 265,-10M267,62C187,62 122,105 122,244l0,28C122,386 174,451 264,451C344,451 409,407 409,268l0,-28C409,125 356,62 267,62z"/>
+<glyph unicode="1" horiz-adv-x="334" d="M154,0l91,0l0,699l-32,0l-186,-66l0,-52l127,12z"/>
+<glyph unicode="." horiz-adv-x="252" d="M76,0l100,0l0,101l-100,0z"/>
+<glyph unicode="r" horiz-adv-x="338" d="M63,0l88,0l0,400C187,424 236,440 284,440C293,440 310,439 323,437l0,78C318,517 304,519 291,519C236,519 181,490 152,456l-5,0l0,57l-84,0z"/>
+<glyph unicode="s" horiz-adv-x="409" d="M195,-9C307,-9 379,43 379,144C379,235 338,268 238,295l-49,13C137,322 115,339 115,381C115,426 149,449 215,449C272,449 325,434 351,422l0,71C322,508 280,523 211,523C88,523 31,462 31,372C31,283 85,249 159,229l49,-13C271,199 292,178 292,136C292,91 259,65 183,65C110,65 73,80 29,97l0,-70C72,3 129,-9 195,-9z"/>
+<glyph unicode=" " horiz-adv-x="192"/>
+<glyph unicode="t" horiz-adv-x="342" d="M229,-6C275,-6 296,5 317,15l0,59C297,69 273,66 252,66C194,66 178,84 178,133l0,307l129,0l0,73l-129,0l0,122l-88,0l0,-122l-73,0l0,-73l73,0l0,-320C90,29 147,-6 229,-6z"/>
+<glyph unicode="2" horiz-adv-x="516" d="M34,0l437,0l0,77l-323,0l0,3l112,107C384,306 454,388 454,507C454,631 374,705 233,705C155,705 98,689 48,662l0,-73C91,610 145,627 209,627C304,627 357,588 357,499C357,403 297,330 198,231l-164,-165z"/>
+<glyph unicode="u" horiz-adv-x="527" d="M217,-10C280,-10 332,14 375,44l5,0l9,-44l75,0l0,513l-88,0l0,-410C339,84 296,66 243,66C169,66 148,92 148,155l0,358l-88,0l0,-372C60,42 116,-10 217,-10z"/>
+<glyph unicode="v" horiz-adv-x="490" d="M201,0l88,0l189,513l-86,0l-142,-402l-4,0l-139,402l-95,0z"/>
+</font>
+
+	<g id="match" display="none">
 	
-		<text transform="matrix(1 0 0 1 118.7209 62.9843)" display="inline" fill="#6D6E71" font-family="'DS3DisplaySans'" font-size="11">WINNER</text>
+		<text transform="matrix(1 0 0 1 428.3154 496.6509)" display="inline" fill="#6D6E71" font-family="'DS3DisplaySans'" font-size="39.6853">WINNER</text>
 	<g transform="translate(10,20)" display="inline">
 		<g>
-			<path fill="#808285" fill-opacity="0.3" d="M13.4,45l24.2-19.6V44H13.4V45z"/>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="13.4" y1="45" x2="37.6" y2="25.4"/>
-			<circle fill="#E1AD28" cx="37.6" cy="25.4" r="0"/>
+			<path fill="#808285" fill-opacity="0.3" d="M74.4,483.9l87.3-70.7v67.1H74.4V483.9z"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="74.4" y1="483.9" x2="161.7" y2="413.2"/>
+			<circle fill="#E1AD28" cx="161.7" cy="413.2" r="0"/>
 		</g>
 		<g>
-			<path fill="#BCBEC0" fill-opacity="0.3" d="M37.6,45l13.1-9v9H37.6L37.6,45z"/>
-			<line fill="none" stroke="#939598" stroke-width="2" x1="37.6" y1="45" x2="50.7" y2="36"/>
-			<circle fill="#4E69B2" cx="50.7" cy="36" r="0"/>
+			<path fill="#BCBEC0" fill-opacity="0.3" d="M161.7,483.9l47.3-32.5v32.5H161.7L161.7,483.9z"/>
+			<line fill="none" stroke="#939598" stroke-width="2" x1="161.7" y1="483.9" x2="209" y2="451.5"/>
+			<circle fill="#4E69B2" cx="209" cy="451.5" r="0"/>
 		</g>
 		<g>
-			<path fill="#808285" fill-opacity="0.3" d="M50.6,25.4L74-1.2V44H50.6V25.4z"/>
-			<line fill="none" stroke="#000000" stroke-width="2" x1="50.6" y1="25.4" x2="74" y2="-1.2"/>
-			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="37.6" y1="25.4" x2="50.6" y2="25.4"/>
-			<circle cx="74" cy="-1.2" r="3"/>
+			<path fill="#808285" fill-opacity="0.3" d="M208.6,413.2l84.4-96v163.1h-84.4V413.2z"/>
+			<line fill="none" stroke="#000000" stroke-width="2" x1="208.6" y1="413.2" x2="293.1" y2="317.2"/>
+			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="161.7" y1="413.2" x2="208.6" y2="413.2"/>
+			<circle cx="293.1" cy="317.2" r="10.8"/>
 		</g>
 		<g>
-			<path fill="#BCBEC0" fill-opacity="0.3" d="M74,36l20.2-11.9V44H74V36z"/>
-			<line fill="none" stroke="#939598" stroke-width="2" x1="74" y1="36" x2="94.2" y2="24.1"/>
-			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="50.7" y1="36" x2="74" y2="36"/>
-			<circle fill="#939598" cx="94.2" cy="24.1" r="2"/>
+			<path fill="#BCBEC0" fill-opacity="0.3" d="M293.1,451.5l72.9-42.9v71.8h-72.9V451.5z"/>
+			<line fill="none" stroke="#939598" stroke-width="2" x1="293.1" y1="451.5" x2="365.9" y2="408.5"/>
+			<line fill="none" stroke="#333333" stroke-opacity="0.25" x1="209" y1="451.5" x2="293.1" y2="451.5"/>
+			<circle fill="#939598" cx="365.9" cy="408.5" r="7.2"/>
 		</g>
 	</g>
-	<line display="inline" fill="none" stroke="#D1D3D4" stroke-miterlimit="10" x1="11.6" y1="65" x2="158.2" y2="65"/>
+	<line display="inline" fill="none" stroke="#D1D3D4" stroke-miterlimit="10" x1="41.8" y1="503.9" x2="570.7" y2="503.9"/>
 	
-		<text transform="matrix(1 0 0 1 10.3672 77.1701)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">Innings</text>
+		<text transform="matrix(1 0 0 1 37.4023 547.8303)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="43.2931">Innings</text>
 	
-		<text transform="matrix(1 0 0 1 15.3672 29.1772)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="12">Runs</text>
+		<text transform="matrix(1 0 0 1 55.4418 374.6831)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="43.2931">Runs</text>
 	<g display="inline">
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="54.4" y1="73.9" x2="79.4" y2="73.9"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="196.3" y1="536" x2="286.5" y2="536"/>
 			<g>
-				<polygon fill="#BDBDBD" points="78.4,77.8 84.4,74.3 78.4,70.8 				"/>
+				<polygon fill="#BDBDBD" points="282.8,550.1 304.5,537.5 282.8,524.8 				"/>
 			</g>
 		</g>
 	</g>
 	<g display="inline">
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="11.9" y1="39.4" x2="11.9" y2="14.4"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="42.9" y1="411.6" x2="42.9" y2="321.4"/>
 			<g>
-				<polygon fill="#BDBDBD" points="15.5,15.4 12,9.4 8.5,15.4 				"/>
+				<polygon fill="#BDBDBD" points="55.9,325 43.3,303.3 30.7,325 				"/>
 			</g>
 		</g>
 	</g>
@@ -56,90 +109,150 @@
 	<g display="inline">
 		<g>
 			<g transform="translate(724.1379310344827,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-715.3" cy="46.6" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-692.3" cy="437.5" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(753.1034482758621,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-714.4" cy="44.5" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-613.5" cy="430" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(782.0689655172414,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-713.4" cy="41" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-534.3" cy="417.3" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(811.0344827586207,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-712.5" cy="45.7" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-455.5" cy="434.3" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(840,0)">
-				<ellipse fill="#E1AD28" fill-opacity="0" cx="-711.5" cy="44.1" rx="3.1" ry="3.5"/>
+				<ellipse fill="#E1AD28" fill-opacity="0" cx="-376.4" cy="428.5" rx="11.2" ry="12.6"/>
 			</g>
 		</g>
-		<path fill="#939598" fill-opacity="0.3" d="M8.8,46.6l29.9-2.1l28.8,3.1l31-2l29.9-1.5v20.8H98.6H68.7H38.7H8.8V46.6z"/>
-		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="8.8" y1="56.8" x2="128.5" y2="56.8"/>
-		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="8.8" y1="48.7" x2="128.5" y2="48.7"/>
-		<line fill="none" stroke="#FFFFFF" stroke-opacity="0.25" x1="8.8" y1="40.6" x2="128.5" y2="40.6"/>
-		<path fill="none" stroke="#000000" stroke-width="2" d="M8.8,46.6l29.9-2.1l28.8,3.1l31-2l29.9-1.5"/>
+		<path fill="#939598" fill-opacity="0.3" d="M31.7,437.5l107.9-7.6l103.9,11.2l111.8-7.2l107.9-5.4v75H355.7H247.9H139.6H31.7
+			V437.5z"/>
+		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="31.7" y1="474.3" x2="463.6" y2="474.3"/>
+		<line fill="none" stroke="#939598" stroke-opacity="0.25" x1="31.7" y1="445.1" x2="463.6" y2="445.1"/>
+		<line fill="none" stroke="#FFFFFF" stroke-opacity="0.25" x1="31.7" y1="415.9" x2="463.6" y2="415.9"/>
+		<path fill="none" stroke="#000000" stroke-width="2" d="M31.7,437.5l107.9-7.6l103.9,11.2l111.8-7.2l107.9-5.4"/>
 	</g>
-	<path display="inline" fill="none" stroke="#000000" d="M8.8,20.7l29.9,0.8l29.9,6.6l29.9,4.9l29.9-13.9"/>
-	<line display="inline" fill="none" stroke="#3F403F" x1="3.7" y1="64.9" x2="133.6" y2="64.9"/>
-	<text transform="matrix(1 0 0 1 9.9399 76.8055)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Test matches</text>
-	<text transform="matrix(1 0 0 1 9.94 15.6667)" display="inline" font-family="'DS3DisplaySans'" font-size="11">Avg. match RPO</text>
+	<path display="inline" fill="none" stroke="#000000" d="M31.7,344.1l107.9,2.9l107.9,23.8l107.9,17.7l107.9-50.1"/>
+	<line display="inline" fill="none" stroke="#3F403F" x1="13.3" y1="503.6" x2="482" y2="503.6"/>
+	
+		<text transform="matrix(1 0 0 1 35.8619 546.5155)" display="inline" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="39.6853">Test matches</text>
+	<text transform="matrix(1 0 0 1 35.8619 325.9404)" display="inline" font-family="'DS3DisplaySans'" font-size="39.6853">Avg. match RPO</text>
 	<g display="inline">
-		<text transform="matrix(1 0 0 1 9.9397 40.9971)" font-family="'DS5DisplaySansSemibold'" font-size="11">Economy rate</text>
+		<text transform="matrix(1 0 0 1 35.8619 417.3252)" font-family="'DS5DisplaySansSemibold'" font-size="39.6853">Economy rate</text>
 	</g>
 	<g display="inline">
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="127.9" y1="24.4" x2="127.9" y2="33.4"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="461.4" y1="357.4" x2="461.4" y2="389.9"/>
 			<g>
-				<polygon fill="#BDBDBD" points="124.5,32.4 128,38.5 131.5,32.4 				"/>
+				<polygon fill="#BDBDBD" points="449.2,386.3 461.8,408.3 474.4,386.3 				"/>
 			</g>
 		</g>
 	</g>
 	<g display="inline">
 		<g>
-			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="127.9" y1="15.4" x2="127.9" y2="8.4"/>
+			<line fill="none" stroke="#BDBDBD" stroke-miterlimit="10" x1="461.4" y1="325" x2="461.4" y2="299.7"/>
 			<g>
-				<polygon fill="#BDBDBD" points="131.5,9.4 128,3.4 124.5,9.4 				"/>
+				<polygon fill="#BDBDBD" points="474.4,303.3 461.8,281.7 449.2,303.3 				"/>
 			</g>
 		</g>
 	</g>
 	
-		<text transform="matrix(1 0 0 1 132.7731 12.3345)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">Worse</text>
+		<text transform="matrix(1 0 0 1 479.0129 313.9186)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">Worse</text>
 	
-		<text transform="matrix(1 0 0 1 132.7734 36.3353)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">Better</text>
-	<text transform="matrix(1 0 0 1 1.5701 48.971)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">2</text>
-	<text transform="matrix(1 0 0 1 2.5699 62.6937)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="11">1</text>
+		<text transform="matrix(1 0 0 1 479.015 400.5064)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">Better</text>
+	
+		<text transform="matrix(1 0 0 1 5.6647 446.0957)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">2</text>
+	
+		<text transform="matrix(1 0 0 1 9.2716 495.6033)" display="inline" fill="#BDBCBC" font-family="'DS3DisplaySans'" font-size="39.6853">1</text>
 </g>
 <g id="batsman">
 	<g>
-		<path fill="#939598" fill-opacity="0.1" d="M31.8,13.4L62,40l30.2,17.8l30.2-6.4l30.2-18.5v32.6h-30.2H92.2H62H31.8V13.4z"/>
+		<path fill="#939598" fill-opacity="0.1" d="M114.7,348.8l109,96l109,64.2l109-23.1l109-66.7v117.6h-109h-109h-109h-109V348.8z"/>
 		<g>
 			<g transform="translate(434,0)">
-				<rect x="-403.2" y="13.4" width="2.1" height="52.2"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-402.2" cy="13.4" rx="3.1" ry="3.5"/>
+				<rect x="-322.9" y="348.8" width="7.6" height="188.3"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-319.3" cy="348.8" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(463,0)">
-				<rect x="-402" y="40" width="2.1" height="25.6"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-401" cy="40" rx="3.1" ry="3.5"/>
+				<rect x="-242.9" y="444.7" width="7.6" height="92.4"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-239.3" cy="444.7" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(492,0)">
-				<rect x="-400.9" y="57.8" width="2.1" height="7.8"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-399.8" cy="57.8" rx="3.1" ry="3.5"/>
+				<rect x="-163.3" y="508.9" width="7.6" height="28.1"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-159.4" cy="508.9" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(521,0)">
-				<rect x="-399.7" y="51.4" width="2.1" height="14.2"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-398.6" cy="51.4" rx="3.1" ry="3.5"/>
+				<rect x="-83.4" y="485.9" width="7.6" height="51.2"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="-79.4" cy="485.9" rx="11.2" ry="12.6"/>
 			</g>
 			<g transform="translate(550,0)">
-				<rect x="-398.5" y="32.9" width="2.1" height="32.6"/>
-				<ellipse fill="#4A494A" fill-opacity="0" cx="-397.4" cy="32.9" rx="3.1" ry="3.5"/>
+				<rect x="-3.4" y="419.1" width="7.6" height="117.6"/>
+				<ellipse fill="#4A494A" fill-opacity="0" cx="0.5" cy="419.1" rx="11.2" ry="12.6"/>
 			</g>
 		</g>
-		<line fill="none" stroke="#000000" x1="26.6" y1="65.5" x2="157.8" y2="65.5"/>
+		<line fill="none" stroke="#000000" x1="96" y1="536.7" x2="569.3" y2="536.7"/>
 	</g>
-	<line fill="none" stroke="#FFFFFF" x1="4" y1="46.9" x2="165.8" y2="46.9"/>
-	<line fill="none" stroke="#FFFFFF" x1="4" y1="30.2" x2="165.8" y2="30.2"/>
-	<line fill="none" stroke="#FFFFFF" x1="4" y1="13.5" x2="165.8" y2="13.5"/>
-	<text transform="matrix(1 0 0 1 25.8022 77.5954)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Test matches</text>
-	<text transform="matrix(1 0 0 1 5.845 12.1748)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">Runs</text>
-	<text transform="matrix(1 0 0 1 10.3545 50.2079)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">100</text>
-	<text transform="matrix(1 0 0 1 8.353 33.7667)" fill="#BDBDBD" font-family="'DS3DisplaySans'" font-size="11">200</text>
+	<line fill="none" stroke="#FFFFFF" x1="14.4" y1="469.6" x2="598.2" y2="469.6"/>
+	<line fill="none" stroke="#FFFFFF" x1="14.4" y1="409.4" x2="598.2" y2="409.4"/>
+	<line fill="none" stroke="#FFFFFF" x1="14.4" y1="349.1" x2="598.2" y2="349.1"/>
+	<g enable-background="new    ">
+		<path fill="#BDBDBD" d="M101.9,555.9h-8.1v-3.1h19.9v3.1h-8.1v24.4h-3.6V555.9z"/>
+		<path fill="#BDBDBD" d="M112.7,570.5v-0.6c0-7.1,4.2-10.3,9-10.3c5.6,0,8.3,3.2,8.3,9.6v2h-13.6c0.2,4.8,2.6,6.5,6.7,6.5
+			c2.7,0,4.5-0.6,6.4-1.5v2.6c-1.2,0.9-3.5,2-6.9,2C115.9,580.8,112.7,576.8,112.7,570.5z M116.3,568.4h9.9c0-4.3-1.6-6-4.7-6
+			C119.2,562.4,116.6,563.7,116.3,568.4z"/>
+		<path fill="#BDBDBD" d="M132.5,579.3v-2.8c1.7,0.7,3.2,1.3,6.1,1.3c3,0,4.3-1,4.3-2.8c0-1.7-0.8-2.5-3.3-3.2l-1.9-0.5
+			c-2.9-0.8-5.1-2.1-5.1-5.7c0-3.6,2.3-6,7.1-6c2.7,0,4.4,0.6,5.6,1.2v2.8c-1-0.5-3.1-1.1-5.4-1.1c-2.6,0-4,0.9-4,2.7
+			c0,1.7,0.9,2.3,2.9,2.9l1.9,0.5c4,1.1,5.6,2.4,5.6,6c0,4-2.9,6.1-7.3,6.1C136.4,580.7,134.2,580.2,132.5,579.3z"/>
+		<path fill="#BDBDBD" d="M150.7,575.6v-12.7h-2.9V560h2.9v-4.8h3.5v4.8h5.1v2.9h-5.1v12.2c0,1.9,0.6,2.7,2.9,2.7
+			c0.8,0,1.8-0.1,2.6-0.3v2.3c-0.8,0.4-1.7,0.8-3.5,0.8C153,580.6,150.7,579.2,150.7,575.6z"/>
+		<path fill="#BDBDBD" d="M170.8,560h3.3v1.7h0.2c1.7-1.2,3.9-2.1,6.2-2.1c2.3,0,3.9,0.7,4.9,2.3h0.2c2.1-1.4,4.5-2.3,6.8-2.3
+			c3.6,0,5.6,1.7,5.6,5.6v15.2h-3.5V566c0-2.3-0.8-3.3-3.5-3.3c-1.5,0-3.2,0.6-4.9,1.4c0,0.4,0.1,0.8,0.1,1.2v15.2h-3.5V566
+			c0-2.3-0.8-3.3-3.5-3.3c-1.6,0-3.4,0.6-4.8,1.3v16.4h-3.5V560z"/>
+		<path fill="#BDBDBD" d="M201.6,575c0-3.5,2.3-5.4,6.2-5.9l5.4-0.7v-1.9c0-3.1-1.3-3.8-5-3.8c-2,0-3.6,0.3-4.8,0.6v-2.5
+			c1.8-0.7,3.8-1.1,6.2-1.1c4.5,0,7.1,1.9,7.1,6v14.8h-2.8l-0.4-1.7h-0.2c-1,1.2-2.6,2.1-5.3,2.1C204.3,580.8,201.6,578.9,201.6,575
+			z M213.2,576.7V571l-4.5,0.5c-2.3,0.2-3.5,1.2-3.5,3.4c0,2.1,1.4,3.2,3.6,3.2C210.6,578.1,212.3,577.5,213.2,576.7z"/>
+		<path fill="#BDBDBD" d="M222.6,575.6v-12.7h-2.9V560h2.9v-4.8h3.5v4.8h5.1v2.9h-5.1v12.2c0,1.9,0.6,2.7,2.9,2.7
+			c0.8,0,1.8-0.1,2.6-0.3v2.3c-0.8,0.4-1.7,0.8-3.5,0.8C224.9,580.6,222.6,579.2,222.6,575.6z"/>
+		<path fill="#BDBDBD" d="M233.8,570.6V570c0-7.2,4.3-10.4,9.7-10.4c2.7,0,4.2,0.5,5.6,1.3v2.9c-1.8-0.8-3.1-1.3-5.8-1.3
+			c-3.6,0-5.8,2.5-5.8,6.9v1.1c0,5.1,2.1,7.3,6.3,7.3c2.7,0,4.6-0.9,5.6-1.4v2.8c-1.3,0.9-3.2,1.6-6,1.6
+			C237.5,580.8,233.8,577.5,233.8,570.6z"/>
+		<path fill="#BDBDBD" d="M252.7,551h3.5v10.6h0.2c1.7-1.2,4.2-2.1,6.7-2.1c4,0,5.9,1.7,5.9,5.6v15.2h-3.5V566c0-2.3-0.8-3.3-4-3.3
+			c-1.8,0-3.9,0.7-5.4,1.3v16.4h-3.5V551z"/>
+		<path fill="#BDBDBD" d="M272.6,570.5v-0.6c0-7.1,4.2-10.3,9-10.3c5.6,0,8.3,3.2,8.3,9.6v2h-13.6c0.2,4.8,2.6,6.5,6.7,6.5
+			c2.7,0,4.5-0.6,6.4-1.5v2.6c-1.2,0.9-3.5,2-6.9,2C275.9,580.8,272.6,576.8,272.6,570.5z M276.2,568.4h9.9c0-4.3-1.6-6-4.7-6
+			C279.2,562.4,276.5,563.7,276.2,568.4z"/>
+		<path fill="#BDBDBD" d="M292.4,579.3v-2.8c1.7,0.7,3.2,1.3,6.1,1.3c3,0,4.3-1,4.3-2.8c0-1.7-0.8-2.5-3.3-3.2l-1.9-0.5
+			c-2.9-0.8-5.1-2.1-5.1-5.7c0-3.6,2.3-6,7.1-6c2.7,0,4.4,0.6,5.6,1.2v2.8c-1-0.5-3.1-1.1-5.4-1.1c-2.6,0-4,0.9-4,2.7
+			c0,1.7,0.9,2.3,2.9,2.9l1.9,0.5c4,1.1,5.6,2.4,5.6,6c0,4-2.9,6.1-7.3,6.1C296.4,580.7,294.1,580.2,292.4,579.3z"/>
+	</g>
+	<g enable-background="new    ">
+		<path fill="#BDBDBD" d="M24.2,316.8h8.1c6,0,9.2,2.7,9.2,7.8c0,3.9-2,6-5.2,7.2v0.2l7.2,12.3h-4.1l-6.6-11.6h-4.9v11.6h-3.6V316.8
+			z M32,329.9c4,0,5.6-1.6,5.6-5.1c0-3.5-1.7-4.8-5.6-4.8h-4.2v10H32z"/>
+		<path fill="#BDBDBD" d="M46,338.7V324h3.5v14.2c0,2.5,0.8,3.5,3.8,3.5c2.1,0,3.8-0.7,5.3-1.5V324H62v20.4h-3l-0.4-1.7h-0.2
+			c-1.7,1.2-3.8,2.1-6.3,2.1C48.2,344.7,46,342.7,46,338.7z"/>
+		<path fill="#BDBDBD" d="M67,324h3.3v1.7h0.2c1.7-1.2,4.4-2.1,6.9-2.1c4,0,5.9,1.7,5.9,5.6v15.2h-3.5v-14.4c0-2.3-0.8-3.3-4-3.3
+			c-1.8,0-3.9,0.7-5.4,1.3v16.4H67V324z"/>
+		<path fill="#BDBDBD" d="M86.9,343.3v-2.8c1.7,0.7,3.2,1.3,6.1,1.3c3,0,4.3-1,4.3-2.8c0-1.7-0.8-2.5-3.3-3.2l-1.9-0.5
+			c-2.9-0.8-5.1-2.1-5.1-5.7c0-3.6,2.3-6,7.1-6c2.7,0,4.4,0.6,5.6,1.2v2.8c-1-0.5-3.1-1.1-5.4-1.1c-2.6,0-4,0.9-4,2.7
+			c0,1.7,0.9,2.3,2.9,2.9l1.9,0.5c4,1.1,5.6,2.4,5.6,6c0,4-2.9,6.1-7.3,6.1C90.9,344.7,88.6,344.2,86.9,343.3z"/>
+	</g>
+	<g enable-background="new    ">
+		<path fill="#BDBDBD" d="M43.5,458l-5,0.5v-2.1l7.4-2.6h1.3v27.7h-3.6V458z"/>
+		<path fill="#BDBDBD" d="M52.6,468.7v-1.4c0-9.9,5.1-13.7,11.1-13.7c5.9,0,10.8,3.7,10.8,13.5v1.4c0,9.8-4.7,13.6-10.9,13.6
+			S52.6,478.1,52.6,468.7z M70.7,469v-2c0-6.7-2.1-10.4-7.1-10.4c-5,0-7.2,3.5-7.2,10.2v2c0,6.7,2.2,10.3,7.1,10.3
+			S70.7,476,70.7,469z"/>
+		<path fill="#BDBDBD" d="M78.5,468.7v-1.4c0-9.9,5.1-13.7,11.1-13.7c5.9,0,10.8,3.7,10.8,13.5v1.4c0,9.8-4.7,13.6-10.9,13.6
+			S78.5,478.1,78.5,468.7z M96.6,469v-2c0-6.7-2.1-10.4-7.1-10.4c-5,0-7.2,3.5-7.2,10.2v2c0,6.7,2.2,10.3,7.1,10.3
+			S96.6,476,96.6,469z"/>
+	</g>
+	<g enable-background="new    ">
+		<path fill="#BDBDBD" d="M31.5,419.6l6.5-6.5c3.9-3.9,6.3-6.8,6.3-10.6c0-3.5-2.1-5.1-5.9-5.1c-2.5,0-4.7,0.7-6.4,1.5V396
+			c2-1.1,4.2-1.7,7.3-1.7c5.6,0,8.8,2.9,8.8,7.9c0,4.7-2.8,8-7.7,12.7l-4.4,4.2v0.1h12.8v3.1H31.5V419.6z"/>
+		<path fill="#BDBDBD" d="M52.4,409.4V408c0-9.9,5.1-13.7,11.1-13.7c5.9,0,10.8,3.7,10.8,13.5v1.4c0,9.8-4.7,13.6-10.9,13.6
+			S52.4,418.8,52.4,409.4z M70.5,409.7v-2c0-6.7-2.1-10.4-7.1-10.4c-5,0-7.2,3.5-7.2,10.2v2c0,6.7,2.2,10.3,7.1,10.3
+			S70.5,416.6,70.5,409.7z"/>
+		<path fill="#BDBDBD" d="M78.3,409.4V408c0-9.9,5.1-13.7,11.1-13.7c5.9,0,10.8,3.7,10.8,13.5v1.4c0,9.8-4.7,13.6-10.9,13.6
+			S78.3,418.8,78.3,409.4z M96.4,409.7v-2c0-6.7-2.1-10.4-7.1-10.4c-5,0-7.2,3.5-7.2,10.2v2c0,6.7,2.2,10.3,7.1,10.3
+			S96.4,416.6,96.4,409.7z"/>
+	</g>
 </g>
 </svg>

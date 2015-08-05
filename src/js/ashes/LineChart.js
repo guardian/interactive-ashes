@@ -1,5 +1,5 @@
 function LineChart(data,options) {
-	//console.log("LineChart",data)
+	//console.log("LineChart",data,options.series)
 	var container=d3.select(options.container);
 
 	var viz=container.append("div")
@@ -7,7 +7,7 @@ function LineChart(data,options) {
 
 	var size=viz.node().getBoundingClientRect(),
     	WIDTH = size.width,
-    	HEIGHT = size.height;
+    	HEIGHT = 200;//size.height;
 
    	//console.log(WIDTH,HEIGHT)
 
@@ -17,6 +17,13 @@ function LineChart(data,options) {
     	top:40,
     	bottom:25
     };
+
+    var tooltip=new Tooltip({
+    	container:viz.node(),
+    	margins:margins,
+    	info:options.info,
+    	teams:options.teams
+    })
 
     var extents;
 
@@ -71,7 +78,7 @@ function LineChart(data,options) {
 				    	return yscale(d.victories); 
 				    })
 				    //.interpolate("basis")
-				    .interpolate("step-before");
+				    .interpolate("step-after");
 
 	
 	var notes=timeline_g
@@ -129,7 +136,82 @@ function LineChart(data,options) {
 						victories:d.values[p.team]
 					}
 				}))
+			});
+
+	svg.on("mousemove",function(d){
+				var x=d3.mouse(this)[0];
+
+				x=Math.min(WIDTH-margins.right,x);
+				var series=findBar(Math.round(xscale.invert(x-margins.left)))
+				
+				if(series) {
+					
+					var status=data.find(function(d){
+						return +d.values.date == +series.date;
+					});
+
+					tooltip.show(series,xscale(series.date),0,status);//yscale.range()[0]);
+					highlightSeries(series.date);
+				}
+				
+
 			})
+			.on("mouseleave",function(d){
+				highlightSeries();
+				tooltip.hide();
+			})
+
+	function findBar(x) {
+		//console.log(x,new Date(x))
+		var i=0,
+			bar=options.series.find(function(d){
+				return d.date>=x;
+			});
+
+		
+		return bar;
+	}
+	
+	var series=period.filter(function(d,i){
+		//console.log(1)
+		return i%2;
+	}).selectAll("g.series")
+		.data(options.series)
+		.enter()
+			.append("g")
+			.attr("class","series")
+			.attr("transform",function(d){
+				//console.log(d)
+				return "translate("+xscale(d.date)+",0)";
+			})
+			.on("mouseenter",function(d){
+				tooltip.show(d,xscale(d.key),100);
+			})
+			.append("line")
+				.attr("x1",0)
+				.attr("y1",function(s){
+					var status=data.find(function(d){
+						return +d.values.date == +s.date;
+					});
+					return yscale(Math.max(status.values["EN"],status.values["AU"]))+1;
+				})
+				.attr("x2",0)
+				.attr("y2",function(s){
+					return yscale.range()[0]+4;
+					/*var status=data.find(function(d){
+						return +d.values.date == +s.date;
+					});
+					return yscale(status.values["AU"])*/
+				})
+	function highlightSeries(date) {
+		if(!date) {
+			series.classed("highlight",false);
+		}
+		series.classed("highlight",function(d){
+			return +d.date == +date;
+		});
+	}
+
 	teams.append("text")
 			.attr("class","status")
 			.attr("x",function(d){
@@ -281,6 +363,82 @@ function LineChart(data,options) {
 		axis.select("text.ww2")
 				.attr("x",xscale(periods[1].values[periods[1].values.length-1].values.date));
 				
+	}
+
+	/*
+		  __________  ____  __  ______________ 
+		 /_  __/ __ \/ __ \/ / /_  __/  _/ __ \
+		  / / / / / / / / / /   / /  / // /_/ /
+		 / / / /_/ / /_/ / /___/ / _/ // ____/ 
+		/_/  \____/\____/_____/_/ /___/_/      
+		                                       
+	*/
+
+
+
+	function Tooltip(options) {
+
+		var w=options.width || 200,
+			h=options.height || 110;
+
+		////////console.log("!!!!!!!!!!!",options)
+
+		var tooltip=d3.select(options.container)
+						.append("div")
+							.attr("class","tooltip")
+
+		var series_status=tooltip.append("p").attr("class","status"),
+			date=tooltip.append("span").attr("class","date"),
+			location=tooltip.append("span").attr("class","date"),
+			result=tooltip.append("h1");
+
+		this.hide=function() {
+			tooltip.classed("visible",false);
+		}
+		this.show=function(series,x,y,status) {
+
+			
+
+			var d=series;
+			
+			var w=(series.Winner==series.Team)?series.Won:series.Lost,
+				l=(series.Winner==series.Team)?series.Lost:series.Won,
+				winner=series.Winner;
+
+			if(winner=="drawn"){
+
+			} else if(winner=="ongoing") {
+				winner="in progress "+w+" - "+l;
+			} else {				
+				winner=options.teams[series.Winner]+" won "+w+" - "+l;
+			}
+
+			//console.log(status)
+
+			if(status) {
+				series_status.html("<b class=\"EN\">"+status.values["EN"]+"</b> - <b class=\"AU\">"+status.values["AU"]+"</b>")	
+			} else {
+				series_status.html("&nbsp;")
+			}
+			
+			date.text(series.Year.replace("/"," - "))
+			location.text("Tour of "+options.teams[d.tour[0]]+" in "+options.teams[d.tour[1]])
+			result.text(winner);
+
+			//console.log(x-10)
+
+			if(x+160 > WIDTH - margins.right) {
+				x-= 190;// + options.margins.right + 20*2);
+			}
+
+			tooltip.style({
+				left:(x+10+options.margins.left)+"px",
+				bottom:(options.margins.bottom)+"px"
+			})
+			.classed("visible",true)
+			
+		}
+
 	}
 }
 

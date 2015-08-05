@@ -1,6 +1,6 @@
 //http://visuals.guim.co.uk/testing/uk/example/
 
-//var detect = require('./js/utils/detect');
+var detect = require('./js/utils/detect');
 var dataUtils = require('./js/utils/data');
 var queue=require("queue-async");
 var d3=require('d3');
@@ -119,6 +119,11 @@ queue()
     	//d3.select(el).html(base); //d3 way.....
     	el.innerHTML=base;
 
+    	if(detect.hasTouchScreen()) {
+    		document.querySelector("body").className += " is-touch";	
+    	}
+    	
+
     	aggregates_data.reverse().forEach(function(d,i){
     		d.index=i;
     	})
@@ -160,6 +165,7 @@ queue()
 		
     	
     	var linechart=new LineChart(ashes_data,{
+    		series:series_data,
 			container:"#timeline",
 			teams:{
 					"EN":"England",
